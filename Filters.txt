@@ -1,2 +1,4 @@
 google.*##a[href*="wrestlinginc.com"]:nth-ancestor(2)
 google.*##a[href*="wrestlezone.com"]:nth-ancestor(2)
+google.*##a[href*="wrestlinginc.com"]:nth-ancestor(2)
+google.*##a[href*="wrestlezone.com"]:nth-ancestor(2)
