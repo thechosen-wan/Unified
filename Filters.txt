@@ -8,5 +8,5 @@ google.*##a[href*="nodq.com"]:nth-ancestor(2)
 google.*##a[href*="wrestlingheadlines.com"]:nth-ancestor(2)
 google.*##a[href*="f4wonline.com"]:nth-ancestor(2)
 google.*##a[href*="wrestlezone.com"]:nth-ancestor(2)
-
-
+google.*##a[href*="411mania.com"]:nth-ancestor(2)
+google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
