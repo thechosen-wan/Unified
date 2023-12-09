@@ -23,3 +23,4 @@ www9.pornhd3x.tv###footer
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###pagination > nav > ul.pagination
 www9.pornhd3x.tv###movie-featured
+pornhub.com##footer.js-mainFooter:nth-child(27)
