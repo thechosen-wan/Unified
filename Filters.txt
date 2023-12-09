@@ -1,4 +1,12 @@
+google.*##a[href*="ringsidenews.com"]:nth-ancestor(2)
+google.*##a[href*="wrestletalk.com"]:nth-ancestor(2)
+google.*##a[href*="pwtorch.com"]:nth-ancestor(2)
 google.*##a[href*="wrestlinginc.com"]:nth-ancestor(2)
+google.*##a[href*="ewrestlingnews.com"]:nth-ancestor(2)
+google.*##a[href*="cultaholic.com"]:nth-ancestor(2)
+google.*##a[href*="nodq.com"]:nth-ancestor(2)
+google.*##a[href*="wrestlingheadlines.com"]:nth-ancestor(2)
+google.*##a[href*="f4wonline.com"]:nth-ancestor(2)
 google.*##a[href*="wrestlezone.com"]:nth-ancestor(2)
-google.*##a[href*="wrestlinginc.com"]:nth-ancestor(2)
-google.*##a[href*="wrestlezone.com"]:nth-ancestor(2)
+
+
