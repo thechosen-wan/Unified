@@ -4,6 +4,7 @@ pornhub.com###related-videos
 pornhub.com###comments
 pornhub.com###tabFilters
 pornhub.com###mobileNavigation
+pornhub.com##footer.js-mainFooter:nth-child(27)
 pornhub.com###singleFeedSection > div.pagination:last-child > div.pagination3.paginationGated:last-child
 spankbang.com###video > div.tab_similar:nth-child(13)
 spankbang.com###home > div.scroll_list:nth-child(18)
@@ -26,4 +27,3 @@ www9.pornhd3x.tv###footer
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###pagination > nav > ul.pagination
 www9.pornhd3x.tv###movie-featured
-pornhub.com##footer.js-mainFooter:nth-child(27)
