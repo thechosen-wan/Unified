@@ -70,4 +70,4 @@ google.*##a[href*="railuk.com"]:nth-ancestor(2)
 google.*##a[href*="bleedingcool.com"]:nth-ancestor(2)
 google.*##a[href*="learn.microsoft.com/en-us/deployedge"]:nth-ancestor(2)
 google.*##a[href*="reddit.com/r/SCJerk"]:nth-ancestor(2)
-wrestling forum . com
+wrestling forum . com and streaming services rant
