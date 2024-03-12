@@ -1,4 +1,5 @@
 google.*##a[href*="claystage.com"]:nth-ancestor(2)
+google.*##a[href*="wrestlingforum.com"]:nth-ancestor(2)
 google.*##a[href*="ringsidenews.com"]:nth-ancestor(2)
 google.*##a[href*="wrestletalk.com"]:nth-ancestor(2)
 google.*##a[href*="pwtorch.com"]:nth-ancestor(2)
