@@ -25,6 +25,7 @@ m.hqporner.com##div.websiteWrapper:nth-child(2) > div.homeSearchWrapper:nth-chil
 m.hqporner.com##div.websiteWrapper:nth-child(2) > div:last-child
 m.hqporner.com##div.websiteWrapper:nth-child(2) > div.pageWrapper.homePageWrapper:nth-child(2) > div.homeSearchWrapper:first-child
 www9.pornhd3x.tv###footer
+www9.pornhd3x.tv###main
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###pagination > nav > ul.pagination
 www9.pornhd3x.tv###movie-featured
