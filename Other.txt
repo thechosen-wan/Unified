@@ -6,6 +6,7 @@ pornhub.com###tabFilters
 pornhub.com###mobileNavigation
 pornhub.com##footer.js-mainFooter:nth-child(27)
 pornhub.com###singleFeedSection > div.pagination:last-child > div.pagination3.paginationGated:last-child
+google.*##a[href*="www.pornhub.com"]:nth-ancestor(2)
 spankbang.com###video > div.tab_similar:nth-child(13)
 spankbang.com###home > div.scroll_list:nth-child(18)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(16)
