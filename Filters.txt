@@ -105,6 +105,7 @@ google.*##a[href*="reddit.com/r/SCJerk"]:nth-ancestor(2)
 google.*##a[href*="wrestlingforum.com"]:nth-ancestor(2)
 google.*##a[href*="reddit.com/r/SquaredCircle"]:nth-ancestor(2)
 google.*##a[href*="reddit.com/r/AEWOfficial"]:nth-ancestor(2)
+google.*##a[href*="reddit.com/r/Wrasslin"]:nth-ancestor(2)
 !Other
 google.*##a[href*="claystage.com"]:nth-ancestor(2)
 google.*##a[href*="instagram.com"]:nth-ancestor(2)
