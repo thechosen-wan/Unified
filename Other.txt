@@ -3,6 +3,13 @@ pornhub.com###footer
 pornhub.com###related-videos
 pornhub.com###comments
 pornhub.com###tabFilters
+spankbang.com###header_bar > div.top-wrapper:first-child
+spankbang.com###video > div.tab_comments.main_content_container.space-y.mt-1:last-child
+spankbang.com###video > div.main_content_container.space-y.mt-1:nth-child(11)
+spankbang.com###video > div.main_content_container.mt-1:nth-child(8)
+spankbang.com###video > div.tab_similar.space-y-1\.5.mt-1:nth-child(10)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:last-child
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(3) > div.show-more-button-container.mt-1\.5:last-child
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(8)
 spankbang.com###home > div.ft-button.ft-grad.more_videos:nth-child(9)
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(11)
