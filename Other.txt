@@ -3,16 +3,6 @@ pornhub.com###footer
 pornhub.com###related-videos
 pornhub.com###comments
 pornhub.com###tabFilters
-spankbang.com###header_bar > div.top-wrapper:first-child
-spankbang.com###video > div.tab_comments.main_content_container.space-y.mt-1:last-child
-spankbang.com###video > div.main_content_container.space-y.mt-1:nth-child(11)
-spankbang.com###video > div.main_content_container.mt-1:nth-child(8)
-spankbang.com###video > div.tab_similar.space-y-1\.5.mt-1:nth-child(10)
-spankbang.com###home > section.main_content_container.space-y.mt-1\.5:last-child
-spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(3) > div.show-more-button-container.mt-1\.5:last-child
-spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(8)
-spankbang.com###home > div.ft-button.ft-grad.more_videos:nth-child(9)
-spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(11)
 pornhub.com###mobileHeader > nav > div.topNav.clearfix > div.logoWrapper:nth-child(2)
 pornhub.com###singleFeedSection > div.homeSection.newHomePage:first-child > div.sectionTitle.trendingPillsTitle:first-child
 pornhub.com##footer.js-mainFooter:nth-child(28)
@@ -36,13 +26,22 @@ spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(21)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:last-child
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(7)
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(6)
+spankbang.com###header_bar > div.top-wrapper:first-child
+spankbang.com###video > div.tab_comments.main_content_container.space-y.mt-1:last-child
+spankbang.com###video > div.main_content_container.space-y.mt-1:nth-child(11)
+spankbang.com###video > div.main_content_container.mt-1:nth-child(8)
+spankbang.com###video > div.tab_similar.space-y-1\.5.mt-1:nth-child(10)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:last-child
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(3) > div.show-more-button-container.mt-1\.5:last-child
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(8)
+spankbang.com###home > div.ft-button.ft-grad.more_videos:nth-child(9)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(11)
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(10)
 spankbang.com###home > section.main_content_container.space-y-0\.75.mt-1\.5:nth-child(4)
 spankbang.com###home > div.main_content_container.space-y.mt-1\.5:nth-child(5)
 spankbang.com###bottom_nav > div.top_nav:first-child
 spankbang.com###home > section.main_content_container.space-y:first-child
 spankbang.com###home > div.main_content_container.mt-1\.5:nth-child(2)
-imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div:nth-child(7) > div.BottomRecirc
 spankbang.com###bottom_nav
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
