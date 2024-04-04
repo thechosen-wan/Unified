@@ -3,6 +3,10 @@ pornhub.com###footer
 pornhub.com###related-videos
 pornhub.com###comments
 pornhub.com###tabFilters
+pornhub.com##footer.js-mainFooter:nth-child(21)
+pornhub.com###singleFeedSection > div.pagination:last-child > div.pagination3.paginationGated:last-child
+pornhub.com###singleFeedSection > div.homeSection.newHomePage:first-child > ul.trendingNowWrapper:last-child
+pornhub.com##footer.js-mainFooter:nth-child(2)
 pornhub.com###mobileNavigation
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(2)
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(3)
