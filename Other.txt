@@ -3,6 +3,9 @@ pornhub.com###footer
 pornhub.com###related-videos
 pornhub.com###comments
 pornhub.com###tabFilters
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(8)
+spankbang.com###home > div.ft-button.ft-grad.more_videos:nth-child(9)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(11)
 pornhub.com###mobileHeader > nav > div.topNav.clearfix > div.logoWrapper:nth-child(2)
 pornhub.com###singleFeedSection > div.homeSection.newHomePage:first-child > div.sectionTitle.trendingPillsTitle:first-child
 pornhub.com##footer.js-mainFooter:nth-child(28)
