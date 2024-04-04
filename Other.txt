@@ -21,6 +21,9 @@ spankbang.com###home > div.scroll_list:nth-child(18)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(16)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(21)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:last-child
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(7)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(6)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(10)
 spankbang.com###home > section.main_content_container.space-y-0\.75.mt-1\.5:nth-child(4)
 spankbang.com###home > div.main_content_container.space-y.mt-1\.5:nth-child(5)
 spankbang.com###bottom_nav > div.top_nav:first-child
