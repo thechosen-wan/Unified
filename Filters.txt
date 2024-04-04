@@ -36,6 +36,8 @@ google.*##a[href*="t3.com"]:nth-ancestor(2)
 google.*##a[href*="digitaltrends.com"]:nth-ancestor(2)
 google.*##a[href*="tvtropes.org"]:nth-ancestor(2)
 google.*##a[href*="bgr.com"]:nth-ancestor(2)
+google.*##a[href*="youtube.com/channel/UCSOpcUkE-is7u7c4AkLgqTw"]:nth-ancestor(2)
+google.*##a[href*="youtube.com/@TheMrMobile"]:nth-ancestor(2)
 !Graps
 google.*##a[href*="prowrestlingpost.com"]:nth-ancestor(2)
 google.*##a[href*="https://www.cagesideseats.com/"]:nth-ancestor(2)
