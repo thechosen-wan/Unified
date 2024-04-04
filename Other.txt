@@ -17,7 +17,6 @@ pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-ch
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(5)
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(6)
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(7)
-theguardian.com##footer.dcr-yvt6mp:nth-child(16) > div.dcr-qr1v4x > div.dcr-1hnl185
 google.*##a[href*="www.pornhub.com"]:nth-ancestor(2)
 spankbang.com###video > div.tab_similar:nth-child(13)
 spankbang.com###home > div.scroll_list:nth-child(18)
