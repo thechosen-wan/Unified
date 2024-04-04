@@ -109,6 +109,8 @@ google.*##a[href*="https://twitter.com/WWE"]:nth-ancestor(2)
 google.*##a[href*="https://twitter.com/WillOspreay"]:nth-ancestor(2)
 google.*##a[href*="https://twitter.com/TonyKhan"]:nth-ancestor(2)
 google.*##a[href*="https://twitter.com/DeonnaPurrazzo"]:nth-ancestor(2)
+google.*##a[href*="https://twitter.com/search/tna"]:nth-ancestor(2)
+google.*##a[href*="https://twitter.com/search/aew"]:nth-ancestor(2)
 !Reddit
 google.*##a[href*="reddit.com/r/AEWFightForever"]:nth-ancestor(2)
 google.*##a[href*="reddit.com/r/AEWGames"]:nth-ancestor(2)
