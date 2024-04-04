@@ -21,9 +21,8 @@ spankbang.com###home > div.scroll_list:nth-child(18)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(16)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(21)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:last-child
-spankbang.com###home > div.video-list.video-rotate:nth-child(25)
-spankbang.com###header_bar
 spankbang.com###bottom_nav
+google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
 xmoviesforyou.com###sidebar
 xmoviesforyou.com###sidebar-home
