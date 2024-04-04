@@ -42,6 +42,8 @@ spankbang.com###bottom_nav > div.top_nav:first-child
 spankbang.com###home > section.main_content_container.space-y:first-child
 spankbang.com###home > div.main_content_container.mt-1\.5:nth-child(2)
 spankbang.com###bottom_nav
+google.*##a[href*="spankbang.run"]:nth-ancestor(2)
+google.*##a[href*="spankbang.party"]:nth-ancestor(2)
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pagi:nth-child(5)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(3)
