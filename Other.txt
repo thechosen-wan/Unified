@@ -44,14 +44,12 @@ spankbang.com###home > section.main_content_container.space-y:first-child
 spankbang.com###home > div.main_content_container.mt-1\.5:nth-child(2)
 spankbang.com###bottom_nav
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pagi:nth-child(5)
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.footerWrapper:nth-child(18)
+google.*##a[href*="hqporner.com"]:nth-ancestor(2)
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
 xmoviesforyou.com###sidebar
 xmoviesforyou.com###sidebar-home
 xmoviesforyou.com###main > div.pagination:last-child
 xmoviesforyou.com###branding
-m.hqporner.com##div.websiteWrapper:nth-child(2) > div.pagi:nth-child(5)
-m.hqporner.com##div.websiteWrapper:nth-child(2) > div.homeSearchWrapper:nth-child(8)
-m.hqporner.com##div.websiteWrapper:nth-child(2) > div:last-child
-m.hqporner.com##div.websiteWrapper:nth-child(2) > div.pageWrapper.homePageWrapper:nth-child(2) > div.homeSearchWrapper:first-child
-m.hqporner.com##div.websiteWrapper:nth-child(2)
 www9.pornhd3x.tv###footer
