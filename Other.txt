@@ -44,6 +44,11 @@ spankbang.com###home > div.main_content_container.mt-1\.5:nth-child(2)
 spankbang.com###bottom_nav
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pagi:nth-child(5)
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(3)
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div.homeSearchWrapper:first-child > div:first-child
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(5)
+m.hqporner.com##div.websiteWrapper:nth-child(3) > div.homeSearchWrapper:nth-child(8)
+m.hqporner.com##div.websiteWrapper:nth-child(2) > div.footerWrapper:nth-child(15)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.footerWrapper:nth-child(18)
 google.*##a[href*="hqporner.com"]:nth-ancestor(2)
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
