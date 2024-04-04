@@ -47,6 +47,9 @@ google.*##a[href*="spankbang.party"]:nth-ancestor(2)
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pagi:nth-child(5)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(3)
+m.hqporner.com##div.websiteWrapper:nth-child(2) > div:last-child > div:nth-child(2)
+m.hqporner.com##div.footerWrapper:nth-child(14)
+m.hqporner.com##div.websiteWrapper:nth-child(2) > div.homeSearchWrapper:nth-child(2) > div:first-child
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div.homeSearchWrapper:first-child > div:first-child
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(5)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.homeSearchWrapper:nth-child(8)
