@@ -18,6 +18,7 @@ pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-ch
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(6)
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(7)
 google.*##a[href*="www.pornhub.com"]:nth-ancestor(2)
+spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(3)
 spankbang.com###video > div.tab_similar:nth-child(13)
 spankbang.com###home > div.scroll_list:nth-child(18)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(16)
