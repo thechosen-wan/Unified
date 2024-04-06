@@ -62,6 +62,7 @@ xmoviesforyou.com###sidebar-home
 xmoviesforyou.com###main > div.pagination:last-child
 xmoviesforyou.com###branding
 www9.pornhd3x.tv###footer
+www9.pornhd3x.tv###main
 www9.pornhd3x.tv###switch-mode
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###main > div.container:first-child > div.main-content
