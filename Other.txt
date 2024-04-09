@@ -1,4 +1,5 @@
 stripchat.com
+!PH
 pornhub.com###footer
 pornhub.com###related-videos
 pornhub.com###comments
@@ -18,6 +19,7 @@ pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-ch
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(6)
 pornhub.com###singleFeedSection > ul.videoList.clearfix.latestThumbDesign:nth-child(7)
 google.*##a[href*="www.pornhub.com"]:nth-ancestor(2)
+!SB
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(3)
 spankbang.com###video > div.tab_similar:nth-child(13)
 spankbang.com###home > div.scroll_list:nth-child(18)
@@ -43,9 +45,10 @@ spankbang.com###bottom_nav > div.top_nav:first-child
 spankbang.com###home > section.main_content_container.space-y:first-child
 spankbang.com###home > div.main_content_container.mt-1\.5:nth-child(2)
 spankbang.com###bottom_nav
+google.*##a[href*="spankbang.com"]:nth-ancestor(2)
 google.*##a[href*="spankbang.run"]:nth-ancestor(2)
 google.*##a[href*="spankbang.party"]:nth-ancestor(2)
-google.*##a[href*="spankbang.com"]:nth-ancestor(2)
+!HQ
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pagi:nth-child(5)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrapper:nth-child(2) > div:nth-child(3)
 m.hqporner.com##div.websiteWrapper:nth-child(2) > div:last-child > div:nth-child(2)
@@ -57,15 +60,18 @@ m.hqporner.com##div.websiteWrapper:nth-child(3) > div.homeSearchWrapper:nth-chil
 m.hqporner.com##div.websiteWrapper:nth-child(2) > div.footerWrapper:nth-child(15)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.footerWrapper:nth-child(18)
 google.*##a[href*="hqporner.com"]:nth-ancestor(2)
+!XM
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
 xmoviesforyou.com###sidebar
 xmoviesforyou.com###sidebar-home
 xmoviesforyou.com###main > div.pagination:last-child
 xmoviesforyou.com###branding
+!3X
 www9.pornhd3x.tv###footer
 www9.pornhd3x.tv###main
 www9.pornhd3x.tv###switch-mode
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###main > div.container:first-child > div.main-content
-google.*##a[href*="spankbang.com"]:nth-ancestor(2)
+google.*##a[href*="pornhd3x.tv"]:nth-ancestor(2)
+!Keywords
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bRiley Reid\b/i))
