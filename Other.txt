@@ -68,3 +68,4 @@ www9.pornhd3x.tv###switch-mode
 www9.pornhd3x.tv##header:nth-child(3)
 www9.pornhd3x.tv###main > div.container:first-child > div.main-content
 google.*##a[href*="spankbang.com"]:nth-ancestor(2)
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bRiley Reid\b/i))
