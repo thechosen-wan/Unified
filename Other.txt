@@ -88,8 +88,12 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bB
 pornx.ai
 https://www.google.com/search?q=Porn
 google.*##a[href*="xnxx.com"]:nth-ancestor(2)
+google.*##a[href*="xvideos.com"]:nth-ancestor(2)
 google.*##a[href*="onlyfans.com"]:nth-ancestor(2)
+google.*##a[href*="redtube.com"]:nth-ancestor(2)
 google.*##a[href*="xhamster.com"]:nth-ancestor(2)
+google.*##a[href*="eporner.com"]:nth-ancestor(2)
+google.*##a[href*="porntrex.com"]:nth-ancestor(2)
 google.*##a[href*="youporn.com"]:nth-ancestor(2)
 google.*##a[href*="noodlemagazine.com"]:nth-ancestor(2)
 google.*##a[href*="tnaflix.com"]:nth-ancestor(2)
