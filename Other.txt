@@ -82,4 +82,5 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bA
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bRae Lil Black\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMia Khalifa\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBlake Blossom\b/i))
+pornx.ai
 https://www.google.com/search?q=Porn
