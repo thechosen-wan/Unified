@@ -75,6 +75,8 @@ www9.pornhd3x.tv###main > div.container:first-child > div.main-content
 google.*##a[href*="pornhd3x.tv"]:nth-ancestor(2)
 !Keywords
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bRiley Reid\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bRiley Reid\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMadison Ivy\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMadison Ivy\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMia Malkova\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bEva Lovia\b/i))
