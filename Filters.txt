@@ -110,6 +110,7 @@ google.*##a[href*="njpw1972.com"]:nth-ancestor(2)
 google.*##a[href*="https://en.wikipedia.org/wiki/All_Elite_Wrestling"]:nth-ancestor(2)
 google.*##a[href*="https://en.wikipedia.org/wiki/Total_Nonstop_Action_Wrestling"]:nth-ancestor(2)
 google.*##a[href*="https://en.wikipedia.org/wiki/WWE"]:nth-ancestor(2)
+google.*##a[href*="smarkoutmoment.com"]:nth-ancestor(2)
 !Twitter
 google.*##a[href*="https://twitter.com/Mrwhosetheboss"]:nth-ancestor(2)
 google.*##a[href*="https://twitter.com/ChibiReviews"]:nth-ancestor(2)
