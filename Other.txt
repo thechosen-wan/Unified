@@ -84,4 +84,5 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bM
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBlake Blossom\b/i))
 pornx.ai
 https://www.google.com/search?q=Porn
+google.*##a[href*="xnxx.com"]:nth-ancestor(2)
 google.*##a[href*="onlyfans.com"]:nth-ancestor(2)
