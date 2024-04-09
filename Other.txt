@@ -26,6 +26,7 @@ spankbang.com###home > div.scroll_list:nth-child(18)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(16)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:nth-child(21)
 spankbang.com###home > a.ft-button.ft-grad.more_videos:last-child
+spankbang.com###home\ mt-1\.5 > div.videos
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(7)
 spankbang.com###home > section.main_content_container.space-y.mt-1\.5:nth-child(6)
 spankbang.com###header_bar > div.top-wrapper:first-child
@@ -88,3 +89,7 @@ pornx.ai
 https://www.google.com/search?q=Porn
 google.*##a[href*="xnxx.com"]:nth-ancestor(2)
 google.*##a[href*="onlyfans.com"]:nth-ancestor(2)
+google.*##a[href*="xhamster.com"]:nth-ancestor(2)
+google.*##a[href*="youporn.com"]:nth-ancestor(2)
+google.*##a[href*="noodlemagazine.com"]:nth-ancestor(2)
+google.*##a[href*="tnaflix.com"]:nth-ancestor(2)
