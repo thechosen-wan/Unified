@@ -156,6 +156,8 @@ google.*##a[href*="https://socialblade.com"]:nth-ancestor(2)
 google.*##a[href*="https://letterboxd.com"]:nth-ancestor(2)
 google.*##a[href*="https://www.youtube.com/user/penguinz0"]:nth-ancestor(2)
 google.*##a[href*="https://www.youtube.com/@penguinz0"]:nth-ancestor(2)
+google.*##a[href*="https://www.youtube.com/channel/UCfGmaA-nXPryTfimsnkLieQ"]:nth-ancestor(2)
+google.*##a[href*="https://www.youtube.com/@ChibiReviews"]:nth-ancestor(2)
 !Rail
 google.*##a[href*="railforums.co.uk"]:nth-ancestor(2)
 google.*##a[href*="railengineer.co.uk"]:nth-ancestor(2)
