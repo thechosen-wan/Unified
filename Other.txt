@@ -60,6 +60,7 @@ m.hqporner.com##div.websiteWrapper:nth-child(3) > div.pageWrapper.homePageWrappe
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.homeSearchWrapper:nth-child(8)
 m.hqporner.com##div.websiteWrapper:nth-child(2) > div.footerWrapper:nth-child(15)
 m.hqporner.com##div.websiteWrapper:nth-child(3) > div.footerWrapper:nth-child(18)
+m.hqporner.com##div.websiteWrapper:nth-child(3)
 google.*##a[href*="hqporner.com"]:nth-ancestor(2)
 !XM
 xmoviesforyou.com###post-640869 > footer.entry-meta:last-child
