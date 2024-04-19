@@ -9,6 +9,8 @@ google.*##a[href*="comingsoon.net"]:nth-ancestor(2)
 google.*##a[href*="foxnews.com"]:nth-ancestor(2)
 google.*##a[href*="youtube.fandom.com"]:nth-ancestor(2)
 google.*##a[href*="belmontfilmhouse.com"]:nth-ancestor(2)
+google.*##a[href*="reddit.com/r/Piracy"]:nth-ancestor(2)
+
 !Tech
 google.*##a[href*="appleinsider"]:nth-ancestor(2)
 google.*##a[href*="ispreview.co.uk"]:nth-ancestor(2)
