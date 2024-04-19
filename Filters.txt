@@ -185,6 +185,7 @@ google.*##a[href*="ianvisits.co.uk"]:nth-ancestor(2)
 google.*##a[href*="railuk.com"]:nth-ancestor(2)
 google.*##a[href*="railmagazine.com"]:nth-ancestor(2)
 !Games
+google.*##a[href*="sudoku.com"]:nth-ancestor(2)
 google.*##a[href*="wordlewebsite.com"]:nth-ancestor(2)
 google.*##a[href*="wordleunlimited.org"]:nth-ancestor(2)
 google.*##a[href*="wordle-2.com"]:nth-ancestor(2)
