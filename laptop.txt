@@ -64,6 +64,7 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bB
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBundesliga\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDLR\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDragon Ball\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDrew Mcintyre\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFrieren\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S23\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S24\b/i))
