@@ -432,3 +432,4 @@ amazon.co.uk###gw-layout
 amazon.co.uk###rhf-container
 !Amazon 🔃🔃🔃🔃🔃🔃🔃
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2)
+icas.com##footer
