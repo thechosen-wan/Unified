@@ -1,4 +1,5 @@
 youtube.com##.cbShowOriginalImage, .cbAutoFormat
+youtube.com###title > div.cbTitleButtonContainer:last-child
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
