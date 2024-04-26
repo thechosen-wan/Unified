@@ -502,4 +502,4 @@ disneyplus.com###footer
 premierleague.com##footer.mainFooter:nth-child(6)
 tntsports.co.uk###footer
 bing.com###id_rh
-theguardian.com##foote
+theguardian.com##footer
