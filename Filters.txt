@@ -1,4 +1,5 @@
 youtube.com##.cbShowOriginalImage, .cbAutoFormat
+premierleague.com##footer
 youtube.com###title > div.cbTitleButtonContainer:last-child
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
