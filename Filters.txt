@@ -224,6 +224,7 @@ google.*##a[href*="livesudoku.com"]:nth-ancestor(2)
 google.*##a[href*="mobilityware.com"]:nth-ancestor(2)
 google.*##a[href*="https://www.google.co.uk/logos/fnbx/solitaire"]:nth-ancestor(2)
 !Anime
+google.*##a[href*="youtube.com/watch?v=-jGBp5HBLFs"]:nth-ancestor(2)
 google.*##a[href*="https://www.animenewsnetwork.com"]:nth-ancestor(2)
 google.*##a[href*="https://anilist.co"]:nth-ancestor(2)
 google.*##a[href*="https://aminoapps.com"]:nth-ancestor(2)
