@@ -425,6 +425,8 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/CNBC Television|George 
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Scott The Woz|Sipover/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Leeds United|Adult Swim/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/sabh001|Simon K/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Rich Rebuilds|Saberspark/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/General Sam|Jurassic World/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Model Railways and Me|Railcam/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Bernard Hits|OWRailwaysUK/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Tom Swearingen|Francis Bourgeois/)
