@@ -321,6 +321,7 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bmusic video\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bOfficial Video\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPokemon\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPower Rangers\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPixel 8\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bRoblox\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bRumor\b/i))
