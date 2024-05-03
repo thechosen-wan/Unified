@@ -90,6 +90,7 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bN
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\official video\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bOne Piece\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPokemon\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPower Rangers\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bSamsung\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bshorts\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFire Force\b/i))
