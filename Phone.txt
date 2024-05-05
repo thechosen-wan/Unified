@@ -50,6 +50,8 @@ m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bASMR\b/i))
 !Keyword Home Block 🏡🏡🏡🏡🏡🏡🏡
 m.youtube.com##ytm-rich-item-renderer:has-text(/ULTRA HAZE|YeahMad/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/Joshua Chang|Pete Matheson/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/Oliur|Mrwhosetheboss/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Wandering Turnip|Wendall/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/THE RACE|FORMULA 1/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/CM Punk|WCW/)
