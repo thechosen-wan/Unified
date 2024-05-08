@@ -1,9 +1,14 @@
 !YTM
+music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(3)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(4)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(5)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(6)
+music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(7)
+music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(8)
+music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(9)
+music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(10)
 google.com###kp-wp-tab-overview
 ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
