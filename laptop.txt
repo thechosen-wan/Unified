@@ -14,6 +14,7 @@ music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmus
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(13)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(14)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(15)
+music.youtube.com###background > ytmusic-fullbleed-thumbnail-renderer.style-scope.ytmusic-browse-response > picture.style-scope.ytmusic-fullbleed-thumbnail-renderer > img.image.style-scope.ytmusic-fullbleed-thumbnail-renderer:last-child
 google.com###kp-wp-tab-overview
 ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
