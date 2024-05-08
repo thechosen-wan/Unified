@@ -1,3 +1,6 @@
+google.com###kp-wp-tab-overview
+ee.co.uk###fef-footer
+www.youtube.com###cinematics.ytd-watch-flexy:remove()
 ! 2024-03-05 https://discord.com
 discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
 discord.com##div.listItem_fa7b36:nth-of-type(7) > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject
