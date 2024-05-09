@@ -758,6 +758,7 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/Carthu's Dojo|We R Wres
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Maven Huffman|Six Feet Under with Mark Calaway/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Clarkson's Farm|Nas & DJ Premier/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/wellworks|PlayerEssence/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Illumination|ArrDee/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Jesse Grant|The Graham Norton Show/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Slat Rock Wrestling|TechWiser/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Real Take Wrestling|BeatEmUps/)
