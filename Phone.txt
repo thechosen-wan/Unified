@@ -371,6 +371,7 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/Riku Fryderyk|GWVillage
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Forrest Galante|Animal Planet/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Half as Interesting|Ali Dawah/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/CarynandConnieGaming|AuzioMF Gaming/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Nightcap|The Beatles/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/SBSKPOP X INKIGAYO|Mixtape Madness/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Drew Dirksen|Crispy Concords/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Shakira|World Surf League/)
