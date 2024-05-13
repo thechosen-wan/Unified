@@ -15,6 +15,28 @@ music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmus
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(14)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(15)
 music.youtube.com###background > ytmusic-fullbleed-thumbnail-renderer.style-scope.ytmusic-browse-response > picture.style-scope.ytmusic-fullbleed-thumbnail-renderer > img.image.style-scope.ytmusic-fullbleed-thumbnail-renderer:last-child
+!LBC
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child > a.style_link__ZZzZf:last-child
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(8)
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(6)
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(7)
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(4)
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(8)
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(7)
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(6)
+globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(4)
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div:nth-child(4) > div.style_contentPage__CNZSs.home_page__ZjqgC > div.home_blockContainer__TmwGO > div:nth-child(2) > div:last-child
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:first-child
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(2)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(3)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(4)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(5)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(6)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(7)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(8)
 google.com###kp-wp-tab-overview
 ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
