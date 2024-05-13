@@ -49,6 +49,7 @@ globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > di
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(18)
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(19)
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(20)
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:last-child
 google.com###kp-wp-tab-overview
 ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
