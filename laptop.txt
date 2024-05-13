@@ -50,6 +50,8 @@ globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > di
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(19)
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(20)
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:last-child
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.podcast_podcasts___7s73:nth-child(4) > div.style_headerPanel__wXMGP.podcast_heroHeader__JKVVc > div.carousel_carousel__7zUhe:last-child
+globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_contentPage__CNZSs.podcast_withHeroHeader__sYoIT:nth-child(5)
 google.com###kp-wp-tab-overview
 ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
