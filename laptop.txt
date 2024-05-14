@@ -110,6 +110,10 @@ twitter.com
 facebook.com
 macrumors.com
 !YT Search Words
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMan United\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bManchester United\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bChampions League\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPremier League\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAEW\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAndroid\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAshley Massaro\b/i))
