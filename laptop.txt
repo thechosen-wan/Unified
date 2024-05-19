@@ -1,4 +1,3 @@
-google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
 !YTM
