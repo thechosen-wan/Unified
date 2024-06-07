@@ -1,8 +1,18 @@
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel > div.banner-carousel
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child > div.col-12.no-gutter.pega-notifications > app-global-notifications > div.pega-banner > div > div.row.row-margin.rtd-banner
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3) > div.col-12.no-gutter.marginTop-50:last-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
+my.bt.com##app-root:first-child > div > app-faq:nth-child(6) > div.container.faq-container
+my.bt.com###aem-global-footer
+bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > section.bt-container.productIconsExtCust_iconWrapper__PzWOs:last-child > div.productIconsExtCust_iconTiles__0q8ns:nth-child(2)
+bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child
+bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
+!BT
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-watch.ambient-topbar:last-child > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs.fresh-feeds-dismissals:last-child > ytm-slim-video-metadata-section-renderer:nth-child(2) > ytm-slim-video-information-renderer:first-child > div.slim-video-metadata-header > div.slim-video-information-content.slim-video-information-empty-badge > div.slim-video-information-title-and-badges > h2.slim-video-information-title.slim-video-metadata-title-modern:first-child > div.cbTitleButtonContainer:last-child > button.cbSubmitButton.cbButton.cbMobileButton:last-child
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents > ytm-rich-section-renderer.rich-section-single-column:first-child > div.rich-section-content.fresh-feeds-dismissals > ytm-search-bar-entry-point-view-model > div.search-bar-entry-point-buttons:last-child > div.search-bar-entry-point-button.search-bar-entry-point-more-drawer-button:first-child
 binged.in
-youtube.com###comments
 youtube.com###related
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--fogBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
 ee.co.uk###fef-footer > div.lc.lc-ee > footer.global-footer
 imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div:nth-child(7) > div.BottomRecirc
 www.google.com/search?q=Samsung
@@ -1219,11 +1229,13 @@ m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > 
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-shelf-renderer.modern-typography.vertical-shelf-separators:nth-child(2)
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(2) > lazy-list > ytm-horizontal-card-list-renderer.item.modern-typography > div.horizontal-card-list-container
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:first-child > lazy-list > ytm-channel-featured-video-renderer.item > a
+m.youtube.com###player-endscreen
 https://www.google.com/search?q=mrwhosetheboss
 https://www.google.com/search?q=aew
 https://www.google.com/search?q=wwe
 google.*##a[href*="twitter.com"]:nth-ancestor(2)
 google.*##a[href*="tiktok.com"]:nth-ancestor(2)
+google.co.uk###main > div.JwzvB:last-child > div.bLgP0e:last-child
 bing.com
 duckduckgo.com
 advantage.icas.com##footer
