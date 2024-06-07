@@ -1,6 +1,3 @@
-youtube.com##.cbShowOriginalImage, .cbAutoFormat
-youtube.com###title > div.cbTitleButtonContainer:last-child
-
 premierleague.com##footer
 shop.yourheights.com###react-footer
 !News
