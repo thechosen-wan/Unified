@@ -1,5 +1,6 @@
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
+google.com###kp-wp-tab-overview
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -54,8 +55,6 @@ globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > di
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:last-child
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.podcast_podcasts___7s73:nth-child(4) > div.style_headerPanel__wXMGP.podcast_heroHeader__JKVVc > div.carousel_carousel__7zUhe:last-child
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_contentPage__CNZSs.podcast_withHeroHeader__sYoIT:nth-child(5)
-google.com###kp-wp-tab-overview
-www.youtube.com###cinematics.ytd-watch-flexy:remove()
 ! 2024-03-05 https://discord.com
 discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
 discord.com##div.listItem_fa7b36:nth-of-type(7) > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject
@@ -110,11 +109,8 @@ theverge.com
 twitter.com
 facebook.com
 macrumors.com
+www.youtube.com###cinematics.ytd-watch-flexy:remove()
 !YT Search Words
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMan United\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bManchester United\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bChampions League\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPremier League\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAEW\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAndroid\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAshley Massaro\b/i))
@@ -130,7 +126,9 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bD
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFrieren\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S23\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S24\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S25b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bIain Dale\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 17\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 18\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 13\b/i))
@@ -145,7 +143,6 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bL
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMacOS\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMacBook\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMarvel\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bmusic video\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMinecraft\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMost Searched Questions\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bNaruto\b/i))
@@ -359,7 +356,6 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bHuawei\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bHigh Speed 2\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bHS2\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bI bought the\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJohn Campea\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 17\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 18\b/i))
@@ -411,7 +407,6 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bSaturday Social\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bStar Wars\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bSWR \b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bTech Fails\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bTesla\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bTikTok\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bTNA\b/i))
