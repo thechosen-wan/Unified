@@ -55,7 +55,6 @@ globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > di
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.podcast_podcasts___7s73:nth-child(4) > div.style_headerPanel__wXMGP.podcast_heroHeader__JKVVc > div.carousel_carousel__7zUhe:last-child
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_contentPage__CNZSs.podcast_withHeroHeader__sYoIT:nth-child(5)
 google.com###kp-wp-tab-overview
-ee.co.uk###fef-footer
 www.youtube.com###cinematics.ytd-watch-flexy:remove()
 ! 2024-03-05 https://discord.com
 discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
@@ -471,15 +470,18 @@ rewards.bing.com###site-footer
 bing.com###vs_cont
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 digitalservices.bt.com###bt-footer
+!BBC
 www.bbc.co.uk##.layout__secondary-col--spaced.gel-1\/3\@l.gel-layout__item
 www.bbc.co.uk###features-label-aside-content
 www.bbc.co.uk###elsewhere-label-aside-content
 www.bbc.co.uk##.e1mcntqj1.ssrcss-1y7k614-FooterStack
+!MBP
 movieboxpro.app##.related
 movieboxpro.app##.trailer
 movieboxpro.app##.related_list
 movieboxpro.app##.footer
 movieboxpro.app##div.wrap:first-child > div.movie > div:nth-child(5) > div.top > span:last-child > a.download_apps:first-child
+!Netflix
 www.netflix.com##.member-footer
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 !Aniwatch
@@ -518,17 +520,9 @@ www.msn.com##.consumption-page-gridarea_action
 www.msn.com##div.left-image-intra-ad.ad-slot-placeholder.articlePageIntraArticleFullWidth
 www.msn.com###WeatherRightRail-ScreenWidth-c4
 www.msn.com##.newsContent-DS-EntryPoint1-1
-
-! 2024-03-05 https://github.com
-github.com##footer
-
-! 2024-03-06 https://gemini.google.com
+! Gemini
 gemini.google.com##upsell-button.ng-star-inserted
 gemini.google.com##.ng-star-inserted.footer-container
-
-! 2024-03-06 https://newsblur.com
-newsblur.com##.NB-splash-bottom.NB-splash-info
-
 !provisional - left card on yt channel
 www.youtube.com##.ytd-watch-card-section-sequence-renderer.style-scope > .ytd-vertical-watch-card-list-renderer.style-scope
 www.youtube.com##.ytd-universal-watch-card-renderer.style-scope > .ytd-watch-card-hero-video-renderer.style-scope.yt-simple-endpoint
@@ -537,21 +531,18 @@ youtube.com###contents > ytd-item-section-renderer.style-scope.ytd-section-list-
 ! games
 www.google.com##.sLe0gf
 www.google.com##.vuVjXe
-
-! 2024-03-24 https://photos.google.com
-photos.google.com##.B8qvqf
-google.*##a[href*="imdb.com"]:nth-ancestor(2)
-
+!Newsblur
 newsblur.com##div.NB-welcome-features
 newsblur.com##.NB-welcome-footer
 newsblur.com##.NB-welcome-activity
 newsblur.com##.NB-welcome-subfeatures
 newsblur.com##.NB-welcome-pricing
+newsblur.com##.NB-splash-bottom.NB-splash-info
 ||newsblur.com/media/img/welcome/header_background.jpg$image
 ||newsblur.com/media/img/welcome/header-web.png$image
 ||newsblur.com/media/img/welcome/header-ios.png$image
 ||newsblur.com/media/img/welcome/header-android.png$image
-ee.co.uk###fef-footer
+ee.co.uk###fef-footer#
 ee.co.uk##.lxp-Clarity
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
 ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
@@ -559,11 +550,13 @@ ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBac
 ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
 ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
 ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
+!Photos
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > div.h8plyb.HnzzId:nth-child(4) > c-wiz.yDSiEe.uGCjIb.zcLWac.eejsDc.TWmIyd:nth-child(3) > div.ggdFnf:first-child > c-wiz:nth-child(2) > div.B8qvqf:first-child
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.RSjvib.eejsDc:last-child > div.MrWjeb > div.poGHk:first-child > div.SHMIQd:nth-child(3) > a.oUj9s:last-child
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.SmZ4Wd.omBice:first-child > div.QtDoYb > div.FGHAHc.fIEMif:nth-child(2) > div.R8Z2bc > div.MX1n4c:last-child > div.J3TAe > span:nth-child(2)
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.RSjvib.eejsDc:last-child > div.MrWjeb > div.JJpMec:last-child
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.RSjvib.eejsDc:last-child > div.MrWjeb > div.poGHk:first-child > div.SHMIQd:nth-child(5) > a.oUj9s:nth-child(3) > div.U1Qaj > div.JgkFac:last-child
+!BT
 bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
 bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
@@ -573,9 +566,11 @@ my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
+!General
 lookmovie2.la##.telegram-link
 lookmovie2.la##.ht-footer
 disneyplus.com###footer
+github.com##footer
 premierleague.com##footer.mainFooter:nth-child(6)
 tntsports.co.uk###footer
 bing.com###id_rh
