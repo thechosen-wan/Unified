@@ -390,7 +390,6 @@ youtube.com##ytd-shelf-renderer:has-text(/Previously watched|People also watched
 www.youtube.com##ytd-reel-shelf-renderer
 youtube.com###guide-button
 www.youtube.com###video-preview-container
-youtube.com###related
 www.youtube.com##.ytp-ce-element
 !YOUTUBE 📺📺📺📺📺📺📺
 gratinaesc.cfd
