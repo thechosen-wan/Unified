@@ -17,6 +17,8 @@ netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-chi
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 !YT
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
+youtube.com###panels-full-bleed-container
+youtube.com###chat-container
 youtube.com##[page-subtype="home"] #video-title-link:is([title*="Tokyo"],[title*="Fortnite"]):upward(ytd-rich-item-renderer)
 youtube.com##[page-subtype="home"] #video-title-link:is([title*="Social Media"],[title*="MotoGP"]):upward(ytd-rich-item-renderer)
 youtube.com##[page-subtype="home"] #video-title-link:is([title*="FC 24"],[title*="Minecraft"]):upward(ytd-rich-item-renderer)
