@@ -1,4 +1,5 @@
 google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
+!reddit
 reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > a._30BbATRhFv3V83DHNDjJAO:nth-child(3)
 reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > div._3jiriKeNer8y0-1r6oWIFM._3rS8YTDjcT7fs0k9W4rxDG:nth-child(4)
 reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._2u8LqkbMtzd0lpblMFbJq5:last-child
@@ -11,8 +12,10 @@ reddit.com###AppRouter-main-content > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLay
 reddit.com###change-username-tooltip-id
 reddit.com##.x0hiXHicn7r3BG9m1FJH4, ._23q1waDr4n_2fR5A7zcZzb, ._2t7TYn6HwRZQwKXG47kpQR
 reddit.com##._3Kd8DQpBIbsr5E1JcrMFTY, ._1tvThPWQpORoc2taKebHxs
+!netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
+!YT
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
 youtube.com##[page-subtype="home"] #video-title-link:is([title*="Tokyo"],[title*="Fortnite"]):upward(ytd-rich-item-renderer)
 youtube.com##[page-subtype="home"] #video-title-link:is([title*="Social Media"],[title*="MotoGP"]):upward(ytd-rich-item-renderer)
@@ -35,6 +38,7 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bR
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bSamsung\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bshorts\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPokemon\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPixel 9\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPixel 8\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\PC Build\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bNothing phone\b/i))
@@ -49,12 +53,19 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bM
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJJK\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJujutsu Kaisen\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJames Gunn\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 17\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 15\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 14\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 13\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 17\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 18\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 19\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGoogle Pixel\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S23\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S24\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S25\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bCM Punk\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bApple Watch\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDragon Ball\b/i))
