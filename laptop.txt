@@ -435,6 +435,8 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bVince McMahon\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bXiaomi\b/i))
 !YT General
+youtube.com###flexible-item-buttons > ytd-download-button-renderer.style-scope.ytd-menu-renderer:first-child
+youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer:nth-child(2) > button-view-model.yt-spec-button-view-model
 i.ytimg.com/an_webp
 www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
