@@ -12,6 +12,7 @@ reddit.com###AppRouter-main-content > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLay
 reddit.com###change-username-tooltip-id
 reddit.com##.x0hiXHicn7r3BG9m1FJH4, ._23q1waDr4n_2fR5A7zcZzb, ._2t7TYn6HwRZQwKXG47kpQR
 reddit.com##._3Kd8DQpBIbsr5E1JcrMFTY, ._1tvThPWQpORoc2taKebHxs
+reddit.com###pdp-right-rail-topics
 !netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
