@@ -1214,6 +1214,5 @@ https://www.google.com/search?q=wwe
 google.*##a[href*="twitter.com"]:nth-ancestor(2)
 google.*##a[href*="tiktok.com"]:nth-ancestor(2)
 google.co.uk###main > div.JwzvB:last-child > div.bLgP0e:last-child
-bing.com
 duckduckgo.com
 advantage.icas.com##footer
