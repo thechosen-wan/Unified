@@ -1,5 +1,6 @@
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
+google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
