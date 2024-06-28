@@ -411,6 +411,7 @@ google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div:first-child
 google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_Wd.gb_Qd.gb_h.gb_id:last-child
 google.co.uk###gb > div.gb_4d.gb_6a.gb_Sd > div:first-child
 google.co.uk###gb > div.gb_4d.gb_6a.gb_Sd > div.gb_Xe:nth-child(2) > a.gb_ja.gb_ka.gb_ge.gb_gd:last-child
+google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.co.uk###fbarcnt
 google.com###fbar
 !Google 🌊🌊🌊🌊🌊🌊🌊
