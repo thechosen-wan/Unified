@@ -970,7 +970,7 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/Folie à deux|Bugzy Mal
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Crunchyroll|FOX 5/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Heavy Spoilers|Reel Rejects/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Bridgerton|BABYMONSTER/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/UFC|Pokémon GO/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/SIS vs BRO|Pokémon GO/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/CBC News|TIME/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/FOX 3|FOX 4/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Billie Eilish|League of Legends/)
