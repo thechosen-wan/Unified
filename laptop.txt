@@ -541,7 +541,7 @@ newsblur.com##.NB-splash-bottom.NB-splash-info
 ||newsblur.com/media/img/welcome/header-android.png$image
 ee.co.uk###fef-footer#
 ee.co.uk##.lxp-Clarity
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.PrimaryNbastyles__ContainerWithImage-sc-119js3f-2.bfNJYy
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
 ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
 ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
