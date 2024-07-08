@@ -4,6 +4,8 @@ my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.contain
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
 my.bt.com##app-root:first-child > div > app-faq:nth-child(6) > div.container.faq-container
 my.bt.com###aem-global-footer
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
+my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope > div.inline-alert-advisor--full.inline-alert-notice--full-left.BT-to-EE-promotion-banner:first-child
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > section.bt-container.productIconsExtCust_iconWrapper__PzWOs:last-child > div.productIconsExtCust_iconTiles__0q8ns:nth-child(2)
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child
 bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
@@ -1182,7 +1184,6 @@ potsaglu.net
 one.network
 macrumors.com
 ispreview.co.uk
-investengine.com
 instagram.com
 ianvisits.co.uk
 disqus.com
@@ -1208,11 +1209,14 @@ m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > 
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(2) > lazy-list > ytm-horizontal-card-list-renderer.item.modern-typography > div.horizontal-card-list-container
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:first-child > lazy-list > ytm-channel-featured-video-renderer.item > a
 m.youtube.com###player-endscreen
+!Procrastinating Search
 https://www.google.com/search?q=mrwhosetheboss
 https://www.google.com/search?q=aew
 https://www.google.com/search?q=wwe
 google.*##a[href*="twitter.com"]:nth-ancestor(2)
 google.*##a[href*="tiktok.com"]:nth-ancestor(2)
 google.co.uk###main > div.JwzvB:last-child > div.bLgP0e:last-child
+!Footer
 duckduckgo.com
 advantage.icas.com##footer
+tfl.gov.uk###footer
