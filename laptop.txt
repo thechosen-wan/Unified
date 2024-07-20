@@ -3,6 +3,7 @@ google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 spotify.com###mh-footer
 audible.co.uk###bottom-1
+nectar.com###root > div.pagewrap:first-child > div:last-child > div.footwrap:last-child
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
