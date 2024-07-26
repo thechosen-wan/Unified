@@ -1,3 +1,5 @@
+coop.co.uk###offers-content > aside.coop-c-app-download.coop-c-app-download--mini.coop-u-brand-membership-blue-light-bg:last-child
+coop.co.uk##div.page__container:nth-child(2) > div.page__footer:last-child
 my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel > div.banner-carousel
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child > div.col-12.no-gutter.pega-notifications > app-global-notifications > div.pega-banner > div > div.row.row-margin.rtd-banner
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3) > div.col-12.no-gutter.marginTop-50:last-child
