@@ -1154,21 +1154,6 @@ google.com##div.fbar.M6hT6.As6eLe:nth-child(6)
 google.com###gb-main > header:nth-child(2) > div:first-child > div > div.KojFAc:nth-child(2)
 google.co.uk##div.fbar.M6hT6.As6eLe:nth-child(9)
 !Google 🎾🎾🎾🎾🎾🎾🎾
-aniwatch.to###anime-featured
-aniwatch.to###anime-trending
-aniwatch.to###main-content > section.block_area.block_area_category:nth-child(3)
-aniwatch.to###main-sidebar
-aniwatch.to###main-content > section.block_area.block_area-actors:nth-child(2)
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > div.dt-rate:nth-child(6)
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch.anis-watch-tv:nth-child(2) > div.other-season:nth-child(3)
-aniwatch.to###xmain-wrapper > div.mw-body:last-child > div.container
-aniwatch.to###main-content > section.block_area.block_area_category:nth-child(2)
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch.anis-watch-tv:nth-child(2) > div.other-season:nth-child(4)
-aniwatch.to###mobile_menu
-aniwatch.to###logo
-aniwatch.to###header_right
-aniwatch.to###footer
 !Amazon 🏕️🏕️🏕️
 amazon.*###search h2 span:has-text(Router):upward(div.s-result-item)
 amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Router):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
@@ -1176,9 +1161,11 @@ amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[
 amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
 amazon.co.uk###nav-ftr
 amazon.co.uk###nav-gwbar
-mycard.capitalone.co.uk###main > section.sc-aXZVg.ksPepf:nth-child(2)
 ! 🚫🚫🚫🚫
 x.com
+watchwrestling.ae
+watchwrestling.ec
+watchwrestling.in
 twitter.com
 tumblr.com
 tiktok.com
@@ -1200,8 +1187,6 @@ yourheights.com
 hotukdeals.com
 pak-mcqs.net
 technicalgaurav.com
-bbc.co.uk###orb-footer
-bbc.co.uk###information-footer
 !games on Google
 google.co.uk###rso > div.MjjYud:nth-child(2) > block-component:nth-child(6) > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
 google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2) > div.IHjTsb.zsYMMe.TUOsUe:last-child > span > div.rAChLe > iframe.qePvpc
@@ -1223,5 +1208,8 @@ google.*##a[href*="tiktok.com"]:nth-ancestor(2)
 google.co.uk###main > div.JwzvB:last-child > div.bLgP0e:last-child
 !Footer
 duckduckgo.com
+bbc.co.uk###orb-footer
+bbc.co.uk###information-footer
 advantage.icas.com##footer
 tfl.gov.uk###footer
+mycard.capitalone.co.uk###main > section.sc-aXZVg.ksPepf:nth-child(2)
