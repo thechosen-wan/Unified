@@ -193,7 +193,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Arr
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Still Watching Netflix|Jimmy Fallon/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The Scottish Sun|TalkTV/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Madvocate|The Black Lion/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Pllana Productions|FreshandFit/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Pllana|FreshandFit/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Owen WrestleNews365|Wrestling Hub/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/iJustine|AppleInsider/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/sammy guevara|Chris Van Vliet/))
