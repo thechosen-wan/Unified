@@ -37,7 +37,6 @@ cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-f
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-shelf-renderer.modern-typography.vertical-shelf-separators:nth-child(3)
 bing.com###b_footer
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:last-child > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-shelf-renderer.modern-typography.vertical-shelf-separators:last-child
-reddit.com###main-content > dsa-transparency-modal-provider.nd\:visible:last-child > shreddit-feed.nd\:visible:last-child
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:last-child > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(4) > lazy-list > ytm-shelf-renderer.item.modern-typography.vertical-shelf-separators
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bwoke\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bWatch along\b/i))
@@ -51,7 +50,7 @@ m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMan Utd\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bManchester United\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMinecraft\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMarvel Rivals\b/i))
+m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMrBeastb/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bIceberg\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bHelldivers\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFortnite\b/i))
@@ -1117,7 +1116,6 @@ m.youtube.com##ytm-compact-radio-renderer:has-text(/Chibi reviews|Insider Food/)
 reddit.com###right-sidebar-container
 reddit.com###partial-more-posts-dDNfMTkyam0zOA
 /svc/shreddit/community-more-posts/
-reddit.com##shreddit-app.overflow-x-hidden.xs\:overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > div.grid-container.theme-rpl.grid.gap-md.s\:gap-lg.grid-cols-4.xs\:grid-cols-\[repeat\(8\,_1fr\)_repeat\(4\,minmax\(67px\,_1fr\)\)\].m\:grid-cols-14.l\:grid-cols-16.xl\:grid-cols-18.xs\:pl-md.xs\:pr-md.m\:pl-0.mx-auto.m\:mx-lg.l\:m-auto.xl\:m-auto.l\:max-w-\[1352px\].xl\:max-w-\[1524px\]:nth-child(14) > div.subgrid-container.flex.flex-col.col-start-1.m\:col-start-4.xl\:col-start-5.col-end-5.xs\:col-end-13.s\:col-end-13.m\:col-end-15.l\:col-end-17.xl\:col-end-19.xs\:gap-sm:first-child > div.masthead:first-child > div.flex.relative.items\:center.xs\:items-end.justify-between.px-md.xs\:-top-\[2\.5rem\].xs\:-mb-\[2\.5rem\].mt-xs.mb-2xs.xs\:mt-0:last-child > div.flex.flex-1.items-end.justify-between.flex-col.xs\:flex-row > div.flex.w-100.xs\:w-auto.mt-xs.xs\:mt-0:last-child
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
 !REDDIT 👾👾👾👾👾👾
