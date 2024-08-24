@@ -20,6 +20,7 @@ netflix.com##.notifications-menu:first-child
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
+!Nectar
 nectar.com###root > div.pagewrap:first-child > div:last-child > div.footwrap:last-child
 nectar.com###root > div.pagewrap:first-child > div.footwrap:last-child
 !YTM
