@@ -19,9 +19,9 @@ netflix.com##.notifications-menu:first-child
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
-google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 !Nectar
 nectar.com###newNectarPricesV2
+!Spotify
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -113,8 +113,7 @@ www.google.com##.hdtb-mitem
 www.google.com##.gb_Tf.gb_3f.gb_J.gb_Id
 google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_Wd.gb_Qd.gb_h.gb_id:last-child
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ7d:last-child > div.szppmdbYutt__middle-slot-promo:last-child
-google.co.uk###gb > div.gb_Dd.gb_eb.gb_sd > div:first-child > div.gb_Kd.gb_x.gb_2f.gb_Sf
-google.co.uk###gb > div.gb_Dd.gb_eb.gb_sd > div:first-child > div.gb_Kd.gb_x.gb_3f.gb_Tf
+google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.com###gb > div.gb_1d.gb_3a.gb_Pd > div.gb_We:nth-child(2) > a.gb_7.gb_8.gb_de.gb_aa.gb_dd:last-child
 !Amazon
 amazon.co.uk###navFooter
