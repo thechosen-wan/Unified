@@ -13,7 +13,6 @@ reddit.com###reddit-trending-searches-partial-container
 !Netflix
 netflix.com##div.lolomoRow:last-child
 netflix.com##div.lolomoRow:nth-child(7)
-netflix.com##div.moreLikeThis--wrapper
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
