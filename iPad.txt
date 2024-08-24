@@ -29,9 +29,9 @@ lookmovie2.la##.movie-items.movies-items__category:nth-child(5)
 lookmovie2.la##.page-single .container .row.ipad-width:last-child
 lookmovie2.la##.view-movie .may-also-like .movie-items.movies-items__category
 lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row.ipad-width2:last-child
-https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 lookmovie2.la##header.ht-header .menu-area-right .navbar-nav.menu-right
 lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row:nth-child(3) .col-sm-12
+https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 !YT
 youtube.com###related
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
