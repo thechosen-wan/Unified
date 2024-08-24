@@ -4,6 +4,10 @@ shop.yourheights.com###react-footer
 aljazeera.com##footer
 netflix.com###member-footer
 spotify.com###mh-footer
+disneyplus.com###footer
+github.com##footer
+tntsports.co.uk###footer
+theguardian.com##footer
 audible.co.uk###bottom-1
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
