@@ -565,3 +565,4 @@ my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.contain
 lookmovie2.la##.telegram-link
 lookmovie2.la##.ht-footer
 bing.com###id_rh
+open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
