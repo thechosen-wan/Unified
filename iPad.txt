@@ -4,7 +4,7 @@ netflix.com###member-footer
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
 reddit.com###get-app
-reddit.com##[pagetype="home"] .main-container
+reddit.com##:matches-path(/^\/(\?.*)?$/) .main-container
 reddit.com###left-sidebar-container
 reddit.com###pdp-right-rail-topics
 reddit.com###reddit-trending-searches-partial-container
