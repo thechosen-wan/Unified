@@ -1,5 +1,4 @@
 google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
-netflix.com###member-footer
 !reddit
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
