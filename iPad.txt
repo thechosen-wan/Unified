@@ -1,19 +1,8 @@
 google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
 netflix.com###member-footer
 !reddit
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > a._30BbATRhFv3V83DHNDjJAO:nth-child(3)
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > div._3jiriKeNer8y0-1r6oWIFM._3rS8YTDjcT7fs0k9W4rxDG:nth-child(4)
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._2u8LqkbMtzd0lpblMFbJq5:last-child
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div.subredditvars-r-damnthatsinteresting:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > a._30BbATRhFv3V83DHNDjJAO:nth-child(3)
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div.subredditvars-r-damnthatsinteresting:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._3dnbqz69WJTFCss8wl7Wlk:first-child > div._3jiriKeNer8y0-1r6oWIFM._3rS8YTDjcT7fs0k9W4rxDG:nth-child(4)
-reddit.com###SHORTCUT_FOCUSABLE_DIV > div.subredditvars-r-damnthatsinteresting:nth-child(2) > header._1tvdSTbdxaK-BnUbzUIqIY._2GyPfdsi-MbQFyHRECo9GO.flex-grow-0.flex-shrink-0.top-0.left-0.right-0.fixed.z-\[80\]:first-child > div._2vkeRJojnV7cb9pMlPHy7d.a35Fm2MurU14xdNybLiZp > div._2u8LqkbMtzd0lpblMFbJq5:last-child
-reddit.com###AppRouter-main-content > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:nth-child(2) > div._31N0dvxfpsO6Ur5AKx4O5d:last-child > div._1OVBBWLtHoSPfGCRaPzpTf._3nSp9cdBpqL13CqjdMr2L_._2udhMC-jldHp_EpAuBeSR1._2OVNlZuUd8L9v0yVECZ2iA:first-child > div._2l7c_Oz0UVsamALvPrlznq:last-child
-reddit.com###AppRouter-main-content > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:nth-child(2) > span._2L5G9B5yaoqW3IegiYN-FL:first-child
-reddit.com###AppRouter-main-content > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:nth-child(2) > div._1gVVmSnHZpkUgVShsn7-ua:nth-child(2)
-reddit.com###change-username-tooltip-id
-reddit.com##.x0hiXHicn7r3BG9m1FJH4, ._23q1waDr4n_2fR5A7zcZzb, ._2t7TYn6HwRZQwKXG47kpQR
-reddit.com##._3Kd8DQpBIbsr5E1JcrMFTY, ._1tvThPWQpORoc2taKebHxs
-reddit.com###pdp-right-rail-topics
+reddit.com###popular-communities-list
+reddit.com###navbar-menu-button
 !netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
