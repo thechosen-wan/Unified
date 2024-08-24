@@ -16,7 +16,7 @@ netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
 netflix.com##.notifications-menu:first-child
-netflix.com##.watch-video--flag-container
+netflix.com##.watch-video--flag-container .medium > button.default-ltr-cache-1enhvti
 netflix.com##.watch-video--bottom-controls-container .medium.default-ltr-cache-1dcjcj4:nth-child(2)
 !YT
 youtube.com###related
