@@ -10,6 +10,9 @@ reddit.com###right-sidebar-container
 www.reddit.com##:matches-path(/^\/(\?.*)?$/) .main-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
+!Netflix
+netflix.com##div.lolomoRow:last-child
+netflix.com##div.ptrack-container:nth-child(2) > div.ptrack-content
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
@@ -477,8 +480,6 @@ www.bbc.co.uk##.layout__secondary-col--spaced.gel-1\/3\@l.gel-layout__item
 www.bbc.co.uk###features-label-aside-content
 www.bbc.co.uk###elsewhere-label-aside-content
 www.bbc.co.uk##.e1mcntqj1.ssrcss-1y7k614-FooterStack
-!Netflix
-netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 !Aniwatch
 aniwatchtv.to###main-content > section.block_area.block_area_category:nth-child(2)
 aniwatchtv.to###header > div.container > div.header-group:nth-child(4)
