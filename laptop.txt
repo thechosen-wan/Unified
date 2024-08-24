@@ -1,3 +1,13 @@
+!reddit
+reddit.com###popular-communities-list
+reddit.com###navbar-menu-button
+reddit.com###login-button
+reddit.com###get-app
+reddit.com###reddit-logo
+reddit.com###left-sidebar-container
+reddit.com###right-sidebar-container
+reddit.com###reddit-trending-searches-partial-container
+!notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
