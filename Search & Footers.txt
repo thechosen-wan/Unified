@@ -3,6 +3,7 @@ premierleague.com##footer
 yourheights.com##footer
 aljazeera.com##footer
 netflix.com##footer
+netflix.com###member-footer
 spotify.com##footer
 disneyplus.com##footer
 github.com##footer
