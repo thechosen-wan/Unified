@@ -11,8 +11,6 @@ reddit.com###reddit-trending-searches-partial-container
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
-spotify.com###mh-footer
-audible.co.uk###bottom-1
 nectar.com###root > div.pagewrap:first-child > div:last-child > div.footwrap:last-child
 nectar.com###root > div.pagewrap:first-child > div.footwrap:last-child
 !YTM
@@ -469,30 +467,14 @@ ayoutube.com##.ytp-endscreen-content
 youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles:nth-child(23) > div.ytp-endscreen-content:nth-child(2)
 youtube.com###comments
 !Misc
-www.reddit.com##shreddit-post:is([permalink*="aew"],[permalink*="one piece"],[permalink*="trump"])
-www.reddit.com##shreddit-post:is([permalink*="cody rhodes"],[permalink*="one piece"],[permalink*="tna"])
-www.reddit.com##shreddit-post:is([permalink*="sami"],[permalink*="cody"],[permalink*="wwe"])
-www.reddit.com##shreddit-post:is([permalink*="aew"],[permalink*="mcintyre"],[permalink*="wreddit"])
-reddit.com##shreddit-app.overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > reddit-header-large.nd\:visible.top-0.left-0.right-0.fixed.z-\[4\].theme-beta:nth-child(6) > reddit-header-action-items.contents.nd\:visible:nth-child(3) > header.v2.bg-neutral-background.pointer-events-auto.px-md > nav.h-header-large.border-b-sm.border-t-0.border-l-0.border-r-0.border-solid.border-neutral-border.flex.items-center > div.pl-lg.gap-xs.flex.items-center.justify-end:last-child
-reddit.com###main-content > shreddit-async-loader:nth-child(4) > comment-body-header.block.px-md.xs\:px-0.bg-\[color\:var\(--shreddit-content-background\)\].text-tone-1 > faceplate-tracker.flex.item-center.xs\:w-fit.mb-sm.mt-lg:first-child
-www.theguardian.com###slot-body-end
-rewards.bing.com###site-footer
 bing.com###vs_cont
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
-digitalservices.bt.com###bt-footer
 !BBC
 www.bbc.co.uk##.layout__secondary-col--spaced.gel-1\/3\@l.gel-layout__item
 www.bbc.co.uk###features-label-aside-content
 www.bbc.co.uk###elsewhere-label-aside-content
 www.bbc.co.uk##.e1mcntqj1.ssrcss-1y7k614-FooterStack
-!MBP
-movieboxpro.app##.related
-movieboxpro.app##.trailer
-movieboxpro.app##.related_list
-movieboxpro.app##.footer
-movieboxpro.app##div.wrap:first-child > div.movie > div:nth-child(5) > div.top > span:last-child > a.download_apps:first-child
 !Netflix
-www.netflix.com##.member-footer
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 !Aniwatch
 aniwatchtv.to###main-content > section.block_area.block_area_category:nth-child(2)
@@ -509,10 +491,6 @@ aniwatchtv.to###main-content > section.block_area.block_area-actors:nth-child(2)
 aniwatchtv.to###xmain-wrapper > div.mw-body:last-child > div.container > div.mwb-2col:last-child
 aniwatchtv.to###main-content > section.block_area.block_area_home:nth-child(5)
 aniwatchtv.to###discussion > div.container
-reddit.com###left-sidebar-container
-reddit.com###right-sidebar-container
-reddit.com###reddit-logo
-reddit.com##shreddit-app.overflow-x-hidden.xs\:overflow-visible.v2.pt-\[var\(--page-y-padding\)\]:nth-child(3) > reddit-header-large.nd\:visible.top-0.left-0.right-0.fixed.z-\[4\].theme-beta:nth-child(7) > reddit-header-action-items.contents.nd\:visible:nth-child(3) > header.v2.bg-neutral-background.px-md.l\:px-lg.pointer-events-auto > nav.h-header-large.flex.m\:grid.m\:grid-cols-14.l\:grid-cols-16.xl\:grid-cols-18.s\:gap-md.border-b-sm.border-t-0.border-l-0.border-r-0.border-solid.border-neutral-border-weak.items-center.m\:px-xs > div.pl-lg.s\:pl-0.col-span-2.s\:col-span-3.m\:col-span-4.xl\:col-span-5.flex.items-center.justify-end.gap-xs:last-child
 !Softmurmur
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
@@ -585,9 +563,4 @@ my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.contain
 !General
 lookmovie2.la##.telegram-link
 lookmovie2.la##.ht-footer
-disneyplus.com###footer
-github.com##footer
-premierleague.com##footer.mainFooter:nth-child(6)
-tntsports.co.uk###footer
 bing.com###id_rh
-theguardian.com##footer
