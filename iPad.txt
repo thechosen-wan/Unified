@@ -3,6 +3,8 @@ netflix.com###member-footer
 !reddit
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
+reddit.com###left-sidebar-container
+reddit.com###pdp-right-rail-topics
 !netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
