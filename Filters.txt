@@ -3,6 +3,8 @@ premierleague.com##footer
 shop.yourheights.com###react-footer
 aljazeera.com##footer
 netflix.com###member-footer
+spotify.com###mh-footer
+audible.co.uk###bottom-1
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
