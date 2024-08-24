@@ -22,6 +22,7 @@ google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US
 !Nectar
 nectar.com###newNectarPricesV2
 !Spotify
+open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -570,4 +571,3 @@ my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.contain
 lookmovie2.la##.telegram-link
 lookmovie2.la##.ht-footer
 bing.com###id_rh
-open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
