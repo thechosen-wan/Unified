@@ -7,8 +7,10 @@ spotify.com###mh-footer
 disneyplus.com###footer
 github.com##footer
 tntsports.co.uk###footer
+rewards.bing.com###site-footer
 theguardian.com##footer
 audible.co.uk###bottom-1
+digitalservices.bt.com###bt-footer
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
