@@ -9,15 +9,13 @@ reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
-www.reddit.com##:matches-path(/^\/(\?.*)?$/) .main-container
+reddit.com###main-content > shreddit-feed.nd\:visible:last-child
 !Netflix
 netflix.com##div.lolomoRow:last-child
 netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
 netflix.com##.notifications-menu:first-child
-netflix.com##.watch-video--flag-container .medium > button.default-ltr-cache-1enhvti
-netflix.com##.watch-video--bottom-controls-container .medium.default-ltr-cache-1dcjcj4:nth-child(2)
 !YT
 youtube.com###related
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
