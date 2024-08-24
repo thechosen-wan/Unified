@@ -6,6 +6,7 @@ reddit.com###navbar-menu-button
 reddit.com###get-app
 reddit.com###left-sidebar-container
 reddit.com###pdp-right-rail-topics
+reddit.com###pdp-right-rail-tabs
 reddit.com###reddit-trending-searches-partial-container
 !netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
