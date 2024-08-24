@@ -24,6 +24,18 @@ nectar.com###newNectarPricesV2
 !Spotify
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
 open.spotify.com##div.main-view-container__mh-footer-container:last-child
+!Lookmovie
+lookmovie2.la##.movie-items.movies-items__category:nth-child(5)
+lookmovie2.la##.page-single .container .row.ipad-width:last-child
+lookmovie2.la##.view-movie .may-also-like .movie-items.movies-items__category
+lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row.ipad-width2:last-child
+lookmovie2.la##header.ht-header .menu-area-right .navbar-nav.menu-right
+lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row:nth-child(3) .col-sm-12
+https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
+!Bing
+bing.com###vs_cont
+bing.com###id_rh
+bing.com###brsv3
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -477,7 +489,6 @@ ayoutube.com##.ytp-endscreen-content
 youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles:nth-child(23) > div.ytp-endscreen-content:nth-child(2)
 youtube.com###comments
 !Misc
-bing.com###vs_cont
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 !BBC
 www.bbc.co.uk##.layout__secondary-col--spaced.gel-1\/3\@l.gel-layout__item
@@ -569,6 +580,3 @@ my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.contain
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
 !General
-lookmovie2.la##.telegram-link
-lookmovie2.la##.ht-footer
-bing.com###id_rh
