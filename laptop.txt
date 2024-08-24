@@ -23,6 +23,7 @@ google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US
 nectar.com###newNectarPricesV2
 !Spotify
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
+open.spotify.com##div.main-view-container__mh-footer-container:last-child
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
