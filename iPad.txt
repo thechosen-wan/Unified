@@ -7,6 +7,8 @@ reddit.com###get-app
 reddit.com###reddit-logo
 reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
+www.reddit.com##:matches-path(/^\/(\?.*)?$/) .main-container
+reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
 !netflix
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation:nth-child(2) > div.secondary-navigation:last-child > div.nav-element:nth-child(2)
