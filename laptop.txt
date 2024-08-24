@@ -7,14 +7,15 @@ reddit.com###get-app
 reddit.com###reddit-logo
 reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
-www.reddit.com##:matches-path(/^\/(\?.*)?$/) .main-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
+reddit.com###main-content > shreddit-feed.nd\:visible:last-child
 !Netflix
 netflix.com##div.lolomoRow:last-child
 netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
+netflix.com##.notifications-menu:first-child
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
