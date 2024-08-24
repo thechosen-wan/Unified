@@ -1,4 +1,3 @@
-google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
 !reddit
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
@@ -398,6 +397,7 @@ google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(2)
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
 google.co.uk###gb > div.gb_zd.gb_db.gb_od > div:first-child
 google.co.uk##div.L3eUgb:nth-child(4) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(4)
 google.co.uk##div.L3eUgb:nth-child(4) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
