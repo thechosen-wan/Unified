@@ -7,7 +7,7 @@ netflix.com###member-footer
 disneyplus.com##footer
 github.com##footer
 tntsports.co.uk##footer
-rewards.bing.com##site-footer
+rewards.bing.com###footerRegion
 theguardian.com##footer
 audible.co.uk###bottom-1
 digitalservices.bt.com###bt-footer
