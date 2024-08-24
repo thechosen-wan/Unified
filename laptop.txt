@@ -1,3 +1,4 @@
+yourheights.com###newsletter
 !reddit
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
