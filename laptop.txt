@@ -12,6 +12,7 @@ reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
 !Netflix
 netflix.com##div.lolomoRow:last-child
+netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##div.ptrack-container:nth-child(2) > div.ptrack-content
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
