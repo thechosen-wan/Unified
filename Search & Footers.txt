@@ -5,13 +5,13 @@ aljazeera.com##footer
 netflix.com##footer
 netflix.com###member-footer
 disneyplus.com##footer
-spotify.com##footer
 github.com##footer
 tntsports.co.uk##footer
 rewards.bing.com###footerRegion
 theguardian.com##footer
 audible.co.uk###bottom-1
 digitalservices.bt.com###bt-footer
+open.spotify.com##div.main-view-container__mh-footer-container
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
