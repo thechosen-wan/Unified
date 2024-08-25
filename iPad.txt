@@ -39,6 +39,7 @@ bing.com###brsv3
 !Photos
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
 !YT
 youtube.com###related
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
