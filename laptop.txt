@@ -40,6 +40,9 @@ bing.com###brsv3
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
+!Anime
+hianime.to###footer
+###xmain-wrapper .mw-body:last-child .container .mwb-2col:last-child .mwb-right:nth-child(2) .zr-connect.zr-connect-list
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
