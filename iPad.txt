@@ -36,6 +36,9 @@ https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 bing.com###vs_cont
 bing.com###id_rh
 bing.com###brsv3
+!Photos
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
 !YT
 youtube.com###related
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
