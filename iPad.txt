@@ -419,7 +419,6 @@ youtube.com###guide-button
 www.youtube.com###video-preview-container
 www.youtube.com##.ytp-ce-element
 !YOUTUBE 📺📺📺📺📺📺📺
-gratinaesc.cfd
 google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(4)
 google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
 google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.c93Gbe:last-child
@@ -439,44 +438,4 @@ google.co.uk###gb > div.gb_4d.gb_6a.gb_Sd > div.gb_Xe:nth-child(2) > a.gb_ja.gb_
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.co.uk###fbarcnt
 google.com###fbar
-!Google 🌊🌊🌊🌊🌊🌊🌊
-investengine.com
-coinbase.com
-m.youtube.com
-macrumors.com
-hotukdeals.com
-ispreview.co.uk
-instagram.com
-twitter.com
-tiktok.com
-tumblr.com
-!Sites 🕸️🕸️🕸️🕸️🕸️🕸️🕸️
-amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
-amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
-amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
-amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
-amazon.co.uk###navFooter
-amazon.co.uk###gw-layout
-amazon.co.uk###rhf-container
-!Amazon 🔃🔃🔃🔃🔃🔃🔃
-my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2)
-icas.com##footer
-ee.co.uk###fef-footer#
-ee.co.uk##.lxp-Clarity
-ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
-ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
-!BT
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
-bt.com###aem-global-footer
-bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
-bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
-my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
-my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
-bbc.co.uk###orb-footer
+
