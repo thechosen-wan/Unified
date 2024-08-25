@@ -80,22 +80,7 @@ asoftmurmur.com##nav
 asoftmurmur.com##.Title
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
 !YTM
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(3)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(4)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(5)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(6)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(7)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(8)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(9)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(10)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(11)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(12)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(13)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(14)
-music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(15)
-music.youtube.com###background > ytmusic-fullbleed-thumbnail-renderer.style-scope.ytmusic-browse-response > picture.style-scope.ytmusic-fullbleed-thumbnail-renderer > img.image.style-scope.ytmusic-fullbleed-thumbnail-renderer:last-child
+
 !LBC
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child > a.style_link__ZZzZf:last-child
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
