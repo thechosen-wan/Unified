@@ -440,19 +440,6 @@ google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.co.uk###fbarcnt
 google.com###fbar
 !Google 🌊🌊🌊🌊🌊🌊🌊
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > div.dt-rate:nth-child(6)
-aniwatch.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2)
-aniwatch.to###main-content > section.block_area.block_area_category:nth-child(3)
-aniwatch.to###main-content > section.block_area.block_area_category:nth-child(2)
-aniwatch.to###main-content > section.block_area.block_area-actors:nth-child(2)
-aniwatch.to###header > div.container > div.header-setting:nth-child(5)
-aniwatch.to###header > div.container > div.header-group:nth-child(4)
-aniwatch.to###xmain-wrapper > div.mw-body:last-child
-aniwatch.to###mobile_menu
-aniwatch.to###main-sidebar
-aniwatch.to###header_right
-aniwatch.to###footer
-!Anime 🦎🦎🦎🦎🦎🦎🦎
 investengine.com
 coinbase.com
 m.youtube.com
