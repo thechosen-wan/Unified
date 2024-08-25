@@ -62,6 +62,7 @@ gemini.google.com##.ng-star-inserted.footer-container
 bbc.co.uk###elsewhereNewsWeather-label-aside-content
 www.bbc.co.uk###features-label-aside-content
 www.bbc.co.uk###elsewhere-label-aside-content
+bbc.co.uk###elsewhereSport-label-aside-content
 bbc.co.uk##.ssrcss-h4hmht-StaticLinks
 bbc.co.uk##footer
 !YTM
