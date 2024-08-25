@@ -13,6 +13,7 @@ audible.co.uk###bottom-1
 bbc.co.uk###orb-footer
 digitalservices.bt.com###bt-footer
 nectar.com##footer
+amazon.co.uk###navFooter
 bing.com##footer
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
