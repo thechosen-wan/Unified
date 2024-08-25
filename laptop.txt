@@ -66,6 +66,19 @@ bbc.co.uk###elsewhereSport-label-aside-content
 bbc.co.uk###elsewhereInSport-label-aside-content
 bbc.co.uk##.ssrcss-h4hmht-StaticLinks
 bbc.co.uk##footer
+!Amazon
+amazon.co.uk###rhf
+amazon.co.uk###nav-main
+amazon.co.uk###nav-orders
+amazon.co.uk###squished-desktop-row
+amazon.co.uk###buyNow_feature_div
+amazon.co.uk###nav-global-location-data-modal-action
+amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+!Softmurmur
+asoftmurmur.com##nav
+asoftmurmur.com##.Title
+||asoftmurmur.com/assets/bg-high-res.jpg$image
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -159,15 +172,6 @@ google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ7d:last-child > div.szppmdbYutt__middle-slot-promo:last-child
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.com###gb > div.gb_1d.gb_3a.gb_Pd > div.gb_We:nth-child(2) > a.gb_7.gb_8.gb_de.gb_aa.gb_dd:last-child
-!Amazon
-amazon.co.uk###navFooter
-amazon.co.uk###squished-desktop-row
-amazon.co.uk###buyNow_feature_div
-amazon.co.uk###nav-global-location-data-modal-action
-amazon.co.uk###nav-main
-amazon.co.uk###nav-orders
-amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
-amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
 !Sites
 theverge.com
 twitter.com
@@ -520,16 +524,9 @@ youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-en
 youtube.com###comments
 !Misc
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
-!Softmurmur
-||asoftmurmur.com/assets/bg-high-res.jpg$image
-||asoftmurmur.com/assets/bg-high-res.jpg$image
-asoftmurmur.com##.Footer
-asoftmurmur.com##nav
-asoftmurmur.com##.Title
-||asoftmurmur.com/assets/bg-high-res.jpg$image
 ! 2024-03-04 https://www.msn.com
-www.msn.com##.consumption-page-feed-wrapper
 msn.com##.consumptionFeed_nextArticle
+www.msn.com##.consumption-page-feed-wrapper
 www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
 www.msn.com##.oneFooter-DS-EntryPoint1-1
 www.msn.com##.intra-article-relatedcontent
