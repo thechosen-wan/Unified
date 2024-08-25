@@ -80,7 +80,7 @@ asoftmurmur.com##nav
 asoftmurmur.com##.Title
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
 !YTM
-
+music.youtube.com##.ytmusic-fullbleed-thumbnail-renderer img:last-child
 !LBC
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child > a.style_link__ZZzZf:last-child
 globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
