@@ -15,6 +15,7 @@ digitalservices.bt.com###bt-footer
 nectar.com##footer
 amazon.co.uk###navFooter
 bing.com##footer
+asoftmurmur.com##.Footer
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
