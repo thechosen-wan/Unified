@@ -58,6 +58,12 @@ www.google.com##.vuVjXe
 ! Gemini
 gemini.google.com##upsell-button.ng-star-inserted
 gemini.google.com##.ng-star-inserted.footer-container
+!BBC
+bbc.co.uk###elsewhereNewsWeather-label-aside-content
+www.bbc.co.uk###features-label-aside-content
+www.bbc.co.uk###elsewhere-label-aside-content
+bbc.co.uk##.ssrcss-h4hmht-StaticLinks
+bbc.co.uk##footer
 !YTM
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(1)
 music.youtube.com###contents > ytmusic-carousel-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed:nth-child(2)
@@ -521,7 +527,7 @@ asoftmurmur.com##.Title
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
 ! 2024-03-04 https://www.msn.com
 www.msn.com##.consumption-page-feed-wrapper
-www.msn.com##.consumptionFeed_nextArticle-DS-EntryPoint1-1.consumption-feed-content
+msn.com##.consumptionFeed_nextArticle
 www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
 www.msn.com##.oneFooter-DS-EntryPoint1-1
 www.msn.com##.intra-article-relatedcontent
