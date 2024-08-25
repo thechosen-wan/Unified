@@ -172,6 +172,54 @@ google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ7d:last-child > div.szppmdbYutt__middle-slot-promo:last-child
 google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
 google.com###gb > div.gb_1d.gb_3a.gb_Pd > div.gb_We:nth-child(2) > a.gb_7.gb_8.gb_de.gb_aa.gb_dd:last-child
+!Misc
+my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
+! 2024-03-04 https://www.msn.com
+msn.com##.consumptionFeed_nextArticle
+www.msn.com##.consumption-page-feed-wrapper
+www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
+www.msn.com##.oneFooter-DS-EntryPoint1-1
+www.msn.com##.intra-article-relatedcontent
+www.msn.com##.consumption-page-gridarea_action
+www.msn.com##div.left-image-intra-ad.ad-slot-placeholder.articlePageIntraArticleFullWidth
+www.msn.com###WeatherRightRail-ScreenWidth-c4
+www.msn.com##.newsContent-DS-EntryPoint1-1
+!Newsblur
+newsblur.com##div.NB-welcome-features
+newsblur.com##.NB-welcome-footer
+newsblur.com##.NB-welcome-activity
+newsblur.com##.NB-welcome-subfeatures
+newsblur.com##.NB-welcome-pricing
+newsblur.com##.NB-splash-bottom.NB-splash-info
+||newsblur.com/media/img/welcome/header_background.jpg$image
+||newsblur.com/media/img/welcome/header-web.png$image
+||newsblur.com/media/img/welcome/header-ios.png$image
+||newsblur.com/media/img/welcome/header-android.png$image
+ee.co.uk###fef-footer#
+ee.co.uk##.lxp-Clarity
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
+ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
+ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
+!BT
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
+bt.com###aem-global-footer
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
+bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
+bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
+my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
+bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
+my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
+my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
+!General
 !Sites
 theverge.com
 twitter.com
@@ -522,56 +570,9 @@ youtube.com##ytd-shelf-renderer:has-text(/Latest posts from JulzdotpH/)
 ayoutube.com##.ytp-endscreen-content
 youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles:nth-child(23) > div.ytp-endscreen-content:nth-child(2)
 youtube.com###comments
-!Misc
-my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
-! 2024-03-04 https://www.msn.com
-msn.com##.consumptionFeed_nextArticle
-www.msn.com##.consumption-page-feed-wrapper
-www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
-www.msn.com##.oneFooter-DS-EntryPoint1-1
-www.msn.com##.intra-article-relatedcontent
-www.msn.com##.consumption-page-gridarea_action
-www.msn.com##div.left-image-intra-ad.ad-slot-placeholder.articlePageIntraArticleFullWidth
-www.msn.com###WeatherRightRail-ScreenWidth-c4
-www.msn.com##.newsContent-DS-EntryPoint1-1
 !provisional - left card on yt channel
 www.youtube.com##.ytd-watch-card-section-sequence-renderer.style-scope > .ytd-vertical-watch-card-list-renderer.style-scope
 www.youtube.com##.ytd-universal-watch-card-renderer.style-scope > .ytd-watch-card-hero-video-renderer.style-scope.yt-simple-endpoint
 youtube.com###contents > ytd-item-section-renderer.style-scope.ytd-section-list-renderer:nth-child(2)
 youtube.com###contents > ytd-item-section-renderer.style-scope.ytd-section-list-renderer:nth-child(3)
-!Newsblur
-newsblur.com##div.NB-welcome-features
-newsblur.com##.NB-welcome-footer
-newsblur.com##.NB-welcome-activity
-newsblur.com##.NB-welcome-subfeatures
-newsblur.com##.NB-welcome-pricing
-newsblur.com##.NB-splash-bottom.NB-splash-info
-||newsblur.com/media/img/welcome/header_background.jpg$image
-||newsblur.com/media/img/welcome/header-web.png$image
-||newsblur.com/media/img/welcome/header-ios.png$image
-||newsblur.com/media/img/welcome/header-android.png$image
-ee.co.uk###fef-footer#
-ee.co.uk##.lxp-Clarity
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
-ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
-ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
-!BT
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
-bt.com###aem-global-footer
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
-bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
-bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
-my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
-bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
-my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
-my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
-!General
+
