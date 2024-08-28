@@ -82,42 +82,14 @@ asoftmurmur.com##.Title
 !YTM
 music.youtube.com##.ytmusic-fullbleed-thumbnail-renderer img:last-child
 !LBC
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child > a.style_link__ZZzZf:last-child
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(8)
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(6)
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(7)
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(4)
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:last-child
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(9)
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(8)
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(7)
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(6)
-globalplayer.com###__next > div.globalplayer.lbc.desktop:last-child > div.style_sidebar__TND2m:first-child > div.style_container__rHVpv:last-child > ul.menu-items > li.style_menuItem__lUkuo.style_sidebar__oPs6f:nth-child(4)
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div:nth-child(4) > div.style_contentPage__CNZSs.home_page__ZjqgC > div.home_blockContainer__TmwGO > div:nth-child(2) > div:last-child
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:first-child
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(2)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(3)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(4)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(5)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(6)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(7)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(8)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(8)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(10)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(11)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(12)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(13)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(14)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(15)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(16)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(17)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(18)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(19)
-globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(20)
+globalplayer.com###__next > div.globalplayer.desktop:last-child > div.style_sidebar__TND2m
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(-n+20):not(:nth-child(9))
 globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:last-child
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.podcast_podcasts___7s73:nth-child(4) > div.style_headerPanel__wXMGP.podcast_heroHeader__JKVVc > div.carousel_carousel__7zUhe:last-child
-globalplayer.com###__next > div.globalplayer.heart.desktop:last-child > div.style_contentPage__CNZSs.podcast_withHeroHeader__sYoIT:nth-child(5)
+globalplayer.com##.style_contentContainer__U0Gn4, .style_withVideo__AzsvH
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > article:nth-child(7)
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_blockContainer__l8sEd.style_carousel__Stp7j
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:nth-child(n+5):nth-child(-n+17)
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:last-child
 ! 2024-03-05 https://discord.com
 discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
 discord.com##div.listItem_fa7b36:nth-of-type(7) > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject
