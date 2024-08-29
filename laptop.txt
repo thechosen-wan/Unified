@@ -199,9 +199,9 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bG
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S24\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S25b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bIain Dale\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 17\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 18\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 19\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 13\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 14\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 15\b/i))
@@ -211,13 +211,13 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJ
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJujutsu Kaisen\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJJK\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bLuffy\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bKamala Harris\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMacOS\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMacBook\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMarvel\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMinecraft\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bMost Searched Questions\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bNaruto\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\official video\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bOne Piece\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPokemon\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bPower Rangers\b/i))
@@ -229,25 +229,24 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bT
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bThameslink\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bTrump\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bUnboxing\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bWatch Along\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bWWE\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bVince McMahon\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bZ Flip\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bZ Fold\b/i))
 !YT Search
 youtube.com/results?search_query=aew
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Ango|Londonist/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/FORMULA 1|Waveform Clips/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/SomeNorthLondoner|Joseph Carlson/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/FORMULA 1|Syv/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Sky Sports F1|Joseph Carlson/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Insider Food|WVFRM Podcast/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/ULTRA HAZE|Yeah Mad/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Wandering Turnip|Syv/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Expressions Oozing|Yeah Mad/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Wandering Turnip|Waveform Clips/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/DR Sports|United View/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/TechAltar|The Friday Checkout/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/All Elite Wrestling|WWE/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/JDfromNY206|Geoff Marshall/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/penguinz0|Chibi Reviews/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Stand Out TV|Expressions Oozing/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Stand Out TV|ULTRA HAZE/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/UnitedPeoplesTV|SomeNorthLondoner/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/John Campea|Mrwhosetheboss/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/ShortCircuit|Linus Tech Tips/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Marques Brownlee|Jago Hazzard/))
@@ -261,6 +260,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Arr
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Still Watching Netflix|Jimmy Fallon/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The Scottish Sun|TalkTV/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Madvocate|The Black Lion/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Ango|Londonist/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Pllana|FreshandFit/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Owen WrestleNews365|Wrestling Hub/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/iJustine|AppleInsider/))
@@ -298,7 +298,6 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Sup
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/MrBeast|WRESTLE WITH ANDY/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The Apple Circle|Matt Talks Tech/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/SarahGrace|Moon/))
-youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/UnitedPeoplesTV|Sky Sports F1/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/ZHC|fpt./))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Tailosive Tech|MrMobile/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/B.D.A. Law|HYPEKAGE/))
@@ -418,7 +417,6 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bFortnite\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bFrieren\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bGary Neville Podcast\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bGaming\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bGolf\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bGlasgow Subway\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bGoogle Pixel\b/i))
@@ -432,6 +430,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 18\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPad\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 15\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 17\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bin Premier League history\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJapan\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJeremy Clarkson\b/i))
@@ -445,7 +444,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bLet's Ride\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bIain Dale\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bLiverpool Street\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM2 Mac\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM4 Mac\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMacBook\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMemes\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMinecraft\b/i))
@@ -507,28 +506,19 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bVince McMahon\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bXiaomi\b/i))
 !YT General
-youtube.com###flexible-item-buttons > ytd-download-button-renderer.style-scope.ytd-menu-renderer:first-child
-youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer:nth-child(2) > button-view-model.yt-spec-button-view-model
 i.ytimg.com/an_webp
-www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
-www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+youtube.com###flexible-item-buttons > ytd-download-button-renderer
+youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer:nth-child(2)
+www.youtube.com##ytd-watch-next-secondary-results-renderer
+www.youtube.com###more-replies
 youtube.com###subscribe-button
 youtube.com###sponsor-button
-youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
 youtube.com###footer
-www.youtube.com###more-replies
-youtube.com##ytd-reel-shelf-renderer h2 [d^="M17.77,10.32l-1.2-.5L18,9.06a3"]:upward(ytd-reel-shelf-renderer)
 youtube.com###chips
+youtube.com##.ytp-endscreen-content
+youtube.com###comments
+youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
+youtube.com##ytd-reel-shelf-renderer h2 [d^="M17.77,10.32l-1.2-.5L18,9.06a3"]:upward(ytd-reel-shelf-renderer)
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Search for/i)
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/People also search for/i)
 youtube.com##ytd-shelf-renderer:has-text(/For you|From related searches|People also watched|Channels new to you|Previously watched|Popular in London|Top news|Latest posts from/)
-youtube.com##ytd-shelf-renderer:has-text(/Latest posts from JulzdotpH/)
-ayoutube.com##.ytp-endscreen-content
-youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles:nth-child(23) > div.ytp-endscreen-content:nth-child(2)
-youtube.com###comments
-!provisional - left card on yt channel
-www.youtube.com##.ytd-watch-card-section-sequence-renderer.style-scope > .ytd-vertical-watch-card-list-renderer.style-scope
-www.youtube.com##.ytd-universal-watch-card-renderer.style-scope > .ytd-watch-card-hero-video-renderer.style-scope.yt-simple-endpoint
-youtube.com###contents > ytd-item-section-renderer.style-scope.ytd-section-list-renderer:nth-child(2)
-youtube.com###contents > ytd-item-section-renderer.style-scope.ytd-section-list-renderer:nth-child(3)
-
