@@ -91,12 +91,13 @@ globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-c
 globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:nth-child(n+5):nth-child(-n+17)
 globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:last-child
 ! 2024-03-05 https://discord.com
-discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
-discord.com##div.listItem_fa7b36:nth-of-type(7) > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject
-discord.com##li.container__8759a.channel_c21703:nth-of-type(2)
-discord.com##li.container__8759a.channel_c21703:nth-of-type(3) > .linkButton_ebd2ba.interactive_a868bc.interactive__776ee > .link__2e8e1 > .layout__59abc.avatarWithText__17e10
-discord.com##.peopleColumn__51df3
-discord.com##.nowPlayingColumn_f5023f
+discord.com###online-tab
+discord.com##.nowPlayingColumn_c2739c
+discord.com##.anchor_af404b, .anchorUnderlineOnHover_af404b
+discord.com##.buttonContainer_df39bd, .app-launcher-entrypoint
+discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > nav.wrapper_fea3ef.guilds_a4d4d9:first-child > ul.tree_fea3ef > div.scroller_fea3ef.none_c49869.scrollerBase_c49869:nth-child(2) > div.listItem_c96c45:nth-child(n+5):nth-child(-n+7)
+discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.chat_a7d72e:last-child > div.subtitleContainer_a7d72e:first-child > section.title_a7d72e.container_fc4f04.themed_fc4f04 > div.upperContainer_fc4f04 > div.toolbar_fc4f04:last-child > div.iconWrapper_fc4f04.clickable_fc4f04:nth-child(n+1):nth-child(-n+5)
+discord.com###app-mount .attachButton_f298d4.attachButton_d0696b.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
 !Outlook
 outlook.office.com###tips
 outlook.office.com###owaSettingsBtn_container
