@@ -78,7 +78,7 @@ amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
 amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
 amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
 amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
-amazon.co.uk##._video-player_view_pvea-recommendation-card-wrapper__232n5
+amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
 !Softmurmur
 asoftmurmur.com##nav
 asoftmurmur.com##.Title
@@ -114,29 +114,19 @@ outlook.live.com###owaSettingsBtn_container
 outlook.office.com###owaSettingsBtn_container
 outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
 !Google
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.com###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(2)
-google.co.uk###gb > div.gb_1d.gb_3a.gb_Pd > div:first-child
-google.co.uk###gb > div.gb_1d.gb_3a.gb_Pd > div.gb_We:nth-child(2) > a.gb_7.gb_8.gb_de.gb_aa.gb_dd:last-child
-google.co.uk###fbarcnt
-google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child > div.gb_Jd.gb_L.gb_4f.gb_Uf
-www.google.com##.Y4umW.VDgVie.WRhYSc
 google.com###fbarcnt
+google.com##.MV3Tnb
+google.com##.nDcEnd
+google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.com##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
-google.com##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(2)
-google.com###gb > div.gb_1d.gb_3a.gb_Pd > div:first-child
-google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div:first-child
-www.google.com##.hdtb-mitem
-www.google.com##.gb_Tf.gb_3f.gb_J.gb_Id
-google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_Wd.gb_Qd.gb_h.gb_id:last-child
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ7d:last-child > div.szppmdbYutt__middle-slot-promo:last-child
-google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
-google.com###gb > div.gb_1d.gb_3a.gb_Pd > div.gb_We:nth-child(2) > a.gb_7.gb_8.gb_de.gb_aa.gb_dd:last-child
-!Misc
+google.co.uk###fbarcnt
+google.co.uk##.MV3Tnb
+google.co.uk##.nDcEnd
+google.co.uk###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
+google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+!
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
+my.nextdns.io##.px-3, .text-center
 ! 2024-03-04 https://www.msn.com
 msn.com##.consumptionFeed_nextArticle
 www.msn.com##.consumption-page-feed-wrapper
