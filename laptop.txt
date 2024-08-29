@@ -36,6 +36,7 @@ https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 !Bing
 bing.com###vs_cont
 bing.com###id_rh
+bing.com###id_mobile
 bing.com###brsv3
 !Photos
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
@@ -128,26 +129,21 @@ google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 my.nextdns.io##.px-3, .text-center
 !MSN
-msn.com##.consumptionFeed_nextArticle
-www.msn.com##.consumption-page-feed-wrapper
-www.msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
-www.msn.com##.oneFooter-DS-EntryPoint1-1
-www.msn.com##.intra-article-relatedcontent
-www.msn.com##.consumption-page-gridarea_action
-www.msn.com##div.left-image-intra-ad.ad-slot-placeholder.articlePageIntraArticleFullWidth
-www.msn.com###WeatherRightRail-ScreenWidth-c4
+msn.com###consumption-feed-main-id > homepage-footer
+msn.com##.consumption-page-rail-wrapper
 www.msn.com##.newsContent-DS-EntryPoint1-1
+msn.com##.consumptionFeed_nextArticle
+www.msn.com##.consumption-page-gridarea_action
+www.msn.com##.consumption-page-feed-wrapper
 !Newsblur
 newsblur.com##div.NB-welcome-features
 newsblur.com##.NB-welcome-footer
 newsblur.com##.NB-welcome-activity
 newsblur.com##.NB-welcome-subfeatures
 newsblur.com##.NB-welcome-pricing
+newsblur.com###NB-splash
 newsblur.com##.NB-splash-bottom.NB-splash-info
-||newsblur.com/media/img/welcome/header_background.jpg$image
-||newsblur.com/media/img/welcome/header-web.png$image
-||newsblur.com/media/img/welcome/header-ios.png$image
-||newsblur.com/media/img/welcome/header-android.png$image
+||newsblur.com/media/img/welcome
 ee.co.uk###fef-footer#
 ee.co.uk##.lxp-Clarity
 ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground
