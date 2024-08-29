@@ -76,6 +76,9 @@ amazon.co.uk###buyNow_feature_div
 amazon.co.uk###nav-global-location-data-modal-action
 amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
 amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
+amazon.co.uk##._video-player_view_pvea-recommendation-card-wrapper__232n5
 !Softmurmur
 asoftmurmur.com##nav
 asoftmurmur.com##.Title
