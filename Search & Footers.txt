@@ -15,6 +15,7 @@ digitalservices.bt.com###bt-footer
 nectar.com##footer
 amazon.co.uk###navFooter
 bing.com##footer
+coop.co.uk##footer
 asoftmurmur.com##.Footer
 icas.com##footer
 !News
