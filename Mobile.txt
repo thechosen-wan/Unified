@@ -67,6 +67,8 @@ google.com###footer
 google.co.uk###gb-main > header:nth-child(2) > div:nth-child(3)
 google.com###gb-main > header:nth-child(2) > div:nth-child(3)
 google.com###gb-main > header:nth-child(2) > div:first-child
+google.co.uk###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
+google.com###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
 google.com##.MV3Tnb
 google.com##.nDcEnd
 google.com##div.fbar
