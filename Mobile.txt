@@ -129,6 +129,7 @@ amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
 ee.co.uk###fef-footer
 ee.co.uk##.lxp-Clarity
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--fogBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
 ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
 ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
 ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
