@@ -169,6 +169,7 @@ m.youtube.com##button-view-model.slim_video_action_bar_renderer_button.yt-spec-b
 m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
 m.youtube.com##span.comments-entry-point-header-count:last-child
 m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child 
+m.youtube.com###player-control-overlay > div.player-controls-content > div:nth-child(5) > player-top-controls.YtwPlayerTopControlsHost:first-child > div.player-controls-top.with-video-details > player-autonav-toggle.YtwPlayerAutonavToggleHost:first-child
 ! 🚫🚫🚫🚫
 x.com
 watchwrestling.ae
