@@ -1,10 +1,11 @@
+!Co-Op
+coop.co.uk##div.page__container:nth-child(2) > div.page__footer:last-child
+coop.co.uk###offers-content > aside.coop-c-app-download.coop-c-app-download--mini.coop-u-brand-membership-blue-light-bg:last-child
 binged.in
 youtube.com###related
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-watch.ambient-topbar:last-child > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs.fresh-feeds-dismissals:last-child > ytm-slim-video-metadata-section-renderer:nth-child(2) > ytm-slim-video-information-renderer:first-child > div.slim-video-metadata-header > div.slim-video-information-content.slim-video-information-empty-badge > div.slim-video-information-title-and-badges > h2.slim-video-information-title.slim-video-metadata-title-modern:first-child > div.cbTitleButtonContainer:last-child > button.cbSubmitButton.cbButton.cbMobileButton:last-child
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents > ytm-rich-section-renderer.rich-section-single-column:first-child > div.rich-section-content.fresh-feeds-dismissals > ytm-search-bar-entry-point-view-model > div.search-bar-entry-point-buttons:last-child > div.search-bar-entry-point-button.search-bar-entry-point-more-drawer-button:first-child
-coop.co.uk###offers-content > aside.coop-c-app-download.coop-c-app-download--mini.coop-u-brand-membership-blue-light-bg:last-child
-coop.co.uk##div.page__container:nth-child(2) > div.page__footer:last-child
-!Coop
+!BT
 my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel > div.banner-carousel
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child > div.col-12.no-gutter.pega-notifications > app-global-notifications > div.pega-banner > div > div.row.row-margin.rtd-banner
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3) > div.col-12.no-gutter.marginTop-50:last-child
@@ -16,7 +17,6 @@ my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-op
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > section.bt-container.productIconsExtCust_iconWrapper__PzWOs:last-child > div.productIconsExtCust_iconTiles__0q8ns:nth-child(2)
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child
 bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
-!BT
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.RSjvib.eejsDc.btlHpb:last-child > div.MrWjeb:nth-child(2) > div.poGHk:first-child > div.SHMIQd:nth-child(5) > a.oUj9s.uprWmb:nth-child(3) > div.U1Qaj > div.JgkFac:last-child
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > div.h8plyb.HnzzId:nth-child(4) > c-wiz.yDSiEe.uGCjIb.zcLWac.eejsDc:nth-child(3) > div.ggdFnf:first-child > c-wiz:nth-child(2) > div.B8qvqf:first-child
 photos.google.com###yDmH0d > c-wiz.iK0UKe.mCyoK:first-child > c-wiz.fXq1Rc.YjWc5e:nth-child(2) > div.ELfUzc:first-child > div.SmZ4Wd.omBice:first-child > div.QtDoYb > div.T67mdd:first-child > span:first-child > button.VfPpkd-Bz112c-LgbsSe.yHy1rc.eT1oJ.mN1ivc.KIqTIe.G6iPcb.JZs73c:first-child > span.VfPpkd-kBDsod:last-child > div.S1KEib.A3Vfbb:last-child
