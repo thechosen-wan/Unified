@@ -56,16 +56,15 @@ reddit.com###main-content > shreddit-feed.nd\:visible:last-childreddit.com###par
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
 !Google
-google.com###fbarcnt
+google.com###fbar
+google.co.uk###footer
 google.com##.MV3Tnb
 google.com##.nDcEnd
-google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.co.uk###fbarcnt
+google.co.uk###fbar
 google.co.uk###footer
 google.co.uk##.MV3Tnb
 google.co.uk##.nDcEnd
-google.co.uk###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 !games on Google
 google.co.uk###rso > div.MjjYud:nth-child(2) > block-component:nth-child(6) > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
