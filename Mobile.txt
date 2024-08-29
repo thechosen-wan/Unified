@@ -66,6 +66,9 @@ google.co.uk###footer
 google.co.uk##.MV3Tnb
 google.co.uk##.nDcEnd
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.co.uk###gb-main > header:nth-child(2) > div:first-child
+google.co.uk###SBmmZd
+google.co.uk##div.fbar
 !games on Google
 google.co.uk###rso > div.MjjYud:nth-child(2) > block-component:nth-child(6) > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
 google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2) > div.IHjTsb.zsYMMe.TUOsUe:last-child > span > div.rAChLe > iframe.qePvpc
