@@ -1,3 +1,4 @@
+!Heights
 yourheights.com###newsletter
 !reddit
 reddit.com###popular-communities-list
@@ -35,11 +36,150 @@ https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 !Bing
 bing.com###vs_cont
 bing.com###id_rh
+bing.com###id_mobile
 bing.com###brsv3
 !Photos
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
+!Anime
+hianime.to###footer
+hianime.to###main-sidebar
+hianime.to##.block_area.block_area_category:nth-child(2)
+hianime.to###xmain-wrapper > div.mw-body:last-child > div.container
+hianime.to###header
+hianime.to###schedule-block
+hianime.to###discussion
+hianime.to##.block_area.block_area_category:first-child
+hianime.to###anime-featured
+hianime.to##.anis-watch-detail
+hianime.to##.block_area.block_area_category:nth-child(3)
+!Games
+www.google.com##.sLe0gf
+www.google.com##.vuVjXe
+! Gemini
+gemini.google.com##upsell-button.ng-star-inserted
+gemini.google.com##.ng-star-inserted.footer-container
+!BBC
+bbc.co.uk###elsewhereNewsWeather-label-aside-content
+www.bbc.co.uk###features-label-aside-content
+www.bbc.co.uk###elsewhere-label-aside-content
+bbc.co.uk###elsewhereSport-label-aside-content
+bbc.co.uk###elsewhereInSport-label-aside-content
+bbc.co.uk##.ssrcss-h4hmht-StaticLinks
+bbc.co.uk##footer
+!Amazon
+amazon.co.uk###rhf
+amazon.co.uk###nav-main
+amazon.co.uk###nav-orders
+amazon.co.uk###squished-desktop-row
+amazon.co.uk###buyNow_feature_div
+amazon.co.uk###nav-global-location-data-modal-action
+amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
+amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
+!Softmurmur
+asoftmurmur.com##nav
+asoftmurmur.com##.Title
+||asoftmurmur.com/assets/bg-high-res.jpg$image
+!YTM
+music.youtube.com##.ytmusic-fullbleed-thumbnail-renderer img:last-child
+!LBC
+globalplayer.com###__next > div.globalplayer.desktop:last-child > div.style_sidebar__TND2m
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:nth-child(-n+20):not(:nth-child(9))
+globalplayer.com###main-content > div.catchup-brand_shows__5n4rQ:last-child > div.catchup-brand_show__DC0Yp:last-child
+globalplayer.com##.style_contentContainer__U0Gn4, .style_withVideo__AzsvH
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > article:nth-child(7)
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_blockContainer__l8sEd.style_carousel__Stp7j
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:nth-child(n+5):nth-child(-n+17)
+globalplayer.com###main-content > div.feature_container__N_KOk > div > div:nth-child(2) > div:last-child > div.style_quadBlock__olct_:last-child
+! 2024-03-05 https://discord.com
+discord.com###online-tab
+discord.com##.nowPlayingColumn_c2739c
+discord.com##.anchor_af404b, .anchorUnderlineOnHover_af404b
+discord.com##.buttonContainer_df39bd, .app-launcher-entrypoint
+discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > nav.wrapper_fea3ef.guilds_a4d4d9:first-child > ul.tree_fea3ef > div.scroller_fea3ef.none_c49869.scrollerBase_c49869:nth-child(2) > div.listItem_c96c45:nth-child(n+5):nth-child(-n+7)
+discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.chat_a7d72e:last-child > div.subtitleContainer_a7d72e:first-child > section.title_a7d72e.container_fc4f04.themed_fc4f04 > div.upperContainer_fc4f04 > div.toolbar_fc4f04:last-child > div.iconWrapper_fc4f04.clickable_fc4f04:nth-child(n+1):nth-child(-n+5)
+discord.com###app-mount .attachButton_f298d4.attachButton_d0696b.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
+!Outlook
+outlook.office.com###tips
+outlook.live.com###tips
+outlook.office.com###owaActivityFeedButton
+outlook.live.com###owaActivityFeedButton
+outlook.live.com###teams
+outlook.live.com###skype
+outlook.live.com###owaTipsBtn_container
+outlook.live.com###owaSettingsBtn_container
+outlook.office.com###owaSettingsBtn_container
+outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
+!Google
+google.com###fbarcnt
+google.com##.MV3Tnb
+google.com##.nDcEnd
+google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
+google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.co.uk###fbarcnt
+google.co.uk##.MV3Tnb
+google.co.uk##.nDcEnd
+google.co.uk###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
+google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+!NextDNS
+my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
+my.nextdns.io##.px-3, .text-center
+!MSN
+msn.com###consumption-feed-main-id > homepage-footer
+msn.com##.consumption-page-rail-wrapper
+www.msn.com##.newsContent-DS-EntryPoint1-1
+msn.com##.consumptionFeed_nextArticle
+www.msn.com##.consumption-page-gridarea_action
+www.msn.com##.consumption-page-feed-wrapper
+!Newsblur
+newsblur.com##div.NB-welcome-features
+newsblur.com##.NB-welcome-footer
+newsblur.com##.NB-welcome-activity
+newsblur.com##.NB-welcome-subfeatures
+newsblur.com##.NB-welcome-pricing
+newsblur.com###NB-splash
+newsblur.com##.NB-splash-bottom.NB-splash-info
+||newsblur.com/media/img/welcome
+!EE
+ee.co.uk###fef-footer
+ee.co.uk##.lxp-Clarity
+ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
+ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
+ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
+ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:first-child > div:nth-child(5)
+!BT
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
+bt.com###aem-global-footer
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
+bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
+my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
+my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div.col-12.new-bt-ee-banner
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
+bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
+my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
+bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
+!General
+coinbase.com
+m.youtube.com
+macrumors.com
+hotukdeals.com
+ispreview.co.uk
+instagram.com
+twitter.com
+tiktok.com
+tumblr.com
 !YT
 youtube.com###related
 youtube.com###contents > ytd-universal-watch-card-renderer.style-scope.ytd-secondary-search-container-renderer
@@ -419,23 +559,3 @@ youtube.com###guide-button
 www.youtube.com###video-preview-container
 www.youtube.com##.ytp-ce-element
 !YOUTUBE 📺📺📺📺📺📺📺
-google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(4)
-google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
-google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.c93Gbe:last-child
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.qarstb:nth-child(4) > div.vcVZ7d:last-child
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(2)
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.co.uk###gb > div.gb_Cd.gb_gb.gb_rd > div:first-child
-google.co.uk###gb > div.gb_zd.gb_db.gb_od > div:first-child
-google.co.uk##div.L3eUgb:nth-child(4) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(4)
-google.co.uk##div.L3eUgb:nth-child(4) > div.o3j99.n1xJcf.Ne6nSd:first-child > a.MV3Tnb:nth-child(3)
-google.co.uk##div.L3eUgb:nth-child(4) > div.o3j99.c93Gbe:last-child
-google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div:first-child
-google.co.uk###gb > div.gb_Ed.gb_8a.gb_td > div.gb_De:nth-child(2) > a.gb_ma.gb_Wd.gb_Qd.gb_h.gb_id:last-child
-google.co.uk###gb > div.gb_4d.gb_6a.gb_Sd > div:first-child
-google.co.uk###gb > div.gb_4d.gb_6a.gb_Sd > div.gb_Xe:nth-child(2) > a.gb_ja.gb_ka.gb_ge.gb_gd:last-child
-google.co.uk###gb > div.gb_Dd.gb_gb.gb_rd > div:first-child
-google.co.uk###fbarcnt
-google.com###fbar
-
