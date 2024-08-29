@@ -64,6 +64,8 @@ google.co.uk##div.fbar
 google.co.uk###SBmmZd
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 google.com###footer
+google.co.uk###gb-main > header:nth-child(2) > div:nth-child(3)
+google.com###gb-main > header:nth-child(2) > div:nth-child(3)
 google.com###gb-main > header:nth-child(2) > div:first-child
 google.com##.MV3Tnb
 google.com##.nDcEnd
