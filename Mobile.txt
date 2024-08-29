@@ -1,10 +1,6 @@
-!Co-Op
-coop.co.uk##div.page__container:nth-child(2) > div.page__footer:last-child
-coop.co.uk###offers-content > aside.coop-c-app-download.coop-c-app-download--mini.coop-u-brand-membership-blue-light-bg:last-child
 binged.in
-youtube.com###related
-m.youtube.com###app > div.page-container:nth-child(3) > ytm-watch.ambient-topbar:last-child > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs.fresh-feeds-dismissals:last-child > ytm-slim-video-metadata-section-renderer:nth-child(2) > ytm-slim-video-information-renderer:first-child > div.slim-video-metadata-header > div.slim-video-information-content.slim-video-information-empty-badge > div.slim-video-information-title-and-badges > h2.slim-video-information-title.slim-video-metadata-title-modern:first-child > div.cbTitleButtonContainer:last-child > button.cbSubmitButton.cbButton.cbMobileButton:last-child
-m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents > ytm-rich-section-renderer.rich-section-single-column:first-child > div.rich-section-content.fresh-feeds-dismissals > ytm-search-bar-entry-point-view-model > div.search-bar-entry-point-buttons:last-child > div.search-bar-entry-point-button.search-bar-entry-point-more-drawer-button:first-child
+!Co-Op
+coop.co.uk###offers-content > aside.coop-c-app-download
 !BT
 my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel > div.banner-carousel
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child > div.col-12.no-gutter.pega-notifications > app-global-notifications > div.pega-banner > div > div.row.row-margin.rtd-banner
@@ -34,6 +30,11 @@ cagesideseats.com##div.l-root.l-reskin:nth-child(4) > footer.c-footer.c-footer__
 cagesideseats.com###toaster
 cagesideseats.com###coral_thread
 cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-fixed.l-segment.l-article-body-segment:nth-child(3) > div.l-col__main:first-child > section.c-nextclick:last-child
+!YT
+youtube.com###related
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-watch.ambient-topbar:last-child > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs.fresh-feeds-dismissals:last-child > ytm-slim-video-metadata-section-renderer:nth-child(2) > ytm-slim-video-information-renderer:first-child > div.slim-video-metadata-header > div.slim-video-information-content.slim-video-information-empty-badge > div.slim-video-information-title-and-badges > h2.slim-video-information-title.slim-video-metadata-title-modern:first-child > div.cbTitleButtonContainer:last-child > button.cbSubmitButton.cbButton.cbMobileButton:last-child
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer.rich-grid-single-column > div > div.rich-grid-renderer-contents > ytm-rich-section-renderer.rich-section-single-column:first-child > div.rich-section-content.fresh-feeds-dismissals > ytm-search-bar-entry-point-view-model > div.search-bar-entry-point-buttons:last-child > div.search-bar-entry-point-button.search-bar-entry-point-more-drawer-button:first-child
+!ytog
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-shelf-renderer.modern-typography.vertical-shelf-separators:nth-child(3)
 bing.com###b_footer
 m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:last-child > div:last-child > div.tab-content:first-child > ytm-tab-renderer > ytm-section-list-renderer > lazy-list > ytm-shelf-renderer.modern-typography.vertical-shelf-separators:last-child
