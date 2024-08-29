@@ -67,7 +67,6 @@ www.bbc.co.uk###elsewhere-label-aside-content
 bbc.co.uk###elsewhereSport-label-aside-content
 bbc.co.uk###elsewhereInSport-label-aside-content
 bbc.co.uk##.ssrcss-h4hmht-StaticLinks
-bbc.co.uk##footer
 !Amazon
 amazon.co.uk###rhf
 amazon.co.uk###nav-main
