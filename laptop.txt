@@ -100,11 +100,11 @@ discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.not
 discord.com###app-mount .attachButton_f298d4.attachButton_d0696b.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
 !Outlook
 outlook.office.com###tips
-outlook.office.com###owaActivityFeed
+outlook.office.com###owaActivityFeedButton
 outlook.live.com###teams
 outlook.live.com###skype
-outlook.live.com###owaTips
-outlook.live.com###owaSettings
+outlook.live.com###tips
+outlook.live.com###owaSettingsButton
 outlook.live.com###owaMeetNowButton
 outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
 !Google
