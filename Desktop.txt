@@ -119,6 +119,7 @@ google.com##.MV3Tnb
 google.com##.nDcEnd
 google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.c93Gbe:last-child
 google.co.uk###fbarcnt
 google.co.uk##.MV3Tnb
 google.co.uk##.nDcEnd
