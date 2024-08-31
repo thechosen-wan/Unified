@@ -119,6 +119,10 @@ nectar.com###newNectarPricesV2
 yourheights.com###newsletter
 !Amazon
 amazon.co.uk###rhf
+amazon.co.uk###nav-logo
+amazon.co.uk###nav-progressive-greeting
+amazon.co.uk###nav-subnav-container
+amazon.co.uk###nav-gwbar
 amazon.co.uk###squished-desktop-row
 amazon.co.uk###nav-orders
 amazon.co.uk###nav-global-location-data-modal-action
