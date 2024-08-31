@@ -120,7 +120,6 @@ yourheights.com###newsletter
 !Amazon
 amazon.co.uk###rhf
 amazon.co.uk###squished-desktop-row
-amazon.co.uk###nav-main
 amazon.co.uk###nav-orders
 amazon.co.uk###nav-global-location-data-modal-action
 amazon.co.uk###buyNow_feature_div
