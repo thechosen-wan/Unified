@@ -254,6 +254,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Fir
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/91Tech|Apple Explained/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Nikias Molina|Pete Matheson/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Luke Miani|TechLinked/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/xQc Clips|diesel patches/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Tekking101|Sawyer7mage/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/TheGreatOne!|RahRah's Hit Posts/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Arrowverse Scenes|Faster Clips/))
