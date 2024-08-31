@@ -121,7 +121,7 @@ yourheights.com###newsletter
 amazon.co.uk###rhf
 amazon.co.uk###nav-main
 amazon.co.uk###nav-orders
-amazon.co.uk###squished-desktop-row
+amazon.co.uk###nav-global-location-data-modal-action
 amazon.co.uk###buyNow_feature_div
 amazon.co.uk###a-page > footer.nav-mobile
 amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
