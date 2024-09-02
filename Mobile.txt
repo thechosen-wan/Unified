@@ -1,4 +1,5 @@
 binged.in
+spotify.com###mh-footer
 !Co-Op
 coop.co.uk###offers-content > aside.coop-c-app-download
 !BT
