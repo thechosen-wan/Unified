@@ -19,6 +19,7 @@ coop.co.uk##footer
 tfl.gov.uk###footer
 asoftmurmur.com##.Footer
 icas.com##footer
+mylondon.news##footer
 bbc.co.uk##footer
 capitalone.co.uk##footer
 !News
