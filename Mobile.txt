@@ -48,6 +48,8 @@ reddit.com###navbar-menu-button
 reddit.com###login-button
 reddit.com###get-app
 reddit.com###reddit-logo
+reddit.com###pdp-right-rail-topics
+reddit.com###right-sidebar-container > div.px-md.xs\:px-0.pt-lg:last-child
 reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
