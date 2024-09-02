@@ -1,4 +1,6 @@
-binged.in
+!MyLondon
+mylondon.news###comments-section
+!Spotify
 spotify.com###mh-footer
 !Co-Op
 coop.co.uk###offers-content > aside.coop-c-app-download
@@ -28,6 +30,7 @@ imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover
 google.com/search?q=mrwhosetheboss
 google.com/search?q=aew
 google.com/search?q=wwe
+reddit.com/r/squaredcircle
 google.com/search?q=iphone+16
 google.com/search?q=one+piece
 google.*##a[href*="twitter.com"]:nth-ancestor(2)
