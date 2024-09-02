@@ -1,4 +1,7 @@
+!MyLondon
 mylondon.news###comments-section
+mylondon.news##.related-column
+mylondon.news##.half-circle-right
 !Heights
 yourheights.com###newsletter
 !reddit
