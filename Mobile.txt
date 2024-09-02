@@ -1,5 +1,7 @@
 !MyLondon
 mylondon.news###comments-section
+mylondon.news##.related-column
+mylondon.news##.half-circle-right
 !Spotify
 spotify.com###mh-footer
 !Co-Op
