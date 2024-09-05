@@ -1,4 +1,5 @@
 !Footer
+nowtv.com###main-footer
 premierleague.com##footer
 yourheights.com##footer
 aljazeera.com##footer
