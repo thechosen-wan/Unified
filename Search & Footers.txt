@@ -1,4 +1,5 @@
 !Footer
+independent.co.uk##footer
 nowtv.com###main-footer
 premierleague.com##footer
 yourheights.com##footer
