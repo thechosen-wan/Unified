@@ -1,3 +1,6 @@
+!11Forum
+elevenforum.com##.p-body-sidebar
+elevenforum.com##div.block.sim1
 !MyLondon
 mylondon.news###comments-section
 mylondon.news##.related-column
