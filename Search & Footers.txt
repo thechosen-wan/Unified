@@ -1,6 +1,7 @@
 !Footer
 independent.co.uk##footer
 nowtv.com###main-footer
+lidl.co.uk##footer
 premierleague.com##footer
 yourheights.com##footer
 aljazeera.com##footer
