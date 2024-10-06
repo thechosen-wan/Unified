@@ -125,6 +125,7 @@ outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
 !Google
 google.com###fbarcnt
 google.co.uk##gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
+google.co.uk###gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
 google.com###gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
 google.com###gb > div.gb_Cd.gb_0d.gb_xd > div:first-child
 google.co.uk###gb > div.gb_Cd.gb_0d.gb_xd > div:first-child
