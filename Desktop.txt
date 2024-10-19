@@ -283,6 +283,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/iJu
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/sammy guevara|Chris Van Vliet/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/WrestlePlanet|RMTransit/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Cultaholic|Brian Tong/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Dawn & Dusk|LunaPienArt/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Hays World|ZONEofTECH/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/zollotech|Created by Ella/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Ring of Honor Wrestling|Sooplex/))
