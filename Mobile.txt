@@ -886,7 +886,7 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/Simon Wilson|Rio Ferdin
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Steve of Warr|NerdForge/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/SciShow|FULL SEND/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Athena P|Aquarium Info/)
-gm.youtube.com##ytm-video-with-context-renderer:has-text(/Rocky Kanaka|Stephen Howson/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Rocky Kanaka|Stephen Howson/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Paramount Pictures|Ghost/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/E! News|Vogue/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/George Clarkey|The Game Theorists/)
