@@ -168,6 +168,11 @@ ee.co.uk###fef-footer
 ee.co.uk##.lxp-Clarity
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
 ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
+ee.co.uk##.utility-bar
+ee.co.uk##.lc-SurfaceEE--fogBackground
+ee.co.uk###nbaSalesCarousel-undefined
+ee.co.uk###nbaBrandCarousel-undefined
+ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 !BT
 bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
