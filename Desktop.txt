@@ -167,12 +167,7 @@ newsblur.com##.NB-splash-bottom.NB-splash-info
 ee.co.uk###fef-footer
 ee.co.uk##.lxp-Clarity
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:first-child > div:nth-child(5)
+ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
 !BT
 bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
