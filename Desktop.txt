@@ -5,6 +5,7 @@ elevenforum.com##div.block.sim1
 mylondon.news###comments-section
 mylondon.news##.related-column
 mylondon.news##.half-circle-right
+mylondon.news###social-follow
 mylondon.news##.swipeable > .top-stories.section-theme-border
 mylondon.news##.swipeable > section > .pancake.publication-theme
 !Heights
