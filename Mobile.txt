@@ -146,28 +146,28 @@ amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
 ee.co.uk###fef-footer
 ee.co.uk##.lxp-Clarity
 ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--fogBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
-ee.co.uk###main > div.my-benefits-page:last-child > div.my-benefits-bottom-section.container:last-child > div.my-benefits-bottom-add-ons-section:first-child > div.clarity-module-wrapper:first-child > div.container.clarity-module.acc-common > div.row > div.col-md-12 > section.article-rating.ee-form
-ee.co.uk###maincontent > div.Flex__FlexContainer-sc-1o562yy-0.eQcily:nth-child(2) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:last-child > div.PrimaryNbastyles__Container-sc-119js3f-3.fFAYgR:first-child
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container:last-child > div.LinkProductTilestyles__LinkProductContainer-sc-v80fpf-0.grHVUq
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.mobilePageArea__Main-sc-11l6mu2-1.bbkRXb:nth-child(4) > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--teal01Background
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground > div.lc-Container.lc-Container--section.lc-Container--horizontalPaddingM.lc-Container--horizontalPaddingLBreakpointXL:nth-child(3)
-ee.co.uk###containerSection > div.lc-Surface.lc-SurfaceEE.lc-SurfaceEE--whiteBackground:first-child > div:nth-child(5)
+ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
+ee.co.uk##.utility-bar
+ee.co.uk##.lc-SurfaceEE--fogBackground
+ee.co.uk###nbaSalesCarousel-undefined
+ee.co.uk###nbaBrandCarousel-undefined
+ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 !BT
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
-bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
 my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
+bt.com##.bt-container.copyright_copyrightText__OWcrY:nth-child(4)
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
 my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
+bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div.col-12.new-bt-ee-banner
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
 my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
-bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
 my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
+bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
 my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
 !YT Channel Page
 m.youtube.com###app .page-container:nth-child(3) ytm-browse:last-child ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) .tab-content:first-child ytm-channel-featured-video-renderer.item > a
