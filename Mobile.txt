@@ -1,4 +1,3 @@
-search.app.goo.gl
 !MyLondon
 mylondon.news###comments-section
 mylondon.news##.related-column
@@ -65,7 +64,9 @@ reddit.com###main-content > shreddit-feed.nd\:visible:last-childreddit.com###par
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
 !Google
+search.app.goo.gl
 google.co.uk###footer
+google.co.uk###belowsb
 google.co.uk###gb-main > header:nth-child(2) > div:first-child
 google.co.uk##.MV3Tnb
 google.co.uk##.nDcEnd
