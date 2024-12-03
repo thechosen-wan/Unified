@@ -32,7 +32,6 @@ imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover
 google.com/search?q=mrwhosetheboss
 google.com/search?q=aew
 google.com/search?q=wwe
-reddit.com/r/squaredcircle
 google.com/search?q=iphone+16
 google.com/search?q=one+piece
 google.*##a[href*="twitter.com"]:nth-ancestor(2)
@@ -63,7 +62,7 @@ reddit.com###reddit-trending-searches-partial-container
 reddit.com###main-content > shreddit-feed.nd\:visible:last-childreddit.com###partial-more-posts-dDNfMTkyam0zOA
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
-reddit.com/r/squaredcircle
+||reddit.com/r/squaredcircle
 !Google
 search.app.goo.gl
 google.co.uk###footer
