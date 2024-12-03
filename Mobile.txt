@@ -62,7 +62,7 @@ reddit.com###reddit-trending-searches-partial-container
 reddit.com###main-content > shreddit-feed.nd\:visible:last-childreddit.com###partial-more-posts-dDNfMTkyam0zOA
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
-||reddit.com/r/squaredcircle
+||reddit.com/r/squaredcircle^
 !Google
 search.app.goo.gl
 google.co.uk###footer
