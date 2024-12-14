@@ -1,4 +1,5 @@
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(13)
+myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(8) > div.T4LgNb > div.ze8szd:nth-child(3) > div.SyB0Ie.MSwtwd.Ed8uyb > div.EdJ3ib:last-child > div.jkOv3d:nth-child(3) > span > div:nth-child(4)
 !Footer
 independent.co.uk##footer
 nowtv.com###main-footer
