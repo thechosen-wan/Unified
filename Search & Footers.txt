@@ -1,3 +1,4 @@
+!Google Settings
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(15)
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(16)
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(17)
