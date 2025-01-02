@@ -27,6 +27,7 @@ netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
 netflix.com##.notifications-menu:first-child
+netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div.accountLayout > div.site-footer-wrapper
 !notepad hide
 google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
 google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
