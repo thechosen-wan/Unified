@@ -126,6 +126,7 @@ outlook.live.com###skype
 outlook.live.com###owaTipsBtn_container
 outlook.live.com###owaSettingsBtn_container
 outlook.office.com###owaSettingsBtn_container
+outlook.live.com###owaMeetNowButton_container
 outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
 !Google
 google.com###fbarcnt
