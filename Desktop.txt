@@ -146,6 +146,7 @@ google.co.uk###fbarcnt
 google.co.uk##.MV3Tnb
 google.co.uk##.nDcEnd
 google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.com###layer > div > div.HLIWA.Hk4XGb
 !NextDNS
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 my.nextdns.io##.px-3, .text-center
