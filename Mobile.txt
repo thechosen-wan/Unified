@@ -6,6 +6,11 @@ mylondon.news##.half-circle-right
 spotify.com###mh-footer
 !BBC
 bbc.co.uk###Report .ssrcss-1f4iwce-CommentsModule
+bbc.co.uk###elsewhereNewsWeather-label-aside-content
+www.bbc.co.uk###features-label-aside-content
+www.bbc.co.uk###elsewhere-label-aside-content
+bbc.co.uk###elsewhereSport-label-aside-content
+bbc.co.uk###elsewhereInSport-label-aside-content
 !Co-Op
 coop.co.uk###offers-content > aside.coop-c-app-download
 !BT
