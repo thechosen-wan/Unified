@@ -40,6 +40,7 @@ asoftmurmur.com##.Footer
 icas.com##footer
 mylondon.news##footer
 bbc.co.uk##footer
+virginmedia.com##footer
 capitalone.co.uk##footer
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
