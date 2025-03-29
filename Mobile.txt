@@ -175,12 +175,18 @@ bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.
 m.youtube.com###app .page-container:nth-child(3) ytm-browse:last-child ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) .tab-content:first-child ytm-channel-featured-video-renderer.item > a
 m.youtube.com###app .page-container:nth-child(3) ytm-browse:last-child ytm-single-column-browse-results-renderer.modern-tabs:nth-child(2) .tab-content:first-child ytm-item-section-renderer:nth-child(2)
 !YT
+m.youtube.com##button.slim-video-information-show-more
+m.youtube.com##.slim-owner-subscribe-button
+m.youtube.com###app ytm-subscribe-button-renderer
+m.youtube.com###app h2.engagement-panel-section-list-header-context.typography-body-2a:last-child
 m.youtube.com##yt-list-item-view-model.yt-list-item-view-model-wiz:last-child
 m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
 m.youtube.com##button-view-model.slim_video_action_bar_renderer_button.yt-spec-button-view-model:last-child
 m.youtube.com##span.comments-entry-point-header-count:last-child
 m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child
+m.youtube.com##ytm-section-list-renderer:has-text(For You)
 m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
+m.youtube.com###app .page-container ytm-browse:last-child ytm-item-section-renderer:last-child
 ! 🚫🚫🚫🚫
 x.com
 watchwrestling.ae
