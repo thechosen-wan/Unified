@@ -187,7 +187,6 @@ m.youtube.com##button-view-model.slim_video_action_bar_renderer_button.yt-spec-b
 m.youtube.com##span.comments-entry-point-header-count:last-child
 m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child
 m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
-m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse:last-child > ytm-single-column-browse-results-renderer.modern-tabs:last-child > div:last-child > div.tab-content > ytm-tab-renderer > ytm-section-list-renderer.no-bottom-separator > lazy-list > ytm-item-section-renderer:last-child > lazy-list
 ! 🚫🚫🚫🚫
 x.com
 watchwrestling.ae
