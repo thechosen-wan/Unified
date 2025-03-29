@@ -4,6 +4,8 @@ mylondon.news##.related-column
 mylondon.news##.half-circle-right
 !Spotify
 spotify.com###mh-footer
+!BBC
+bbc.co.uk###Report .ssrcss-1f4iwce-CommentsModule
 !Co-Op
 coop.co.uk###offers-content > aside.coop-c-app-download
 !BT
