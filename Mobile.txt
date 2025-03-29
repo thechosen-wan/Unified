@@ -2,6 +2,8 @@
 mylondon.news###comments-section
 mylondon.news##.related-column
 mylondon.news##.half-circle-right
+!Co-Op
+coop.co.uk###offers-content > aside.coop-c-app-download
 !Spotify
 spotify.com###mh-footer
 !BBC
@@ -11,8 +13,6 @@ www.bbc.co.uk###features-label-aside-content
 www.bbc.co.uk###elsewhere-label-aside-content
 bbc.co.uk###elsewhereSport-label-aside-content
 bbc.co.uk###elsewhereInSport-label-aside-content
-!Co-Op
-coop.co.uk###offers-content > aside.coop-c-app-download
 !BT
 bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
