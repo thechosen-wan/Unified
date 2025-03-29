@@ -172,6 +172,7 @@ bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > secti
 my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
 !YT
+m.youtube.com###app ytm-single-column-watch-next-results-renderer
 m.youtube.com##button.slim-video-information-show-more
 m.youtube.com##.slim-owner-subscribe-button
 m.youtube.com###app ytm-subscribe-button-renderer
