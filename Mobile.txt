@@ -180,11 +180,11 @@ m.youtube.com###player-endscreen
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##ytm-search ytm-video-with-context-renderer [data-style="SHORTS"]
 m.youtube.com##ytm-subscribe-button-renderer
+m.youtube.com##yt-list-item-view-model.yt-list-item-view-model-wiz:last-child
 m.youtube.com##div.related-items-container
 m.youtube.com##div.modern-panel-with-inline-badge-subtitle
 m.youtube.com##ytm-menu:last-child
 m.youtube.com##button-view-model.slim_video_action_bar_renderer_button.yt-spec-button-view-model:last-child
-m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
 m.youtube.com##span.comments-entry-point-header-count:last-child
 m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child 
 m.youtube.com###player-control-overlay > div.player-controls-content > div:nth-child(5) > player-top-controls.YtwPlayerTopControlsHost:first-child > div.player-controls-top.with-video-details > player-autonav-toggle.YtwPlayerAutonavToggleHost:first-child
