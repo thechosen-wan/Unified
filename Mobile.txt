@@ -192,6 +192,7 @@ m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child
 m.youtube.com##ytm-section-list-renderer:has-text(For You)
 m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
 m.youtube.com###app .page-container ytm-browse:last-child ytm-item-section-renderer:last-child
+m.youtube.com###app > .page-container > .watch-content:last-child
 ! 🚫🚫🚫🚫
 x.com
 watchwrestling.ae
