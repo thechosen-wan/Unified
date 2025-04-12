@@ -294,5 +294,7 @@ google.*##a[href*="escapistmagazine.com/jujutsu"]:nth-ancestor(2)
 google.*##a[href*="oneesports.gg/anime"]:nth-ancestor(2)
 google.*##a[href*="twitter.com/pewpiece"]:nth-ancestor(2)
 google.*##a[href*="readonepiece.com"]:nth-ancestor(2)
-!comments
+!Comments
 independent.co.uk###comments
+!Netflix
+netflix.com##.site-footer-wrapper
