@@ -42,6 +42,7 @@ mylondon.news##footer
 bbc.co.uk##footer
 virginmedia.com##footer
 capitalone.co.uk##footer
+global.americanexpress.com##footer
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
