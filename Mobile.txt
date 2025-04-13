@@ -1,3 +1,6 @@
+!BBC Weather
+bbc.co.uk###site-container > div.wr-c-weather-watchers.gs-u-box-size.gs-u-pt\+\+:nth-child(9)
+bbc.co.uk###navigation-links\?country\=gb\&language\=en\&service\=weather
 !MyLondon
 mylondon.news###comments-section
 mylondon.news##.related-column
