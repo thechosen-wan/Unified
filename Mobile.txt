@@ -186,6 +186,7 @@ my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div
 bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
 !YT
 m.youtube.com###ytm-reel-shelf-renderer
+m.youtube.com###app > .page-container > .watch-content:last-child
 m.youtube.com###app > .page-container > ytm-watch:last-child > .watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer:last-child > ytm-item-section-renderer:last-child
 m.youtube.com###app .page-container ytm-browse:last-child ytm-item-section-renderer:last-child
 m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
