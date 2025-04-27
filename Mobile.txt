@@ -95,6 +95,7 @@ google.com###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:n
 google.com##.MV3Tnb
 google.com##.nDcEnd
 google.com##div.fbar
+google.co.uk###main > div.JwzvB:last-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 google.com###SBmmZd
 !games on Google
