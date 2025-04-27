@@ -34,6 +34,8 @@ digitalservices.bt.com###bt-footer
 nectar.com##footer
 amazon.co.uk###navFooter
 bing.com##footer
+citymapper.com##cm-landing-footer
+oleandsteen.co.uk##footer
 coop.co.uk##footer
 tfl.gov.uk###footer
 asoftmurmur.com##.Footer
