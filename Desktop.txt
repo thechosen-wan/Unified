@@ -272,6 +272,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Tec
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/All Elite Wrestling|WWE/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/JDfromNY206|Geoff Marshall/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/penguinz0|Chibi Reviews/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The Rock|A24/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Stand Out TV|ULTRA HAZE/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/UnitedPeoplesTV|SomeNorthLondoner/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/John Campea|Mrwhosetheboss/))
