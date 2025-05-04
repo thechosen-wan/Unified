@@ -61,7 +61,7 @@ google.*##a[href*="www.espn.co.uk"]:nth-ancestor(2)
 google.*##a[href*="www.manchestereveningnews.co.uk"]:nth-ancestor(2)
 google.*##a[href*="talksport.com"]:nth-ancestor(2)
 google.*##a[href*="www.express.co.uk"]:nth-ancestor(2)
-google.com##div:has-text(Man United|Manchester United)
+google.com##div:has-text(/Man United|Manchester United/)
 !Media
 google.*##a[href*="imdb.com"]:nth-ancestor(2)
 google.*##a[href*="youtube.fandom.com"]:nth-ancestor(2)
