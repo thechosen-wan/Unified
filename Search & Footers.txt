@@ -62,7 +62,7 @@ google.*##a[href*="www.manchestereveningnews.co.uk"]:nth-ancestor(2)
 google.*##a[href*="talksport.com"]:nth-ancestor(2)
 google.*##a[href*="www.express.co.uk"]:nth-ancestor(2)
 www.google.com##div:has-text(/Man United|Manchester United/)
-  www.google.com##div:has-text(/WWE|AEW/)
+www.google.com##div:has-text(/WWE|AEW/)
 !Media
 google.*##a[href*="imdb.com"]:nth-ancestor(2)
 google.*##a[href*="youtube.fandom.com"]:nth-ancestor(2)
