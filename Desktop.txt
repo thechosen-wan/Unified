@@ -1,3 +1,7 @@
+!Temp
+bing.com/videos
+advantage.icas.com##.d2l-navigation-s-logo
+advantage.icas.com##.d2l-navigation-s-personal-menu-text
 !11Forum
 elevenforum.com##.p-body-sidebar
 elevenforum.com##div.block.sim1
