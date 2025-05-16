@@ -2,6 +2,8 @@
 bing.com/videos
 advantage.icas.com##.d2l-navigation-s-logo
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
+youtube.com###title > div.cbTitleButtonContainer:last-child
+gemini.google.com###app-root > main.chat-app > top-bar-actions.ia-redesign:nth-child(2) > div.top-bar-actions > div.buttons-container.referral.ng-star-inserted:nth-child(2)
 !11Forum
 elevenforum.com##.p-body-sidebar
 elevenforum.com##div.block.sim1
