@@ -42,15 +42,13 @@ nectar.com###newNectarPricesV2
 !Spotify
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
 open.spotify.com##div.main-view-container__mh-footer-container:last-child
-!Lookmovie
-lookmovie2.la##.movie-items.movies-items__category:nth-child(5)
-lookmovie2.la##.page-single .container .row.ipad-width:last-child
-lookmovie2.la##.view-movie .may-also-like .movie-items.movies-items__category
-lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row.ipad-width2:last-child
-lookmovie2.la##header.ht-header .menu-area-right .navbar-nav.menu-right
-lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row:nth-child(3) .col-sm-12
-lookmovie2.la###app > footer.ht-footer:nth-child(4)
-https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
+!Shows
+1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:last-child
+1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:nth-child(3)
+1shows.ru##Trending
+1shows.ru##.py-\[2rem\]
+1shows.ru###Recommendation\ \&\ Similar
+1shows.ru###reviews
 !Bing
 bing.com###vs_cont
 bing.com###id_rh
