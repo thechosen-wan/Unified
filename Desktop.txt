@@ -4,6 +4,10 @@ advantage.icas.com##.d2l-navigation-s-logo
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 youtube.com###title > div.cbTitleButtonContainer:last-child
 gemini.google.com###app-root > main.chat-app > top-bar-actions.ia-redesign:nth-child(2) > div.top-bar-actions > div.buttons-container.referral.ng-star-inserted:nth-child(2)
+!VM
+virginmedia.com###hero-banner
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
 !11Forum
 elevenforum.com##.p-body-sidebar
 elevenforum.com##div.block.sim1
