@@ -14,6 +14,9 @@ google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99:last-child
 google.co.uk###gb > div.gb_Cd.gb_Zd.gb_xd > div:first-child
 google.com###gb > div.gb_Cd.gb_Zd.gb_xd > div:first-child
+1shows.ru##footer
+kagi.com##div.footer
+kagi.com##.footerInner
 independent.co.uk##footer
 nowtv.com###main-footer
 lidl.co.uk##footer
