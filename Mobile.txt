@@ -7,10 +7,22 @@ bbc.co.uk###site-container > div.wr-c-observations.gs-u-box-size.gs-u-pv\+\+:nth
 mylondon.news###comments-section
 mylondon.news##.related-column
 mylondon.news##.half-circle-right
+!Shows
+1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:last-child
+1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:nth-child(3)
+1shows.ru##Trending
+1shows.ru##.py-\[2rem\]
+1shows.ru###Recommendation\ \&\ Similar
+1shows.ru###reviews
 !Co-Op
 coop.co.uk###offers-content > aside.coop-c-app-download
 !Spotify
 spotify.com###mh-footer
+!VM
+virginmedia.com###hero-banner
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
+virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > div.theme-provider__application:last-child > div.app > main > vm-account-settings-shell.ng-star-inserted:last-child > main.main:nth-child(2) > vm-challenger-online-security.ng-star-inserted:last-child > div.ng-star-inserted > div.vm-container.account-security-main > div.vm-row.content:last-child
 !BBC
 bbc.co.uk###Report .ssrcss-1f4iwce-CommentsModule
 bbc.co.uk###elsewhereNewsWeather-label-aside-content
@@ -78,32 +90,18 @@ reddit.com##header
 ||reddit.com/r/squaredcircle^
 !Google
 search.app.goo.gl
-google.co.uk###footer
-google.co.uk###belowsb
-google.co.uk###gb-main > header:nth-child(2) > div:first-child
-google.co.uk##.MV3Tnb
-google.co.uk##.nDcEnd
-google.co.uk##div.fbar
-google.co.uk###SBmmZd
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 google.com###footer
-google.co.uk###gb-main > header:nth-child(2) > div:nth-child(3)
 google.com###gb-main > header:nth-child(2) > div:nth-child(3)
 google.com###gb-main > header:nth-child(2) > div:first-child
-google.co.uk###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
 google.com###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
 google.com##.MV3Tnb
 google.com##.nDcEnd
 google.com##div.fbar
-google.co.uk###main > div.JwzvB:last-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 google.com###SBmmZd
 !games on Google
-google.co.uk###rso > div.MjjYud:nth-child(2) > block-component:nth-child(6) > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
 google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2) > div.IHjTsb.zsYMMe.TUOsUe:last-child > span > div.rAChLe > iframe.qePvpc
 google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2)
-google.co.uk###kp-wp-tab-overview > div.TzHB6b.Ww4FFb.vt6azd.DlUvEb.UBoxCb.LMRCfc:first-child > div > div.sATSHe > div > block-component > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
-google.co.uk###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe
 !NextDNS
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 my.nextdns.io##.px-3, .text-center
@@ -113,15 +111,6 @@ netflix.com##div.lolomoRow:nth-child(7)
 netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
 netflix.com##.notifications-menu:first-child
-!Lookmovie
-lookmovie2.la##.movie-items.movies-items__category:nth-child(5)
-lookmovie2.la##.page-single .container .row.ipad-width:last-child
-lookmovie2.la##.view-movie .may-also-like .movie-items.movies-items__category
-lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row.ipad-width2:last-child
-lookmovie2.la##header.ht-header .menu-area-right .navbar-nav.menu-right
-lookmovie2.la##.view-movie .page-single.movie-single .container:last-child .row:nth-child(3) .col-sm-12
-lookmovie2.la###app > footer.ht-footer:nth-child(9)
-https://cloudcdn.monster/static/pr/b-earn.png$domain=lookmovie2.la
 !Photos
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
@@ -170,21 +159,6 @@ ee.co.uk###nbaBrandCarousel-undefined
 ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 !BT
 bt.com###aem-global-footer
-my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
-bt.com##.bt-container.copyright_copyrightText__OWcrY:nth-child(4)
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
-my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
-bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div.col-12.new-bt-ee-banner
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
-bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
-my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
-bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
 !YT
 m.youtube.com###ytm-reel-shelf-renderer
 m.youtube.com###app > .page-container > ytm-watch:last-child > .watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer:last-child > ytm-item-section-renderer:last-child
@@ -202,12 +176,8 @@ m.youtube.com##button.slim-video-information-show-more
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
 ! 🚫🚫🚫🚫
 x.com
-watchwrestling.ae
-watchwrestling.ec
-watchwrestling.in
 twitter.com
 tumblr.com
-tiktok.com
 thinkbroadband.com
 theverge.com
 duckduckgo.com
@@ -317,7 +287,7 @@ m.youtube.com##ytm-rich-item-renderer:has-text(/MLT Magic Tricks|MMA Bouts/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Ronja World|LaSteroid Daddy Hack IV/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/The Pain Game|Kitchen Nightmares/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/JOLLY|REEV/)
-443cx cdzm.youtube.com##ytm-rich-item-renderer:has-text(/Kallmekris|Peter Kay/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/Kallmekris|Peter Kay/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Katie Hopkins OFFICIAL|The Graham Norton Show/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/LADbible|Talent Recap/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Lesics|Jokes On Us/)
@@ -459,9 +429,9 @@ m.youtube.com##ytm-rich-item-renderer:has-text(/Elizabeth Line|Tram/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Northern City Line|Station is Now /)
 m.youtube.com##ytm-rich-item-renderer:has-text(/TNA|NJPW/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/WWE|WATCH ALONG/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 18|iPhone 16/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 19|iPhone 17/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 20|iPhone 18/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 19|iPhone 16/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 26|iPhone 17/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 27|iPhone 18/)
 !YT Search Words 🔎🔎🔎🔎🔎🔎
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAEW\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAndroid\b/i))
@@ -487,9 +457,9 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bDragon Ball\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFamily Guy\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFrieren\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGalaxy S23\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGalaxy S24\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGalaxy S25\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGalaxy S26\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGalaxy Z\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bGoogle Pixel\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bHasanabi\b/i))
@@ -498,11 +468,10 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bHuawei\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bImpact Wrestling\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bIndia\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biOS 17\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biOS 18\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biOS 19\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 13\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 14\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biOS 26\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 19\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 15\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 16\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biPhone 17\b/i))
@@ -519,6 +488,7 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bLuffy\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMisawa\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bM4 Mac\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bM5 Mac\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMacBook\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMalayalam\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMarvel\b/i))
@@ -534,6 +504,7 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPower Rangers\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPixel 9\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPixel 10\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bPixel 11\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bRoblox\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bSamsung\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bSolo leveling\b/i))
