@@ -134,22 +134,13 @@ outlook.live.com###owaMeetNowButton_container
 outlook.live.com###MailList > div.ckaDq > div.fGEFC:first-child > div.ELQfE
 !Google
 google.com###fbarcnt
-google.co.uk###gb > div.gb_Ad.gb_Xd.gb_vd > div:first-child
 google.com###gb > div.gb_Ad.gb_Xd.gb_vd > div:first-child
-google.co.uk###gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
 google.com###gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
 google.com###gb > div.gb_Cd.gb_0d.gb_xd > div:first-child
-google.co.uk###gb > div.gb_Cd.gb_0d.gb_xd > div:first-child
-google.co.uk###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com##.MV3Tnb
 google.com##.nDcEnd
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.co.uk##div.L3eUgb:nth-child(3) > div.o3j99.c93Gbe:last-child
-google.co.uk###fbarcnt
-google.co.uk##.MV3Tnb
-google.co.uk##.nDcEnd
-google.co.uk##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 google.com###layer > div > div.HLIWA.Hk4XGb
 !NextDNS
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
@@ -180,28 +171,10 @@ ee.co.uk##.lc-SurfaceEE--fogBackground
 ee.co.uk###nbaSalesCarousel-undefined
 ee.co.uk###nbaBrandCarousel-undefined
 ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
-!BT
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
-bt.com###aem-global-footer
-bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
-bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
-my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
-my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div.col-12.new-bt-ee-banner
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
-my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
-bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
-my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
-my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
-bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
-bt.com##.bt-container.copyright_copyrightText__OWcrY:nth-child(4)
 !General
 coinbase.com
 m.youtube.com
 macrumors.com
-hotukdeals.com
 ispreview.co.uk
 instagram.com
 twitter.com
@@ -229,15 +202,15 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bG
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S25\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S26\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bIain Dale\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 17\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 18\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 26\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 27\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 19\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 13\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 14\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 15\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 17\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 18\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 19\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJames Gunn\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJujutsu Kaisen\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bJJK\b/i))
@@ -466,11 +439,11 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bHigh Speed 2\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bHS2\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJohn Campea\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 17\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 18\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 19\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 26\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPad\b/i))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 15\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 17\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 18\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bin Premier League history\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJapan\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJeremy Clarkson\b/i))
