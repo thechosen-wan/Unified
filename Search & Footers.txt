@@ -19,6 +19,7 @@ kagi.com##div.footer
 kagi.com##.footerInner
 independent.co.uk##footer
 nowtv.com###main-footer
+virginmedia.com##vo-footer
 lidl.co.uk##footer
 premierleague.com##footer
 yourheights.com##footer
