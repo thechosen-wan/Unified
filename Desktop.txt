@@ -8,6 +8,7 @@ gemini.google.com###app-root > main.chat-app > top-bar-actions.ia-redesign:nth-c
 virginmedia.com###hero-banner
 virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
 virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
+virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > div.theme-provider__application:last-child > div.app > main > vm-account-settings-shell.ng-star-inserted:last-child > main.main:nth-child(2) > vm-challenger-online-security.ng-star-inserted:last-child > div.ng-star-inserted > div.vm-container.account-security-main > div.vm-row.content:last-child
 !11Forum
 elevenforum.com##.p-body-sidebar
 elevenforum.com##div.block.sim1
