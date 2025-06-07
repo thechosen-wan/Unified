@@ -531,7 +531,6 @@ youtube.com###sponsor-button
 youtube.com###footer
 youtube.com###chips
 youtube.com##.ytp-endscreen-content
-youtube.com###comments
 youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
 youtube.com##ytd-reel-shelf-renderer h2 [d^="M17.77,10.32l-1.2-.5L18,9.06a3"]:upward(ytd-reel-shelf-renderer)
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Search for/i)
