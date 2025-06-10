@@ -105,9 +105,6 @@ google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.
 !NextDNS
 my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
 my.nextdns.io##.px-3, .text-center
-!Netflix
-netflix.com##.moreLikeThis--wrapper
-netflix.com##.trailersAndMore--wrapper
 !Photos
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
