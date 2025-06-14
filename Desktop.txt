@@ -1,3 +1,5 @@
+disneyplus.com
+bbc.co.uk/iplayer
 !Gemini
 gemini.google.com###app-root > main.chat-app > top-bar-actions.ia-redesign:nth-child(2) > div.top-bar-actions > div.buttons-container.referral.ng-star-inserted:nth-child(2)
 !VM
