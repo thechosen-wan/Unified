@@ -188,7 +188,7 @@ cagematch.net
 bidb.uk
 pak-mcqs.net
 technicalgaurav.com
-!YT Channel Page 
+!YT Home Channels 🫂🫂🫂🫂🫂🫂
 m.youtube.com##ytm-rich-item-renderer:has-text(/ULTRA HAZE|YeahMad/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Pete Matheson|WCW/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Wandering Turnip|Wendall/)
@@ -213,7 +213,7 @@ m.youtube.com##ytm-rich-item-renderer:has-text(/Chuckle Honeybear|Yung Filly/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Our Tribe of Many|Tim Henson/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Bionic|Jesser Reacts/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Banijay Comedy|FilmSpot Trailer/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/BOB ROSS|House M.D/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/BOB ROSS|House M.D./)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Boxoffice|Action Bronson/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Hammbro|SB Mowing/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Roblox|Minecraft/)
