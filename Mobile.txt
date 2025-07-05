@@ -188,31 +188,6 @@ cagematch.net
 bidb.uk
 pak-mcqs.net
 technicalgaurav.com
-!YT Channel Page
-!Keyword Home Block 🏡🏡🏡🏡🏡🏡🏡
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAnime\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bASMR\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bBest Moments\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bBiden\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bCartoon\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bCompilation\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bCovid\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFails\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFeminist\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFortnite\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bIceberg\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bKamala Harris\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMinecraft\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMrBeastb/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bOne Piece\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bRichard Hammond\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bskibidi toilet\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bSlime\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bTop Gear\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\btrain\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bTrump\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bwoke\b/i))
-!YT Home Channels 🫂🫂🫂🫂🫂🫂
 !YT Search Words 🔎🔎🔎🔎🔎🔎
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAndroid\b/i))
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAsmongold\b/i))
