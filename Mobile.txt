@@ -412,7 +412,7 @@ m.youtube.com##ytm-rich-item-renderer:has-text(/Least Frequent Bus|Dial-A-Ride/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Elizabeth Line|Tram/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Northern City Line|Station is Now /)
 m.youtube.com##ytm-rich-item-renderer:has-text(/TNA|NJPW/)
-m.youtube.com##ytm-rich-item-renderer:has-text(Jujutsu Kaisen/|WATCH ALONG/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/Jujutsu Kaisen/|WATCH ALONG/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 19|iPhone 16/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 27|iPhone 18/)
 !YT Search Words 🔎🔎🔎🔎🔎🔎
