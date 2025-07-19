@@ -28,7 +28,7 @@ aljazeera.com##footer
 netflix.com##footer
 netflix.com###member-footer
 disneyplus.com##footer
-github.com###footer
+github.com##footer
 elevenforum.com###footer
 tntsports.co.uk##footer
 rewards.bing.com###footerRegion
