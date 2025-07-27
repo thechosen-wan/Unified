@@ -1,3 +1,4 @@
+go.etoro.com
 bbci.co.uk
 disneyplus.com
 !Gemini
