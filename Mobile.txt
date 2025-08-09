@@ -65,6 +65,8 @@ cagesideseats.com##div.l-root.l-reskin:nth-child(4) > footer.c-footer.c-footer__
 cagesideseats.com###toaster
 cagesideseats.com###coral_thread
 cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-fixed.l-segment.l-article-body-segment:nth-child(3) > div.l-col__main:first-child > section.c-nextclick:last-child
+!Perplexity
+perplexity.ai##.gap-x-sm.flex.items-center:last-child
 !Reddit 👾
 sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="aew"],[permalink*="sting"],[permalink*="trump"])
 sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="wreddit"],[permalink*="tna"],[permalink*="cosplay"])
