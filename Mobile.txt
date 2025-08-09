@@ -74,7 +74,6 @@ sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="wwe"],[permalink*="m
 sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="srs"],[permalink*="bryan alvarez"],[permalink*="spoiler"])
 sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="tjpw"],[permalink*="nxt"],[permalink*="njpw"])
 /svc/shreddit/community-more-posts/
-reddit.com##reddit-header-small.theme-beta
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
 reddit.com###right-sidebar-container
