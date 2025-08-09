@@ -18,6 +18,11 @@ mylondon.news##.half-circle-right
 mylondon.news###social-follow
 mylondon.news##.swipeable > .top-stories.section-theme-border
 mylondon.news##.swipeable > section > .pancake.publication-theme
+!Perplexity
+perplexity.ai##a.p-sm.group.flex.w-full.flex-col.items-center.justify-center.gap-0\.5:nth-child(3)
+perplexity.ai##button.gap-xs.group.inline-flex.appearance-none.flex-col.items-center:nth-child(2)
+perplexity.ai##div.pb-sm.gap-md.mt-auto.flex.w-full.min-w-0.flex-col.items-center.justify-center.\[\&\>\*\]\:w-full:last-child > div.gap-xs.flex.flex-col.items-center:last-child
+perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.transition-all.duration-300.opacity.flex.items-center.gap-x-xs.md\:gap-x-0.opacity-100:last-child
 !Heights
 yourheights.com###newsletter
 !reddit
