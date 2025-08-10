@@ -44,6 +44,7 @@ bing.com##footer
 citymapper.com##cm-landing-footer
 oleandsteen.co.uk##footer
 coop.co.uk##footer
+ticketmaster.co.uk##footer
 tfl.gov.uk###footer
 asoftmurmur.com##.Footer
 icas.com##footer
