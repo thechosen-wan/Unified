@@ -68,6 +68,7 @@ cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-f
 !Perplexity
 perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
 !Reddit 👾
+www.reddit.com##[src*="/listing-below"]:remove()
 /svc/shreddit/community-more-posts/
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
