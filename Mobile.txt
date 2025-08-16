@@ -68,11 +68,6 @@ cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-f
 !Perplexity
 perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
 !Reddit 👾
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="aew"],[permalink*="sting"],[permalink*="trump"])
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="wreddit"],[permalink*="tna"],[permalink*="cosplay"])
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="wwe"],[permalink*="meltzer"],[permalink*="wrestlemania"])
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="srs"],[permalink*="bryan alvarez"],[permalink*="spoiler"])
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="tjpw"],[permalink*="nxt"],[permalink*="njpw"])
 /svc/shreddit/community-more-posts/
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
@@ -81,7 +76,6 @@ reddit.com###login-button
 reddit.com###get-app
 reddit.com###reddit-logo
 reddit.com###pdp-right-rail-topics
-reddit.com###right-sidebar-container > div.px-md.xs\:px-0.pt-lg:last-child
 reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
