@@ -171,6 +171,7 @@ m.youtube.com###app ytm-subscribe-button-renderer
 m.youtube.com##.slim-owner-subscribe-button
 m.youtube.com##button.slim-video-information-show-more
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
+m.youtube.com##.related-items-container
 ! 🚫🚫🚫🚫
 x.com
 twitter.com
