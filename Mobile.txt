@@ -72,7 +72,6 @@ www.reddit.com##[src*="/listing-below"]:remove()
 /svc/shreddit/community-more-posts/
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
-reddit.com###right-sidebar-container
 reddit.com###login-button
 reddit.com###get-app
 reddit.com###reddit-logo
@@ -81,14 +80,13 @@ reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###reddit-trending-searches-partial-container
-reddit.com###main-content > shreddit-feed.nd\:visible:last-childreddit.com###partial-more-posts-dDNfMTkyam0zOA
+reddit.com###main-content > shreddit-feed.nd\:visible:last-child
+reddit.com###partial-more-posts-dDNfMTkyam0zOA
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
 www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
-www.reddit.com###reddit-trending-searches-partial-container
 reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
 reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
-reddit.com###right-sidebar-container
 reddit.com###expand-user-drawer-button
 reddit.com##shreddit-app[pagetype="home"] #subgrid-container
 !Google
