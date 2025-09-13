@@ -269,6 +269,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Uni
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/John Campea|Mrwhosetheboss/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/ShortCircuit|Linus Tech Tips/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Marques Brownlee|Jago Hazzard/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/9to5Mac|TechOdyssey/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/First We Feast|APEX Predator Series/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/91Tech|Apple Explained/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Nikias Molina|Pete Matheson/))
@@ -456,6 +457,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biOS 26\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPad\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 17\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone Air\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\biPhone 18\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bin Premier League history\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bJapan\b/i))
@@ -471,6 +473,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bIain Dale\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bLiverpool Street\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM4 Mac\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM5 Mac\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMacBook\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMemes\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMinecraft\b/i))
@@ -544,7 +547,7 @@ youtube.com###footer
 youtube.com###chips
 youtube.com##.ytp-endscreen-content
 youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
-youtube.com##ytd-reel-shelf-renderer h2 [d^="M17.77,10.32l-1.2-.5L18,9.06a3"]:upward(ytd-reel-shelf-renderer)
+youtube.com##ytd-reel-shelf-renderer
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Search for/i)
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/People also search for/i)
 youtube.com##ytd-shelf-renderer:has-text(/For you|From related searches|People also watched|Channels new to you|Previously watched|Popular in London|Top news|Latest posts from/)
