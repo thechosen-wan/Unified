@@ -195,6 +195,7 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bA
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAndroid\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAnime\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bApple Watch\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bApple TV 4K\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBiden\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBenoit\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDanielson\b/i))
