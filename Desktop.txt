@@ -194,6 +194,7 @@ tumblr.com
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAEW\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAndroid\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAnime\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bApple Watch\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBiden\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bBenoit\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bDanielson\b/i))
@@ -206,15 +207,14 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bD
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFarage\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFire Force\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bFrieren\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S23\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S24\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S25\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bGalaxy S26\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bHomePod\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bIain Dale\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 26\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 27\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biOS 19\b/i))
-youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 14\b/i))
+youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone Air\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 15\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 16\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\biPhone 17\b/i))
@@ -535,6 +535,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bVince McMahon\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bXiaomi\b/i))
 !YT General
+youtube.com###contents grid-shelf-view-model:has(yt-section-header-view-model:has-text(Shorts))
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
 i.ytimg.com/an_webp
 youtube.com###flexible-item-buttons > ytd-download-button-renderer
