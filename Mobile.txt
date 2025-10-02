@@ -514,6 +514,7 @@ m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bwoke\b/i))
 !YT Channel Search Block 🧠🧠🧠🧠🧠🧠🧠
 m.youtube.com##ytm-video-with-context-renderer:has-text(/penguinz0|ESPN/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/All Elite Wrestling|WWE/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Network Nathan|Ashley Rabot/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Linkin Park|Dominic Fike/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Star Wars Theory|Jeremy Jahns/)
