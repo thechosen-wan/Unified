@@ -87,6 +87,10 @@ reddit.com###main-content > shreddit-feed.nd\:visible:last-child
 reddit.com###partial-more-posts-dDNfMTkyam0zOA
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 reddit.com##header
+reddit.com##shreddit-app > alert-controller
+reddit.com##div[id^="partial-more-posts-"]
+reddit.com###answers-suggested-queries-m3
+m.reddit.com##div:has-text(nxt)
 www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
 reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
 reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
