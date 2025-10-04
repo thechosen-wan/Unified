@@ -260,6 +260,7 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Ins
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Expressions Oozing|Yeah Mad/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Wandering Turnip|Waveform Clips/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/DR Sports|United View/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/WRESTHINGS|FILTHY @ FIVE/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/TechAltar|The Friday Checkout/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/All Elite Wrestling|WWE/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/JDfromNY206|Geoff Marshall/))
