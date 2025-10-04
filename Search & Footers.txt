@@ -28,6 +28,7 @@ google.com##div.L3eUgb:nth-child(2) > div.o3j99:last-child
 google.co.uk###gb > div.gb_Cd.gb_Zd.gb_xd > div:first-child
 google.com###gb > div.gb_Cd.gb_Zd.gb_xd > div:first-child
 google.com###gb > div.gb_M.gb_0.gb_Pf.gb_Wf:first-child
+google.com##div.gb_M.gb_1.gb_Pf.gb_Wf
 1shows.ru##footer
 kagi.com##div.footer
 kagi.com##.footerInner
