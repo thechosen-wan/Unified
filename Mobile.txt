@@ -178,6 +178,7 @@ m.youtube.com##button.slim-video-information-show-more
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
 m.youtube.com##button[aria-label="Share"]
 m.youtube.com##.related-items-container
+m.youtube.com##.mobile-topbar-header-sign-in-button
 ! 🚫🚫🚫🚫
 x.com
 twitter.com
