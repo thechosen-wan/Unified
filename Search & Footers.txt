@@ -1,4 +1,6 @@
 velobet.com
+gofile.io
+dailymotion.com
 !Ecosia
 ecosia.org##footer
 ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
