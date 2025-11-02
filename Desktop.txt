@@ -1,6 +1,12 @@
 bbci.co.uk
 go.etoro.com
 disneyplus.com
+!NTS
+nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-cta.nts-app.nts-button.nts-link.hidden-phone:last-child
+nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > button.header-nav-item.nts-link.hidden-phone:nth-child(4)
+nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-item.nts-link:nth-child(5)
+nts.live##.soundcloud-player__brand-logo-container
+nts.live###react-content > div.footer-player.footer-player--episode-player.is-soundcloud.footer-player--open:nth-child(3) > div.episode-player-wrapper:last-child > div.episode-player:first-child > div.episode-player__button-group:first-child > div.episode-player__icon-group:first-child > div.episode-player__icon-wrapper:nth-child(3)
 !Gemini
 gemini.google.com###app-root > main.chat-app > top-bar-actions.ia-redesign:nth-child(2) > div.top-bar-actions > div.buttons-container.referral.ng-star-inserted:nth-child(2)
 !VM
