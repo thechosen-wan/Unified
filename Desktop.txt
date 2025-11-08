@@ -482,6 +482,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bLet's Ride\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bIain Dale\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bLiverpool Street\b/i))
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMamdani\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM4 Mac\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bM5 Mac\b/i))
 www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:has-text(/\bMacBook\b/i))
