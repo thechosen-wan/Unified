@@ -504,7 +504,7 @@ m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFeminist\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bFortnite\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bIceberg\b/i))
-m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bKamala Harris\b/i))
+m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMamdani\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMinecraft\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMrBeast\b/i))
 m.youtube.com##ytm-browse ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bOne Piece\b/i))
