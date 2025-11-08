@@ -6,6 +6,7 @@ reddit.com##shreddit-post:has-text(/smackdown/i)
 reddit.com##shreddit-post:has-text(/ nxt /i)
 reddit.com##shreddit-post:has-text(/ raw /i)
 reddit.com##shreddit-post:has-text(/ tna /i)
+reddit.com##shreddit-post:has-text(/ 18-49 demo /i)
 !Ecosia
 ecosia.org##footer
 ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
