@@ -12,6 +12,7 @@ google.*##.g:has(a[href*="x.com"])
 google.*##a[href*="x.com"]:upward(1)
 google.*##.g:has(a[href*="twitter.com"])
 google.*##a[href*="twitter.com"]:upward(1)
+google.com##g-section-with-header:has(a[href*="x.com"])
 !Reddit
 reddit.com##shreddit-post:has-text(/smackdown/i)
 reddit.com##shreddit-post:has-text(/ nxt /i)
