@@ -6,6 +6,7 @@ youtube.com##ytd-browse-feed-actions-renderer
 google.*##div.A6K0A:has(span:has-text(/^What people are saying$/))
 google.*##div.A6K0A:has(a[href*="&tbm=nws"])
 google.*##div.A6K0A:has(a[href*="&udm=7"])
+google.*##div:has(> span:has-text(/Latest posts from/i))
 !Reddit
 reddit.com##shreddit-post:has-text(/smackdown/i)
 reddit.com##shreddit-post:has-text(/ nxt /i)
