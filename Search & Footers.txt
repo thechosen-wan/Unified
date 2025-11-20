@@ -1,6 +1,13 @@
 velobet.com
 gofile.io
 dailymotion.com
+!New rules being tested
+youtube.com##ytd-browse-feed-actions-renderer
+perplexity.ai###root > div.border-subtlest.ring-subtlest.divide-subtlest.bg-underlay:first-child > div.isolate.flex.h-dvh > div.flex.size-full.flex-1.duration-normal.ease-in-out > div.erp-tab\:p-0.md\:gap-xs.erp-tab\:gap-0.isolate.flex.h-auto.max-h-screen.min-w-0.grow.flex-col:last-child > div.\@container\/main.relative.isolate.min-h-0.flex-1.overflow-clip.bg-clip-border.border-subtlest.ring-subtlest.divide-subtlest.bg-base > div.mx-auto.flex.w-full.flex-col.h-full:first-child > div.scrollable-container.flex.flex-1.basis-0.overflow-auto.\[scrollbar-gutter\:stable\].scrollbar-subtle.mt-headerHeight:first-child > div.mx-auto.size-full.max-w-none > div.h-headerHeight.\!bg-base\/95.\@container\/header.pointer-events-none.inset-x-0.top-0.z-10.border-b.backdrop-blur-md.transition-none.md\:mb-0.absolute.max-\[1224px\]\:md\:bg-base.border-subtlest.ring-subtlest.divide-subtlest.bg-transparent:first-child > div.flex.size-full.items-center > div.pr-md.flex-shrink-0:last-child > div.gap-x-sm.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
+google.*##div.A6K0A:has(span:has-text(/^What people are saying$/))
+google.*##div.A6K0A:has(a[href*="&tbm=nws"])
+google.*##div.A6K0A:has(a[href*="&udm=7"])
+google.*##div:has(> span:has-text(/Latest posts from/i))
 !Reddit
 reddit.com##shreddit-post:has-text(/smackdown/i)
 reddit.com##shreddit-post:has-text(/ nxt /i)
