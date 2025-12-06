@@ -350,5 +350,3 @@ google.*##a[href*="twitter.com/pewpiece"]:nth-ancestor(2)
 google.*##a[href*="readonepiece.com"]:nth-ancestor(2)
 !Comments
 independent.co.uk###comments
-!Netflix
-netflix.com##.site-footer-wrapper
