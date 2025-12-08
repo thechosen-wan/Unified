@@ -64,4 +64,19 @@ m.youtube.com##ytm-compact-playlist-renderer:has-text(/Geoff Marshall|TechAltar/
 m.youtube.com##ytm-compact-radio-renderer:has-text(/Marques Brownlee|Insider Food/)
 m.youtube.com##ytm-compact-radio-renderer:has-text(/Geoff Marshall|Linus Tech Tips/)
 m.youtube.com##ytm-compact-radio-renderer:has-text(/All Elite Wrestling|WWE/)
-
+!BT
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
+bt.com###aem-global-footer
+bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3)
+bt.com###maincontent > section.identifyCustomerType_findCustomer__BUvd0:first-child
+my.bt.com##app-root:first-child > div > app-faq:nth-child(6)
+my.bt.com##app-root:first-child > div > app-claritymetric-feedback:nth-child(8)
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div.col-12.new-bt-ee-banner
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > div:last-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-rtd-banners:first-child
+my.bt.com##app-root:first-child > div > app-dashboard:nth-child(4) > div.container.margin-40.dashboard:first-child > div:last-child > app-news:nth-child(3)
+bt.com###aem-global-header > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.universalNavigation.parbase.aem-GridColumn.aem-GridColumn--default--12:first-child > nav.container-fluid.universal-nav:last-child
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.col-12.no-gutter:nth-child(2) > div.col-12.no-gutter.margin-bottom-60:first-child > app-banner-carousel
+my.bt.com##app-root:first-child > div > app-broadband-details:nth-child(4) > div:first-child > div.container.broadband-page.margin-bottom-30:first-child > div.col-12.no-gutter > div.col-12.no-gutter.product-btplus-container:last-child > div.col-12.no-gutter > app-broadband-package-card > div.col-12.no-gutter:first-child
+my.bt.com###billPreferences > div.view-frame.ng-scope > div.row.side-collapse-open.ng-scope:last-child > div.mktbannerEE.ng-isolate-scope:nth-child(3) > div.row.container.promo-banner.ng-scope
+bt.com###maincontent > section.extMainHerobanner_main__4_cMQ:nth-child(2) > div.bt-container.bannertext-leftright_mainbanner__hUzh2.bannertext-leftright_mainbanner__full_width__0BV8_.bannertext-leftright_mainbanner__justify_start__lWYh6:last-child > div.bannertext-leftright_banner_inner_text_container__n8ovS:first-child > h2.lc-Heading.lc-HeadingBT.lc-HeadingBT--white.lc-HeadingBT--sizeXXL:nth-child(5) > span
