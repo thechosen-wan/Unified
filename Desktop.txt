@@ -1,6 +1,4 @@
-bbci.co.uk
 go.etoro.com
-disneyplus.com
 !NTS
 nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-cta.nts-app.nts-button.nts-link.hidden-phone:last-child
 nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > button.header-nav-item.nts-link.hidden-phone:nth-child(4)
