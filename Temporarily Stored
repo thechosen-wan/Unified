@@ -1,3 +1,15 @@
+!Anime
+hianime.to###footer
+hianime.to###main-sidebar
+hianime.to##.block_area.block_area_category:nth-child(2)
+hianime.to###xmain-wrapper > div.mw-body:last-child > div.container
+hianime.to###header
+hianime.to###schedule-block
+hianime.to###discussion
+hianime.to##.block_area.block_area_category:first-child
+hianime.to###anime-featured
+hianime.to##.anis-watch-detail
+hianime.to##.block_area.block_area_category:nth-child(3)
 !Put in Footer
 www.google.com##div:has-text(/Man United|Manchester United|wrestling/)
 !Put in Mobile
