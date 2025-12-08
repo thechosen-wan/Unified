@@ -12,6 +12,18 @@ hianime.to##.anis-watch-detail
 hianime.to##.block_area.block_area_category:nth-child(3)
 !Put in Footer
 www.google.com##div:has-text(/Man United|Manchester United|wrestling/)
+!Ecosia
+ecosia.org##footer
+ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
+ecosia.org##div.layout > section.section-wrapper.before-after-section.section-wrapper--tertiary
+ecosia.org##div.layout > div.wave-separator.wave-separator--variant-primary.wave-separator--visible
+ecosia.org##div.layout > section.section-wrapper.join-section.section-wrapper--tertiary
+ecosia.org##div.layout > section.section-wrapper.projects-section.section-wrapper--tertiary
+ecosia.org##div.layout > section.section-wrapper.claims-section.section-wrapper--primary
+ecosia.org##div.layout > section.section-wrapper.financial-report-section.section-wrapper--primary
+ecosia.org##div.layout > section.section-wrapper.map-section.section-wrapper--tertiary
+ecosia.org##div.layout > div.forest-section.forest-section--background-secondary
+ecosia.org##div.layout > div.wave-separator.wave-separator--variant-tertiary.wave-separator--visible
 !Put in Mobile
 !Keyword Home Block 🏡🏡🏡🏡🏡🏡🏡
 m.youtube.com##ytm-rich-item-renderer:has-text(/THE RACE|FORMULA 1/)
