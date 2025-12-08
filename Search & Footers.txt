@@ -17,18 +17,6 @@ reddit.com##shreddit-post:has-text(/ nxt /i)
 reddit.com##shreddit-post:has-text(/ raw /i)
 reddit.com##shreddit-post:has-text(/ tna /i)
 reddit.com##shreddit-post:has-text(/ 18-49 demo /i)
-!Ecosia
-ecosia.org##footer
-ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
-ecosia.org##div.layout > section.section-wrapper.before-after-section.section-wrapper--tertiary
-ecosia.org##div.layout > div.wave-separator.wave-separator--variant-primary.wave-separator--visible
-ecosia.org##div.layout > section.section-wrapper.join-section.section-wrapper--tertiary
-ecosia.org##div.layout > section.section-wrapper.projects-section.section-wrapper--tertiary
-ecosia.org##div.layout > section.section-wrapper.claims-section.section-wrapper--primary
-ecosia.org##div.layout > section.section-wrapper.financial-report-section.section-wrapper--primary
-ecosia.org##div.layout > section.section-wrapper.map-section.section-wrapper--tertiary
-ecosia.org##div.layout > div.forest-section.forest-section--background-secondary
-ecosia.org##div.layout > div.wave-separator.wave-separator--variant-tertiary.wave-separator--visible
 !Google Settings
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(15)
 myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(6) > div.T4LgNb:first-child > div.jkOv3d.VZIbBd:nth-child(2) > div.kzxY8c.S69ok:nth-child(16)
