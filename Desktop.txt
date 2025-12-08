@@ -72,18 +72,6 @@ bing.com###brsv3
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
 photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
-!Anime
-hianime.to###footer
-hianime.to###main-sidebar
-hianime.to##.block_area.block_area_category:nth-child(2)
-hianime.to###xmain-wrapper > div.mw-body:last-child > div.container
-hianime.to###header
-hianime.to###schedule-block
-hianime.to###discussion
-hianime.to##.block_area.block_area_category:first-child
-hianime.to###anime-featured
-hianime.to##.anis-watch-detail
-hianime.to##.block_area.block_area_category:nth-child(3)
 !Games
 www.google.com##.sLe0gf
 www.google.com##.vuVjXe
