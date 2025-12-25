@@ -29,6 +29,7 @@ myactivity.google.com##c-wiz.zQTmif.SSPGKf.qiI0tc:nth-child(8) > div.T4LgNb > di
 !Footer
 google.com##a[href="https://mail.google.com/mail/&ogbl"], a[href^="https://www.google.com/imghp"]
 google.com##input[name="btnI"], input[name="btnK"]
+google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
 1shows.ru##footer
