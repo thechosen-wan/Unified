@@ -534,6 +534,7 @@ www.youtube.com##ytd-browse ytd-rich-item-renderer:has(#video-title-link[title]:
 !YT General
 youtube.com###contents grid-shelf-view-model:has(yt-section-header-view-model:has-text(Shorts))
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
+youtube.com##.ytp-endscreen-content
 i.ytimg.com/an_webp
 youtube.com###flexible-item-buttons > ytd-download-button-renderer
 youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer:nth-child(2)
