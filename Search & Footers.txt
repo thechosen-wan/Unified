@@ -1,4 +1,5 @@
 velobet.com
+cmll.com##footer
 !New rules being tested
 youtube.com##ytd-browse-feed-actions-renderer
 perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
