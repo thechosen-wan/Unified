@@ -1,5 +1,3 @@
-velobet.com
-cmll.com##footer
 advantage.icas.com##div.d2l-body-main-wrapper:first-child > header:first-child > nav.d2l-navigation-s.d2l-branding-navigation-light-foreground-color.d2l-navigation-s-linkarea-has-color > d2l-labs-navigation > d2l-labs-navigation-main-header:first-child > div.d2l-labs-navigation-header-right:last-child > div.d2l-navigation-s-personal-menu:nth-child(5) > d2l-labs-navigation-dropdown-button-custom > span.d2l-navigation-s-personal-menu-wrapper:first-child > span.d2l-navigation-s-personal-menu-text:last-child
 advantage.icas.com##header:first-child > nav.d2l-navigation-s.d2l-branding-navigation-light-foreground-color.d2l-navigation-s-linkarea-has-color > d2l-labs-navigation > d2l-labs-navigation-main-header:first-child > div.d2l-labs-navigation-header-right:last-child > div.d2l-navigation-s-personal-menu:nth-child(5) > d2l-labs-navigation-dropdown-button-custom > span.d2l-navigation-s-personal-menu-wrapper:first-child > span.d2l-navigation-s-personal-menu-text:last-child
 !New rules being tested
@@ -40,6 +38,7 @@ google.com##input[name="btnI"], input[name="btnK"]
 google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
+velobet.com
 1shows.ru##footer
 kagi.com##div.footer
 kagi.com##.footerInner
@@ -50,6 +49,7 @@ lidl.co.uk##footer
 premierleague.com##footer
 yourheights.com##footer
 aljazeera.com##footer
+cmll.com##footer
 netflix.com##footer
 netflix.com###member-footer
 disneyplus.com##footer
