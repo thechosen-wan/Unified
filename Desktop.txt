@@ -3,6 +3,12 @@ music.apple.com
 music.youtube.com
 ianvisits.co.uk
 theverge.com
+!Netflix
+netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime/i))
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Animation/i))
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Kids/i))
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Games/i))
 !CMLL
 cmll.com###cmll-hero-slider
 cmll.com##div.grid-container:nth-child(6) > div:first-child
