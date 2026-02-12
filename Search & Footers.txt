@@ -1,5 +1,6 @@
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 advantage.icas.com###d2l_1_61_803
+advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget:first-child
 https://www.apple.com/uk-edu/store
 ebay.co.uk##aside.home-item-carousel
 ebay.co.uk##aside.custom-page-grid-container
