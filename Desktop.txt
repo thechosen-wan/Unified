@@ -56,6 +56,14 @@ google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US
 !Nectar
 nectar.com###newNectarPricesV2
 !Spotify
+open.spotify.com##.aotfMYhXr8Ag8I7a:last-child > .contentSpacing:last-child > div:nth-child(4)
+open.spotify.com##.aotfMYhXr8Ag8I7a .Shelf:nth-child(7)
+open.spotify.com##.aotfMYhXr8Ag8I7a .Shelf:last-child
+open.spotify.com##.aotfMYhXr8Ag8I7a .Shelf:nth-child(6)
+open.spotify.com##.aotfMYhXr8Ag8I7a > .contentSpacing > .YR7WOlf_lck48w4l:nth-child(5) > div.EU0gaaZtdwcFncGE
+open.spotify.com##.aotfMYhXr8Ag8I7a .YR7WOlf_lck48w4l:nth-child(5) > .ACvNigTgdo1hsCnz:last-child
+open.spotify.com##div.zKQSfRjzvD8_Imog:last-child div.x2zIrx9Juns9lNvs:nth-child(3)
+open.spotify.com##main.J6wP3V0xzh0Hj_MS section.yTHNsGSMiG01kxo3:nth-child(9)
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
 open.spotify.com##.zKQSfRjzvD8_Imog .e-91000-button-primary:first-child
 open.spotify.com##.zKQSfRjzvD8_Imog a.e-91000-button--small:nth-child(2)
