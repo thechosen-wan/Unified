@@ -57,6 +57,8 @@ google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US
 nectar.com###newNectarPricesV2
 !Spotify
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
+open.spotify.com##.zKQSfRjzvD8_Imog .e-91000-button-primary:first-child
+open.spotify.com##.zKQSfRjzvD8_Imog a.e-91000-button--small:nth-child(2)
 open.spotify.com##div.main-view-container__mh-footer-container:last-child
 open.spotify.com##div.global-nav div.LtqMCWXd5Nkemkym:nth-child(7)
 !Shows
