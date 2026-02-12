@@ -79,6 +79,8 @@ bing.com##footer
 citymapper.com##cm-landing-footer
 oleandsteen.co.uk##footer
 coop.co.uk##footer
+netflix.com###member-footer
+hotukdeals.com###footer
 ticketmaster.co.uk##footer
 tfl.gov.uk###footer
 asoftmurmur.com##.Footer
