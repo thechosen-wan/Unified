@@ -25,6 +25,12 @@ google.*##a[href*="x.com"]:upward(1)
 google.*##.g:has(a[href*="twitter.com"])
 google.*##a[href*="twitter.com"]:upward(1)
 google.com##g-section-with-header:has(a[href*="x.com"])
+!HUKD
+hotukdeals.com##article:has-text(/Google Pixel|Samsung Galaxy|iPhone/i)
+hotukdeals.com##article:has-text(/\[PC\]/i)
+hotukdeals.com##article:has-text(/\[PC Game\]/i)
+hotukdeals.com##article:has-text(/\[Android Game\]/i)
+hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 !Reddit
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/ChocoPro/i))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(TJPW))
