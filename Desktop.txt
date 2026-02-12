@@ -1,4 +1,5 @@
 go.etoro.com
+!CMLL
 cmll.com###cmll-hero-slider
 cmll.com##div.grid-container:nth-child(6) > div:first-child
 !NTS
