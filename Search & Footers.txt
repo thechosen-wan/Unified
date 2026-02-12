@@ -1,4 +1,5 @@
 advantage.icas.com##div.d2l-body-main-wrapper:first-child > header:first-child > nav.d2l-navigation-s.d2l-branding-navigation-light-foreground-color.d2l-navigation-s-linkarea-has-color > d2l-labs-navigation > d2l-labs-navigation-main-header:first-child > div.d2l-labs-navigation-header-right:last-child > div.d2l-navigation-s-personal-menu:nth-child(5) > d2l-labs-navigation-dropdown-button-custom > span.d2l-navigation-s-personal-menu-wrapper:first-child > span.d2l-navigation-s-personal-menu-text:last-child
+https://www.apple.com/uk-edu/store
 advantage.icas.com##header:first-child > nav.d2l-navigation-s.d2l-branding-navigation-light-foreground-color.d2l-navigation-s-linkarea-has-color > d2l-labs-navigation > d2l-labs-navigation-main-header:first-child > div.d2l-labs-navigation-header-right:last-child > div.d2l-navigation-s-personal-menu:nth-child(5) > d2l-labs-navigation-dropdown-button-custom > span.d2l-navigation-s-personal-menu-wrapper:first-child > span.d2l-navigation-s-personal-menu-text:last-child
 !New rules being tested
 youtube.com##ytd-browse-feed-actions-renderer
