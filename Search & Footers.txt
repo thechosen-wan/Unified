@@ -14,6 +14,7 @@ amazon.co.uk###gw-layout
 amazon.co.uk###gw-desktop-herotator
 !New rules being tested
 youtube.com##ytd-browse-feed-actions-renderer
+hotukdeals.com###content-list > section.aGrid.flex.width--all-12.space--mb-4:last-child > div.listLayout-main:nth-child(4)
 perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
 google.*##div.A6K0A:has(span:has-text(/^What people are saying$/))
 google.*##div.A6K0A:has(a[href*="&tbm=nws"])
