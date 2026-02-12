@@ -58,6 +58,7 @@ nectar.com###newNectarPricesV2
 !Spotify
 open.spotify.com##a.Button-sc-qlcn5g-0.heiitI:first-child
 open.spotify.com##div.main-view-container__mh-footer-container:last-child
+open.spotify.com##div.global-nav div.LtqMCWXd5Nkemkym:nth-child(7)
 !Shows
 1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:last-child
 1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:nth-child(3)
