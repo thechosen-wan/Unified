@@ -7,6 +7,7 @@ theverge.com
 netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Animation/i))
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Japanese/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Kids/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Games/i))
 !CMLL
