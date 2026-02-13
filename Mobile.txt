@@ -699,7 +699,7 @@ m.youtube.com##ytm-video-with-context-renderer:has-text(/AEW Shorts|Gorilla Posi
 m.youtube.com##ytm-video-with-context-renderer:has-text(/The Stop|Untold F1/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Rosie and Harry|AstralSpiff/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/JonTronShow|MrSantiZap/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Nuke Piece|Talk is Jericho/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/NukePiece|Talk is Jericho/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Trash Taste|OhDough/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Leaky Archives|Decoy Voice/)
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Stay Wild|MoreGinge/)
