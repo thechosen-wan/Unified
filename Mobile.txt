@@ -1,3 +1,5 @@
+amazon.co.uk###gwm-Deck
+ebay.co.uk###mainContent .isRootLayout .defaultGap
 !BBC Sport
 bbc.co.uk##.ssrcss-1q1gjvm-MetadataStripContainer .ssrcss-1dqo2s-MetadataStripItem:last-child
 bbc.co.uk##.ssrcss-1lk4435-CommentsModule
