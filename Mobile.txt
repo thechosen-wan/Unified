@@ -1,4 +1,5 @@
 amazon.co.uk###gwm-Deck
+notebooklm.google.com##.notebook-header-buttons-container.second-row-buttons
 ebay.co.uk###mainContent .isRootLayout .defaultGap
 !BBC Sport
 bbc.co.uk##.ssrcss-1q1gjvm-MetadataStripContainer .ssrcss-1dqo2s-MetadataStripItem:last-child
