@@ -1,6 +1,5 @@
 !Apple
-apple.com/uk-edu/store###page > div.rs-storehome:nth-child(12)
-apple.com##footer
+apple.com/uk-edu/store###page
 !Advantage
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 advantage.icas.com###d2l_1_61_803
@@ -86,6 +85,7 @@ disneyplus.com##footer
 github.com##footer
 elevenforum.com###footer
 tntsports.co.uk##footer
+apple.com##footer
 rewards.bing.com###footerRegion
 theguardian.com##footer
 audible.co.uk###bottom-1
