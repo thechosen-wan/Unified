@@ -1,7 +1,6 @@
 go.etoro.com
 music.apple.com
 music.youtube.com
-ianvisits.co.uk
 theverge.com
 !Netflix
 netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
@@ -10,9 +9,13 @@ netflix.com##.lolomoRow:has(.rowTitle:has-text(/Animation/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Japanese/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Kids/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Games/i))
+netflix.com##.tabbed-primary-navigation
+netflix.com###appMountPoint li:nth-child(2).default-ltr-iqcdef-cache-1ovftrv
 !CMLL
 cmll.com###cmll-hero-slider
 cmll.com##div.grid-container:nth-child(6) > div:first-child
+cmll.com##div.grid-container.grid-container--no-padding:nth-child(6)
+cmll.com##.header__menuT
 !NTS
 nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-cta.nts-app.nts-button.nts-link.hidden-phone:last-child
 nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > button.header-nav-item.nts-link.hidden-phone:nth-child(4)
