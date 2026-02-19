@@ -1,5 +1,6 @@
 !Apple
-https://www.apple.com/uk-edu/store
+apple.com/uk-edu/store###page > div.rs-storehome:nth-child(12)
+apple.com##footer
 !Advantage
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 advantage.icas.com###d2l_1_61_803
