@@ -16,6 +16,7 @@ ebay.co.uk##.dp-popular-destinations-module
 ebay.co.uk##.dp-section-header-module
 ebay.co.uk##.home-topp-carousel
 ebay.co.uk###dp-live-events-carousel
+!Amazon
 amazon.co.uk###gw-layout
 amazon.co.uk###gw-desktop-herotator
 !New rules being tested
@@ -51,6 +52,8 @@ reddit.com##shreddit-post:has(a[slot="title"]:contains(Smackdown))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(SmackDown))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(NXT))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(Big E))
+reddit.com##shreddit-post:has(a[slot="title"]:contains(GCW))
+reddit.com##shreddit-post:has(a[slot="title"]:contains(House of Glory))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(Marigold))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(AAA))
 reddit.com##shreddit-post:has(a[slot="title"]:contains(TNA))
