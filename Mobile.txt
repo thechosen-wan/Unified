@@ -4,6 +4,10 @@ ebay.co.uk###mainContent .isRootLayout .defaultGap
 !BBC Sport
 bbc.co.uk##.ssrcss-1q1gjvm-MetadataStripContainer .ssrcss-1dqo2s-MetadataStripItem:last-child
 bbc.co.uk##.ssrcss-1lk4435-CommentsModule
+!CMLL
+cmll.com##div.grid-container.grid-container--no-padding:nth-child(6)
+cmll.com##div.grid-container.full:nth-child(5)
+cmll.com##section.cartelera .grid-container--no-padding > .grid-x.align-justify:first-child
 !BBC Weather
 bbc.co.uk###site-container > div.wr-c-weather-watchers.gs-u-box-size.gs-u-pt\+\+:nth-child(9)
 bbc.co.uk###navigation-links\?country\=gb\&language\=en\&service\=weather
