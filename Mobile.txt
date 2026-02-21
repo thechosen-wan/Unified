@@ -155,6 +155,7 @@ m.youtube.com##yt-list-item-view-model.yt-list-item-view-model-wiz:last-child
 m.youtube.com###app h2.engagement-panel-section-list-header-context.typography-body-2a:last-child
 m.youtube.com###app ytm-subscribe-button-renderer
 m.youtube.com##.slim-owner-subscribe-button
+m.youtube.com##ytm-watch.ambient-topbar button-view-model.slim_video_action_bar_renderer_button:last-child
 m.youtube.com##button.slim-video-information-show-more
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
 m.youtube.com##button[aria-label="Share"]
