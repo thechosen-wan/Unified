@@ -4,6 +4,7 @@ music.youtube.com
 theverge.com
 !Netflix
 netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
+netflix.com##.ew9vekb3 .ewflus00 .ew9vekb1 > section:first-child > .e1devdx36:nth-child(2)
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Animation/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Japanese/i))
