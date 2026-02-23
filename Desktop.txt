@@ -14,6 +14,8 @@ netflix.com##.tabbed-primary-navigation
 netflix.com###appMountPoint li:nth-child(2).default-ltr-iqcdef-cache-1ovftrv
 !CMLL
 cmll.com###cmll-hero-slider
+cmll.com##.__cmll-section-disclaimer
+cmll.com##section.cartelera:nth-child(7) > div.grid-container.grid-container--no-padding > div.grid-x.align-justify:first-child
 cmll.com##div.grid-container:nth-child(6) > div:first-child
 cmll.com##div.grid-container.grid-container--no-padding:nth-child(6)
 cmll.com##.header__menu
