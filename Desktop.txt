@@ -9,7 +9,7 @@ youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-render
 !Netflix
 netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
 netflix.com##.ew9vekb3 .ewflus00 .ew9vekb1 > section:first-child > .e1devdx36:nth-child(2)
-netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime/i))
+netflix.com##.ew9vekb3 .ew9vekb1 > section .e1devdx36:nth-child(3) .e1devdx35:last-child > .egp7i3p0 > .eawouyh0:nth-child(6)netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Animation/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Japanese/i))
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Kids/i))
