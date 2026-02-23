@@ -9,6 +9,9 @@ advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget:first-child
 !BBC
 bbc.co.uk##div[class*="ViewCommentsWrapper"] button
 bbc.co.uk##ul[class*="MetadataStripContainer"] li:last-child
+!Guardian
+theguardian.com###comments
+theguardian.com##aside a[href*="#comments"]
 !Ebay
 ebay.co.uk##aside.home-item-carousel
 ebay.co.uk##aside.custom-page-grid-container
