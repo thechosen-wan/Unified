@@ -2,6 +2,10 @@ go.etoro.com
 music.apple.com
 music.youtube.com
 theverge.com
+!YT Sidebar
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(4)
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:last-child
 !Netflix
 netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
 netflix.com##.ew9vekb3 .ewflus00 .ew9vekb1 > section:first-child > .e1devdx36:nth-child(2)
