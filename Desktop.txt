@@ -2,6 +2,7 @@ go.etoro.com
 music.apple.com
 music.youtube.com
 theverge.com
+theverge.com###__next
 !YT Sidebar
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(4)
