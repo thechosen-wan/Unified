@@ -6,6 +6,8 @@ theverge.com###__next
 !YT Other
 youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead:nth-child(2)
 youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:last-child
+youtube.com###simple-box
+youtube.com###additional-section
 youtube.com###button-shape
 !YT Sidebar
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
