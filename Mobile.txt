@@ -1,3 +1,6 @@
+reddit.com###partial-more-posts-dDNfMXJlcTRqeA > shreddit-feed-page-loading
+gemini.google.com##hallucination-disclaimer
+
 amazon.co.uk###gwm-Deck
 notebooklm.google.com##.notebook-header-buttons-container.second-row-buttons
 !EBay
@@ -143,6 +146,13 @@ ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 !BT
 bt.com###aem-global-footer
 !YT
+m.youtube.com##ytm-standalone-collection-badge-renderer
+m.youtube.com##ytm-comment-replies-renderer ytm-continuation-item-renderer
+m.youtube.com##.YtmCommentRendererDetails > .YtmCommentRendererIcons:nth-child(3)
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-child(3)
+m.youtube.com##ytm-tab-renderer ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(3)
+m.youtube.com##.rich-grid-sticky-header
+m.youtube.com##ytm-comments-header-renderer
 m.youtube.com###ytm-reel-shelf-renderer
 m.youtube.com###app > .page-container > ytm-watch:last-child > .watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer:last-child > ytm-item-section-renderer:last-child
 m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
