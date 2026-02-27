@@ -1,6 +1,5 @@
 reddit.com###partial-more-posts-dDNfMXJlcTRqeA > shreddit-feed-page-loading
 gemini.google.com##hallucination-disclaimer
-
 amazon.co.uk###gwm-Deck
 notebooklm.google.com##.notebook-header-buttons-container.second-row-buttons
 !EBay
