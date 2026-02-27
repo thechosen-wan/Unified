@@ -9,6 +9,7 @@ youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:las
 youtube.com###simple-box
 youtube.com###additional-section
 youtube.com###voice-search-button
+youtube.com###collapsed-threads
 youtube.com###button-shape
 !YT Sidebar
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
