@@ -8,6 +8,7 @@ youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-
 youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:last-child
 youtube.com###simple-box
 youtube.com###additional-section
+youtube.com###voice-search-button
 youtube.com###button-shape
 !YT Sidebar
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
