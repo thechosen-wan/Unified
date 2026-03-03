@@ -15,6 +15,9 @@ discord.com##.home--hero
 discord.com##.discord_banner
 discord.com##.line-animation
 discord.com##.nav_menu_wr
+discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > li.container_e45859:nth-child(4)
+discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > div:nth-child(3) a.link__972a0
+discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > div.wrapper__553bf:nth-child(6) a.link__972a0
 !YT Other
 youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead:nth-child(2)
 youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:last-child
