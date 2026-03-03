@@ -3,6 +3,18 @@ music.apple.com
 music.youtube.com
 theverge.com
 theverge.com###__next
+!Discord Home
+discord.com##.home--section7
+discord.com##.home--6section
+discord.com##.home--4section
+discord.com##.home--5section
+discord.com##.home--2section
+discord.com##.home--3section
+discord.com##.footer_new
+discord.com##.home--hero
+discord.com##.discord_banner
+discord.com##.line-animation
+discord.com##.nav_menu_wr
 !YT Other
 youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead:nth-child(2)
 youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:last-child
