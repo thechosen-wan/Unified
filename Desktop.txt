@@ -3,6 +3,13 @@ music.apple.com
 music.youtube.com
 theverge.com
 theverge.com###__next
+!GitHub
+cagematch.net##div.LayoutUserAccount
+cagematch.net##.LayoutRightPanel
+cagematch.net##.LayoutTopMenu
+cagematch.net##.LayoutMainMenu
+cagematch.net##.LayoutNavigationTree
+cagematch.net##.Impressum
 !Discord Home
 discord.com##.home--section7
 discord.com##.home--6section
