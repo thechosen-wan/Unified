@@ -56,7 +56,7 @@ hotukdeals.com##article:has-text(/Android/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 !Reddit
 reddit.com##shreddit-post:has-text(/\b(X|Twitter)\b/i)
-reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Ago /i))
+reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Matt Hardy/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/ROH /i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Former Reds/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/ChocoPro/i))
