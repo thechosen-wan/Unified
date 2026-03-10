@@ -55,6 +55,7 @@ hotukdeals.com##article:has-text(/\[PC\]/i)
 hotukdeals.com##article:has-text(/\[PC Game\]/i)
 hotukdeals.com##article:has-text(/Smartphone|Laptop|Tablet/i)
 hotukdeals.com##article:has-text(/Android/i)
+hotukdeals.com##article:has-text(/Nothing CMF/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 !Reddit
 reddit.com##shreddit-post:has-text(/\b(X|Twitter|Danhausen)\b/i)
