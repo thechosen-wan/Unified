@@ -1,3 +1,4 @@
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse/i)
 hotukdeals.com###mobile-menu
 reddit.com##shreddit-feed-page-loading
 reddit.com##community-highlight-carousel
