@@ -58,7 +58,7 @@ hotukdeals.com##article:has-text(/Android/i)
 hotukdeals.com##article:has-text(/Nothing CMF/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 !Reddit
-reddit.com##shreddit-post:has-text(/\b(X|Twitter|Danhausen)\b/i)
+reddit.com##shreddit-post:has-text(/\b(X|Twitter|Danhausen|instagram)\b/i)
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Matt Hardy/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Eddie Guerrero/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF/i))
