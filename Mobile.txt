@@ -199,6 +199,7 @@ technicalgaurav.com
 !YT Home Channels 🫂🫂🫂🫂🫂🫂
 m.youtube.com##ytm-rich-item-renderer:has-text(//23 Review |Tuesday Night Titans/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/123 GO!|Rebecca Zamolo/)
+m.youtube.com##ytm-rich-item-renderer:has-text(/Abbi|Panel/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/4reality|Micky Flanagan/)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Abandoned Railway|Let's Ride /)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Alan Carr: Chatty Man|Still Watching Netflix/)
