@@ -1,3 +1,4 @@
+reddit.com##in-feed-community-recommendations
 !Apple
 apple.com/uk-edu/store###page
 apple.com###page > div.rs-storehome:nth-child(12)
