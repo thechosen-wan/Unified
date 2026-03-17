@@ -1,4 +1,6 @@
-reddit.com##in-feed-community-recommendations
+reddit.com##shreddit-feed in-feed-community-recommendations
+vivaldi.com
+vivaldi.net
 !Apple
 apple.com/uk-edu/store###page
 apple.com###page > div.rs-storehome:nth-child(12)
