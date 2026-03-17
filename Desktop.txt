@@ -1,6 +1,7 @@
-go.etoro.com
-music.apple.com
-music.youtube.com
+etoro.com###main
+music.apple.com###main
+music.youtube.com###main
+youtube.com###video-title-link > button.cbShowOriginal.cbButton
 theverge.com
 theverge.com###__next
 !Verge
