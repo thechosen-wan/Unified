@@ -6,6 +6,16 @@ vivaldi.com###vivmenu
 vivaldi.com###footer
 vivaldi.net###main
 vivaldi.net###footer
+!ELM
+eastlondonmosque.org.uk##.homeIntroWrapper
+eastlondonmosque.org.uk##div.cookie-preference-container
+eastlondonmosque.org.uk###wa-float-btn
+eastlondonmosque.org.uk##.postAside
+eastlondonmosque.org.uk###menuMain
+eastlondonmosque.org.uk###pageFooterWrapper
+eastlondonmosque.org.uk###carouselSlides
+eastlondonmosque.org.uk##.homeFeaturesWrapper
+eastlondonmosque.org.uk##section.footerBox
 !THMosques
 towerhamletsmosques.co.uk###prayer-times > div.ad-placement.slider
 towerhamletsmosques.co.uk###prayer-times > p:nth-child(6)
