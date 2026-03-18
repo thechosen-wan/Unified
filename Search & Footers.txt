@@ -79,7 +79,14 @@ hotukdeals.com##article:has-text(/Android/i)
 hotukdeals.com##article:has-text(/Smart TV/i)
 hotukdeals.com##article:has-text(/Nothing CMF/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
-!Reddit
+!Reddit users
+reddit.com##shreddit-post:has(a[href*="/user/KneeHighMischief"])
+reddit.com##shreddit-post:has(a[href*="/user/aaronrift"])
+reddit.com##shreddit-post:has(a[href*="/user/Ruffianize"])
+reddit.com##shreddit-post:has(a[href*="/user/LotLeftInTheTank"])
+reddit.com##shreddit-post:has(a[href*="/user/TJLynch"])
+
+!Reddit words
 reddit.com##shreddit-post:has-text(/\b(X|Twitter|instagram)\b/i)
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Matt Hardy|Danhausen/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Eddie Guerrero/i))
