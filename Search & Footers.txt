@@ -86,7 +86,7 @@ reddit.com##shreddit-post:has(a[href*="/user/Ruffianize"])
 reddit.com##shreddit-post:has(a[href*="/user/LotLeftInTheTank"])
 reddit.com##shreddit-post:has(a[href*="/user/luchabrunch"])
 reddit.com##shreddit-post:has(a[href*="/user/TJLynch"])
-
+reddit.com##shreddit-post:has(a[href*="/user/elegantSolomons62"])
 !Reddit words
 reddit.com##shreddit-post:has-text(/\b(X|Twitter|instagram)\b/i)
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Matt Hardy|Danhausen/i))
