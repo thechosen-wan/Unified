@@ -1,7 +1,10 @@
 reddit.com##shreddit-feed in-feed-community-recommendations
 !Vivaldi
 vivaldi.com###main
+vivaldi.com###vivmenu
+vivaldi.com###footer
 vivaldi.net###main
+vivaldi.net###footer
 !THMosques
 towerhamletsmosques.co.uk###prayer-times > div.ad-placement.slider
 towerhamletsmosques.co.uk###prayer-times > p:nth-child(6)
