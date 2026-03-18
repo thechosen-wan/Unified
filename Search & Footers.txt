@@ -84,6 +84,7 @@ reddit.com##shreddit-post:has(a[href*="/user/KneeHighMischief"])
 reddit.com##shreddit-post:has(a[href*="/user/aaronrift"])
 reddit.com##shreddit-post:has(a[href*="/user/Ruffianize"])
 reddit.com##shreddit-post:has(a[href*="/user/LotLeftInTheTank"])
+reddit.com##shreddit-post:has(a[href*="/user/luchabrunch"])
 reddit.com##shreddit-post:has(a[href*="/user/TJLynch"])
 
 !Reddit words
