@@ -2,6 +2,7 @@ etoro.com###main
 music.apple.com###main
 music.youtube.com###main
 youtube.com###video-title-link > button.cbShowOriginal.cbButton
+youtube.com###contents > ytd-comment-thread-renderer:nth-child(n+11)
 theverge.com
 theverge.com###__next
 !Verge
