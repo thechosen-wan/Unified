@@ -88,6 +88,7 @@ reddit.com##shreddit-post:has(a[href*="/user/luchabrunch"])
 reddit.com##shreddit-post:has(a[href*="/user/TJLynch"])
 reddit.com##shreddit-post:has(a[href*="/user/elegantSolomons62"])
 !Reddit words
+reddit.com##shreddit-post:has(a[href*="macrumors.com"])
 reddit.com##shreddit-post:has-text(/\b(X|Twitter|instagram)\b/i)
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Matt Hardy|Danhausen/i))
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/Eddie Guerrero/i))
