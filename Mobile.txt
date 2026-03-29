@@ -1,3 +1,4 @@
+m.youtube.com###app .ytCarouselTitleViewModelSubtitle
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Linux/i)
 m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-section"] ytm-comment-thread-renderer:nth-of-type(n+4)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Weekend Round Up|Live At 5|Saturday Football Show|Weekend Preview/i)
