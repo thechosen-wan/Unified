@@ -1,5 +1,5 @@
 m.youtube.com##ytm-video-with-context-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Linux/i)
-m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-section"] ytm-comment-thread-renderer:nth-of-type(n+3)
+m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-section"] ytm-comment-thread-renderer:nth-of-type(n+4)
 m.youtube.com##ytm-rich-item-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Weekend Round Up|Live At 5|Saturday Football Show|Weekend Preview/i)
 google.com###gb-main > header:nth-child(2) > div:nth-child(4) > a.j4hoVe
 hotukdeals.com###mobile-menu
