@@ -207,6 +207,7 @@ www.google.*##[role="navigation"] [role="list"] > [role="listitem"]:has([href*="
 google.com##button.plR5qb.Y5MKCd
 google.*##h3:has-text(/Linux/i):nth-ancestor(4)
 google.*##h3:has-text(/Cornette/i):nth-ancestor(4)
+google.*##h3:has-text(/Kagi/i):nth-ancestor(4)
 !News
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
