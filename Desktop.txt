@@ -4,6 +4,9 @@ music.youtube.com###main
 youtube.com###video-title-link > button.cbShowOriginal.cbButton
 youtube.com###contents > ytd-comment-thread-renderer:nth-child(n+4)
 youtube.com###ghost-comment-section
+youtube.com##ytd-comments-header-renderer .count-text > span:first-child
+youtube.com###flexible-item-buttons > yt-button-view-model:first-child
+youtube.com###top-level-buttons-computed > yt-button-view-model:last-child
 theverge.com
 theverge.com###__next
 !Verge
