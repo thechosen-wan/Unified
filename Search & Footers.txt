@@ -1,5 +1,7 @@
 developer.apple.com###app
 reddit.com##shreddit-feed in-feed-community-recommendations
+youtube.com###chat
+youtube.com###teaser-carousel
 !Vivaldi
 vivaldi.com###main
 vivaldi.com###vivmenu
