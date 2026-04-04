@@ -328,6 +328,7 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bZ
 !YT Search
 youtube.com/results?search_query=aew
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/FORMULA 1|Syv/))
+youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Elbaf|One Piece/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Sky Sports F1|Joseph Carlson/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Insider Food|WVFRM Podcast/))
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/Expressions Oozing|Yeah Mad/))
