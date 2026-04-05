@@ -214,7 +214,7 @@ global.americanexpress.com##footer
 www.google.*##[role="navigation"] [role="list"] > [role="listitem"]:has([href*="&udm=50"])
 google.com##button.plR5qb.Y5MKCd
 google.*##h3:has-text(/Linux/i):nth-ancestor(4)
-google.*##h3:has-text(/CMLL/i):nth-ancestor(4)
+google.*##h3:has-text(/wrestling/i):nth-ancestor(4)
 google.*##h3:has-text(/Cornette/i):nth-ancestor(4)
 google.*##h3:has-text(/Kagi/i):nth-ancestor(4)
 !News
