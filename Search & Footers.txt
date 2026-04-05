@@ -82,6 +82,7 @@ hotukdeals.com##article:has-text(/Smart TV/i)
 hotukdeals.com##article:has-text(/Nothing CMF/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 !Reddit users
+reddit.com##shreddit-post:has(faceplate-timeago:has-text(/1[6-9]h ago|2[0-3]h ago/))
 reddit.com##shreddit-post:has(a[href*="/user/KneeHighMischief"])
 reddit.com##shreddit-post:has(a[href*="/user/aaronrift"])
 reddit.com##shreddit-post:has(a[href*="/user/Ruffianize"])
