@@ -1,3 +1,5 @@
+github.com##main
+github.com##header
 developer.apple.com###app
 reddit.com##shreddit-feed in-feed-community-recommendations
 youtube.com###chat
