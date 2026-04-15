@@ -1,6 +1,10 @@
 etoro.com###main
-music.apple.com###main
-music.youtube.com###main
+!Quant
+qwant.com###root > div:first-child > div > div:first-child > nav:first-child
+qwant.com###root > div:first-child > div > footer:last-child
+qwant.com###root > div:first-child > div > div:first-child > main > div > main > div:last-child
+qwant.com###root > div:first-child > div > div:first-child > main > div > main > section:nth-child(2) > div > div:last-child > div > div
+!YT additional
 youtube.com###video-title-link > button.cbShowOriginal.cbButton
 youtube.com###contents > ytd-comment-thread-renderer:nth-child(n+4)
 youtube.com###ghost-comment-section
