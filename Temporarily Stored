@@ -7,6 +7,20 @@ ispreview.co.uk###outer
 !Ianvisits
 ianvisits.co.uk##div.site.hfeed
 ianvisits.co.uk###qc-cmp2-persistent-link
+!Apple
+apple.com/uk-edu/store###page
+apple.com###page > div.rs-storehome:nth-child(12)
+apple.com###globalheader
+!Google Social
+google.*##div.A6K0A:has(span:has-text(/^What people are saying$/))
+google.*##div.A6K0A:has(a[href*="&tbm=nws"])
+google.*##div.A6K0A:has(a[href*="&udm=7"])
+google.*##div:has(> span:has-text(/Latest posts from/i))
+google.*##.g:has(a[href*="x.com"])
+google.*##a[href*="x.com"]:upward(1)
+google.*##.g:has(a[href*="twitter.com"])
+google.*##a[href*="twitter.com"]:upward(1)
+google.com##g-section-with-header:has(a[href*="x.com"])
 !Ecosia
 ecosia.org##footer
 ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
