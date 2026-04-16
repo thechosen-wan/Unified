@@ -1,15 +1,7 @@
-!Anime
-hianime.to###footer
-hianime.to###main-sidebar
-hianime.to##.block_area.block_area_category:nth-child(2)
-hianime.to###xmain-wrapper > div.mw-body:last-child > div.container
-hianime.to###header
-hianime.to###schedule-block
-hianime.to###discussion
-hianime.to##.block_area.block_area_category:first-child
-hianime.to###anime-featured
-hianime.to##.anis-watch-detail
-hianime.to##.block_area.block_area_category:nth-child(3)
+!Dev
+github.com##main
+github.com##header
+developer.apple.com###app
 !Put in Footer
 www.google.com##div:has-text(/Man United|Manchester United|wrestling/)
 !Ecosia
@@ -24,58 +16,6 @@ ecosia.org##div.layout > section.section-wrapper.financial-report-section.sectio
 ecosia.org##div.layout > section.section-wrapper.map-section.section-wrapper--tertiary
 ecosia.org##div.layout > div.forest-section.forest-section--background-secondary
 ecosia.org##div.layout > div.wave-separator.wave-separator--variant-tertiary.wave-separator--visible
-!Put in Mobile
-!Keyword Home Block 🏡🏡🏡🏡🏡🏡🏡
-m.youtube.com##ytm-rich-item-renderer:has-text(/THE RACE|FORMULA 1/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/CM Punk|Mrwhosetheboss/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/Jubilee|vlogbrothers/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/Food Tours|AEW/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/S|One Piece/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/Anime|Manga/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/WRESTL|Wrestl/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/Triple H|Tony Khan/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/Box Office|John Campea/)
-m.youtube.com##ytm-rich-item-renderer:has-text(WWE/|Fantastic Four/)
-m.youtube.com##ytm-rich-item-renderer:has-text(/iOS 26|Mac Mini/)
-!YT Search Words 🔎🔎🔎🔎🔎🔎
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAnime\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAEW\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bAJ Styles\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\biOS 26\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bM4 Mac\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMrwhosetheboss\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bmkbhd\b/i))
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bOne Piece\b/i))
-!YT Channel Search Block 🧠🧠🧠🧠🧠🧠🧠
-m.youtube.com##ytm-video-with-context-renderer:has-text(/DR Sports|FORMULA 1/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Dominic Fike|Jeremy Jahns/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Dan Murrell|Mrwhosetheboss/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Linus Tech Tips|WVFRM/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Jago Hazzard|Geoff Marshall/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Syv|zollotech/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/All Elite Wrestling|Marques Brownlee/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Nectar|Jubilee/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Sabrina Carpenter|tiffanyferg/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Vergecast|The Studio/)
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Mina Le|MorePllana/)
-!YOUTUBE STUFF 💥💥💥💥💥💥💥
-m.youtube.com##ytm-compact-channel-renderer:has-text(/Geoff Marshall|Linus Tech Tips/)
-m.youtube.com##ytm-compact-channel-renderer:has-text(/Linus Tech Tips|Marques Brownlee/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Dan Murrell|Geoff Marshall/)
-m.youtube.com##ytm-compact-channel-renderer:has-text(/Dan Murrell|Insider Food/)
-m.youtube.com##ytm-compact-channel-renderer:has-text(/WRESTHINGS|Mrwhosetheboss/)
-m.youtube.com##ytm-compact-channel-renderer:has-text(/WVFRM Podcast|Jeremy Jahns/)
-m.youtube.com##ytm-compact-channel-renderer:has-text(/All Elite Wrestling|WWE/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Food Tours|What you didn't know!/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Food Wars|WRESTHINGS/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Jeremy Jahns|Jago Hazzard/)
-m.youtube.com##ytm-compact-radio-renderer:has-text(/Mrwhosetheboss|Jeremy Jahns/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Mrwhosetheboss|WVFRM Podcast/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/One Piece|Apple/)
-m.youtube.com##ytm-compact-playlist-renderer:has-text(/Geoff Marshall|TechAltar/)
-m.youtube.com##ytm-compact-radio-renderer:has-text(/Marques Brownlee|Insider Food/)
-m.youtube.com##ytm-compact-radio-renderer:has-text(/Geoff Marshall|Linus Tech Tips/)
-m.youtube.com##ytm-compact-radio-renderer:has-text(/All Elite Wrestling|WWE/)
 !BT
 bt.com###maincontent > div.existing-customer_wrapper__25ddU:nth-child(3) > section.sectionBannerCentreText_sectionBanner__oBxfh.newCustomerHeroBanner.sectionMobileBanner_content_first__iKrlj:first-child > picture:first-child > img.ls-is-cached.lazyloaded:last-child
 bt.com###aem-global-footer
