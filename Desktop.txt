@@ -11,9 +11,7 @@ youtube.com###ghost-comment-section
 youtube.com##ytd-comments-header-renderer .count-text > span:first-child
 youtube.com###flexible-item-buttons > yt-button-view-model:first-child
 youtube.com###top-level-buttons-computed > yt-button-view-model:last-child
-theverge.com
-theverge.com###__next
-!Verge
+!Cagematch
 cagematch.net##div.LayoutUserAccount
 cagematch.net##.LayoutRightPanel
 cagematch.net##.LayoutTopMenu
@@ -121,9 +119,6 @@ netflix.com##.moreLikeThis--wrapper
 netflix.com##.trailersAndMore--wrapper
 netflix.com##.notifications-menu:first-child
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div.accountLayout > div.site-footer-wrapper
-!notepad hide
-google.*##a[href*="apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-GB&gl=SR"]:nth-ancestor(2)
-google.*##a[href*="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-US&gl=US"]:nth-ancestor(2)
 !Nectar
 nectar.com###newNectarPricesV2
 !Spotify
