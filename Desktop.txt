@@ -253,15 +253,6 @@ ee.co.uk###nbaSalesCarousel-undefined
 ee.co.uk###nbaBrandCarousel-undefined
 ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 !General
-coinbase.com
-m.youtube.com
-macrumors.com
-ispreview.co.uk
-instagram.com
-twitter.com
-tiktok.com
-tumblr.com
-!Sites 🕸️🕸️🕸️🕸️🕸️🕸️🕸️
 !YT Search Words
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAEW\b/i))
 youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bAndroid\b/i))
