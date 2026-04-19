@@ -626,7 +626,7 @@ nts.live##.supporter-ad
 nts.live##.episode-promo
 nts.live###shop-collection
 nts.live##.header-nav-cta.nts-app
-nts.live##.header__nav a[href*="/explore"]
+nts.live##.header__nav a[href*="/shop"]
 nts.live##.header__nav a[href*="/infinite-mixtapes"]
 nts.live##.episode-player__icon-wrapper:nth-child(3)
 nts.live##.soundcloud-player__brand-logo-container
