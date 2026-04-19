@@ -1,19 +1,16 @@
 ! ========================================
 ! YOUTUBE - UI
-! ========================================
 youtube.com###voice-search-button
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
 
 ! ========================================
 ! YOUTUBE - COMMENTS
-! ========================================
 youtube.com###contents > ytd-comment-thread-renderer:nth-child(n+4)
 youtube.com###ghost-comment-section
 youtube.com##ytd-comments-header-renderer .count-text > span:first-child
 
 ! ========================================
 ! YOUTUBE - ACTION BUTTONS
-! ========================================
 youtube.com###flexible-item-buttons > yt-button-view-model:first-child
 youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer:nth-child(2)
 youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:last-child
@@ -22,7 +19,6 @@ youtube.com###top-level-buttons-computed > yt-button-view-model:last-child
 
 ! ========================================
 ! YOUTUBE - SIDEBAR / GUIDE
-! ========================================
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(4)
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(5)
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:last-child
