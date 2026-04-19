@@ -140,6 +140,17 @@ youtube.com###flexible-item-buttons > yt-button-view-model:first-child
 youtube.com###top-level-buttons-computed > yt-button-view-model:last-child
 youtube.com###video-title-link > button.cbShowOriginal.cbButton
 
+youtube.com###button-shape
+youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead:nth-child(2)
+youtube.com###chips
+youtube.com###simple-box
+youtube.com###additional-section
+youtube.com###reply-button-end
+youtube.com###collapsed-threads
+youtube.com###more-replies
+youtube.com###subscribe-button
+youtube.com###sponsor-button
+
 ! ========================================
 ! TWITTER / X
 ! ========================================
