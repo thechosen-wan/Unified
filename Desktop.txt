@@ -3,7 +3,6 @@
 ! ========================================
 youtube.com###footer
 youtube.com###voice-search-button
-youtube.com###button-shape
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
 
 ! ========================================
