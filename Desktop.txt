@@ -373,6 +373,7 @@ youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Dawn & Dusk|
 youtube.com###voice-search-button
 youtube.com###sections > ytd-guide-section-renderer:last-child
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
+youtube.com###sections > ytd-guide-section-renderer:nth-child(5)
 
 ! YOUTUBE - FEED / HOME
 ! ========================================
