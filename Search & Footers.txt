@@ -24,8 +24,9 @@ towerhamletsmosques.co.uk###prayer-times > div.ad-placement.slider
 towerhamletsmosques.co.uk###prayer-times > p:nth-child(6)
 !Advantage
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
-advantage.icas.com###d2l_1_61_803
-advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget:first-child
+advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
+advantage.icas.com###d2l_1_40_220
+advantage.icas.com##.d2l-footer
 !NextDNS
 my.nextdns.io###root > div.Header:first-child > div.container > div.row > div.col > div.nav.nav-tabs:last-child > div.nav-item:nth-child(5)
 !BBC
