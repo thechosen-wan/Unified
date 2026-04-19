@@ -7,7 +7,7 @@ ispreview.co.uk###outer
 !Ianvisits - Blocking entire site
 ianvisits.co.uk##div.site.hfeed
 ianvisits.co.uk###qc-cmp2-persistent-link
-!Apple Homer
+!Apple Home
 apple.com/uk-edu/store###page
 apple.com###page > div.rs-storehome:nth-child(12)
 apple.com###globalheader
@@ -21,6 +21,41 @@ google.*##a[href*="x.com"]:upward(1)
 google.*##.g:has(a[href*="twitter.com"])
 google.*##a[href*="twitter.com"]:upward(1)
 google.com##g-section-with-header:has(a[href*="x.com"])
+!Google Games
+google.*##a[href*="sudoku.com"]:nth-ancestor(2)
+google.*##a[href*="wordlewebsite.com"]:nth-ancestor(2)
+google.*##a[href*="wordleunlimited.org"]:nth-ancestor(2)
+google.*##a[href*="wordle-2.com"]:nth-ancestor(2)
+google.*##a[href*="watch-wrestling.cc"]:nth-ancestor(2)
+google.*##a[href*="wordlegame.org"]:nth-ancestor(2)
+google.*##a[href*="wordlenyt.io"]:nth-ancestor(2)
+google.*##a[href*="word.tips"]:nth-ancestor(2)
+google.*##a[href*="sudoku.game"]:nth-ancestor(2)
+google.*##a[href*="websudoku.com"]:nth-ancestor(2)
+google.*##a[href*="nytimes.com/puzzles/sudoku"]:nth-ancestor(2)
+google.*##a[href*="247sudoku.com"]:nth-ancestor(2)
+google.*##a[href*="solitairebliss.com"]:nth-ancestor(2)
+google.*##a[href*="games.washingtonpost.com"]:nth-ancestor(2)
+google.*##a[href*="wrestlingforum.com"]:nth-ancestor(2)
+google.*##a[href*="sudokukingdom.com"]:nth-ancestor(2)
+google.*##a[href*="https://online-solitaire.com"]:nth-ancestor(2)
+google.*##a[href*="puzzles.independent.co.uk"]:nth-ancestor(2)
+google.*##a[href*="sudokuonline.io"]:nth-ancestor(2)
+google.*##a[href*="en.sudoku-online.net"]:nth-ancestor(2)
+google.*##a[href*="britannica.com/games"]:nth-ancestor(2)
+google.*##a[href*="solitr.com"]:nth-ancestor(2)
+google.*##a[href*="solitaired.com"]:nth-ancestor(2)
+google.*##a[href*="worldofsolitaire.com"]:nth-ancestor(2)
+google.*##a[href*="247solitaire.com"]:nth-ancestor(2)
+google.*##a[href*="cardgames.io"]:nth-ancestor(2)
+google.*##a[href*="play-solitaire.com"]:nth-ancestor(2)
+google.*##a[href*="livesudoku.com"]:nth-ancestor(2)
+google.*##a[href*="mobilityware.com"]:nth-ancestor(2)
+!Google Anime
+google.*##a[href*="https://www.animenewsnetwork.com"]:nth-ancestor(2)
+google.*##a[href*="https://anilist.co"]:nth-ancestor(2)
+google.*##a[href*="https://myanimelist.net"]:nth-ancestor(2)
+google.*##a[href*="www.crunchyroll.com"]:nth-ancestor(2)
 !Ecosia
 ecosia.org##footer
 ecosia.org##div.layout > section.above-fold-section--addon.hero.hero--variant-secondary > div.hero__section > div.hero__content > div.above-fold-section > div.above-fold-section__counter.global-counter.global-counter--wrap-together.global-counter--with-transition.global-counter--with-border
