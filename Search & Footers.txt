@@ -126,6 +126,9 @@ advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
 advantage.icas.com###d2l_1_40_220
 advantage.icas.com##.d2l-footer
 
-! --- SPAM & FOOTER ---
+! --- FOOTER ---
 ##footer
+virginmedia.com##vo-footer.footer
+
+! --- SPAM ---
 velobet.com
