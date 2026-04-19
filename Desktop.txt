@@ -483,12 +483,22 @@ netflix.com###appMountPoint li:nth-child(2).default-ltr-iqcdef-cache-1ovftrv
 ! ========================================
 ! SPOTIFY
 ! ========================================
-ospotify.com##a[href*="/premium"]
-spotify.com##a[href*="/upgrade"]
-spotify.com##.e-91000-button-primary
-spotify.com##.e-91000-button--small
-spotify.com##.main-view-container__mh-footer-container
+! --- PROMOS & UPGRADE BUTTONS ---
+! Hides buttons that link to premium/purchase pages
+spotify.com##a[href*="premium"]:not([role="menuitem"])
 spotify.com##button[aria-label*="Upgrade"]
+spotify.com##div[data-testid="hero-banner"]
+
+! --- NAVIGATION & SIDEBAR ---
+! Hides the "Install App" and extra nav items by their position
+spotify.com###global-nav-bar div:last-child a:nth-child(2)
+spotify.com###global-nav-bar > div:last-child div:nth-child(3)
+
+! Hides the 6th, 7th, and last content rows on the home page
+spotify.com##[section][aria-label] .Shelf:nth-child(6)
+spotify.com##[section][aria-label] .Shelf:nth-child(7)
+spotify.com##[section][aria-label] .Shelf:last-child
+
 
 ! ========================================
 ! OUTLOOK
@@ -596,14 +606,6 @@ bing.com###brsv3
 ! EE
 ! ========================================
 ee.co.uk###fef-footer
-ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk###nbaSalesCarousel-undefined
-ee.co.uk###nbaBrandCarousel-undefined
-ee.co.uk##.lxp-Clarity
-ee.co.uk##.utility-bar
-ee.co.uk##.lc-SurfaceEE--fogBackground
-ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
-ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 
 ! ========================================
 ! VIRGIN MEDIA
