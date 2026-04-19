@@ -1,4 +1,12 @@
+!Etoro
 etoro.com###main
+!Vivaldi
+vivaldi.com##body.home #main
+vivaldi.com###betterweb
+vivaldi.com###menucontent > ul.topmenu.clicky-menu:nth-child(3) > li:not(:nth-child(4))
+vivaldi.com###topdl
+vivaldi.com##.social-share-buttons
+vivaldi.com##.now
 !Quant
 qwant.com###root > div:first-child > div > div:first-child > nav:first-child
 qwant.com###root > div:first-child > div > footer:last-child
