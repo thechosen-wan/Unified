@@ -6,6 +6,7 @@ google.com##input[name="btnI"], input[name="btnK"]
 google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
+google.com##div[aria-label="Search by image"]
 
 ! Google: Keyword Filters (Negative)
 google.*##h3:has-text(/Linux/i):nth-ancestor(4)
