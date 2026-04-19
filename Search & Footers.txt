@@ -1,6 +1,14 @@
+!Reddit
 reddit.com##shreddit-feed in-feed-community-recommendations
-youtube.com###chat
+!YT
 youtube.com###teaser-carousel
+!ISPreview
+ispreview.co.uk###nleft_nav > div.vanishmobile:nth-child(3)
+ispreview.co.uk###nleft_nav > div.mobindx1:nth-child(8)
+ispreview.co.uk###nleft_nav div.listdetail:last-child
+ispreview.co.uk###nright_nav
+ispreview.co.uk##div.isprpara p:nth-child(2)
+ispreview.co.uk###ftr
 !Vivaldi
 vivaldi.com###main
 vivaldi.com###vivmenu
