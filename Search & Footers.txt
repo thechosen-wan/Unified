@@ -1,81 +1,18 @@
-##footer
-!Reddit
-reddit.com##shreddit-feed in-feed-community-recommendations
-!YT
-youtube.com###teaser-carousel
-!ISPreview
-ispreview.co.uk###nleft_nav > div.vanishmobile:nth-child(3)
-ispreview.co.uk###nleft_nav > div.mobindx1:nth-child(8)
-ispreview.co.uk###nleft_nav div.listdetail:last-child
-ispreview.co.uk###nright_nav
-ispreview.co.uk##div.isprpara p:nth-child(2)
-ispreview.co.uk###ftr
-!ELM
-eastlondonmosque.org.uk##.homeIntroWrapper
-eastlondonmosque.org.uk##div.cookie-preference-container
-eastlondonmosque.org.uk###wa-float-btn
-eastlondonmosque.org.uk##.postAside
-eastlondonmosque.org.uk###menuMain
-eastlondonmosque.org.uk###pageFooterWrapper
-eastlondonmosque.org.uk###carouselSlides
-eastlondonmosque.org.uk##.homeFeaturesWrapper
-eastlondonmosque.org.uk##section.footerBox
-!THMosques
-towerhamletsmosques.co.uk###prayer-times > div.ad-placement.slider
-towerhamletsmosques.co.uk###prayer-times > p:nth-child(6)
-!Advantage
-advantage.icas.com##.d2l-navigation-s-personal-menu-text
-advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
-advantage.icas.com###d2l_1_40_220
-advantage.icas.com##.d2l-footer
-!BBC
-bbc.co.uk##div[class*="ViewCommentsWrapper"] button
-bbc.co.uk##ul[class*="MetadataStripContainer"] li:last-child
-!Guardian
-theguardian.com###comments
-theguardian.com##aside a[href*="#comments"]
-!Ebay
-ebay.co.uk##:matches-path(/^/$/) #mainContent .isRootLayout
-ebay.co.uk##.gh-nav-link
-ebay.com###mainContent
-!Amazon
-amazon.co.uk###gw-layout
-amazon.co.uk###gw-desktop-herotator
-amazon.co.uk###navFooter
-!HUKD UI
-hotukdeals.com##.nav-search--navigation
-hotukdeals.com##.test-tablink-new .circle--primary
-hotukdeals.com###sidebarContentPortal > div > div:first-child
-hotukdeals.com###content-list > section.aGrid.flex.width--all-12.space--mb-4:last-child > div.listLayout-main:nth-child(4)
-!Perplexity
-perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
-!HUKD Words
-hotukdeals.com##article:has-text(/Google Pixel|Samsung Galaxy|Honor/i)
-hotukdeals.com##article:has-text(/Xbox|PS+|Lebara|Mozillion|Hyperoptic/i)
-hotukdeals.com##article:has-text(/\[PC\]/i)
-hotukdeals.com##article:has-text(/\[PC Game\]/i)
-hotukdeals.com##article:has-text(/Smartphone|Laptop|Tablet/i)
-hotukdeals.com##article:has-text(/Android/i)
-hotukdeals.com##article:has-text(/Smart TV/i)
-hotukdeals.com##article:has-text(/Nothing CMF/i)
-hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
-!Reddit Words
-reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF/i))
-reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WCW/i))
-reddit.com##shreddit-post:has(a[slot="title"]:has-text(/ECW/i))
-!Google Buttons
+! --- SEARCH & AI ---
+
+! Google: Buttons, Navigation, and Footer
 google.com##a[href="https://mail.google.com/mail/&ogbl"], a[href^="https://www.google.com/imghp"]
 google.com##input[name="btnI"], input[name="btnK"]
 google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
-!Spam Sites
-velobet.com
-!Google Keywords
+
+! Google: Keyword Filters (Negative)
 google.*##h3:has-text(/Linux/i):nth-ancestor(4)
 google.*##h3:has-text(/Cornette/i):nth-ancestor(4)
 google.*##h3:has-text(/Kagi/i):nth-ancestor(4)
-!News
+
+! Google: Domains to Hide (News, Tech, Anime, Games)
 google.*##a[href*="dailymail.co.uk"]:nth-ancestor(2)
 google.*##a[href*="gbnews.com"]:nth-ancestor(2)
 google.*##a[href*="thesun.co.uk"]:nth-ancestor(2)
@@ -90,9 +27,6 @@ google.*##a[href*="www.gbnews.com"]:nth-ancestor(2)
 google.*##a[href*="www.manchestereveningnews.co.uk"]:nth-ancestor(2)
 google.*##a[href*="talksport.com"]:nth-ancestor(2)
 google.*##a[href*="www.express.co.uk"]:nth-ancestor(2)
-!Media
-google.*##a[href*="youtube.fandom.com"]:nth-ancestor(2)
-!Tech
 google.*##a[href*="9to5google.com"]:nth-ancestor(2)
 google.*##a[href*="fibreprovider.net"]:nth-ancestor(2)
 google.*##a[href*="androidpolice.com"]:nth-ancestor(2)
@@ -100,18 +34,97 @@ google.*##a[href*="androidcentral.com"]:nth-ancestor(2)
 google.*##a[href*="beebom.com"]:nth-ancestor(2)
 google.*##a[href*="sammobile.com"]:nth-ancestor(2)
 google.*##a[href*="androidauthority.com"]:nth-ancestor(2)
-!Reddit
-google.*##a[href*="reddit.com/r/Wrasslin"]:nth-ancestor(2)
-google.*##a[href*="reddit.com/r/SCJerk"]:nth-ancestor(2)
-google.*##a[href*="reddit.com/r/Piratefolk"]:nth-ancestor(2)
-!Games
-google.*##a[href*="https://www.google.co.uk/logos/fnbx/solitaire"]:nth-ancestor(2)
-!Anime
+google.*##a[href*="youtube.fandom.com"]:nth-ancestor(2)
 google.*##a[href*="worstgen.alwaysdata.net"]:nth-ancestor(2)
 google.*##a[href*="www.fanverse.org"]:nth-ancestor(2)
 google.*##a[href*="screenrant.com/anime"]:nth-ancestor(2)
 google.*##a[href*="gamerant.com/anime"]:nth-ancestor(2)
 google.*##a[href*="onepiece.fandom.com"]:nth-ancestor(2)
 google.*##a[href*="oneesports.gg/anime"]:nth-ancestor(2)
-!Comments
+google.*##a[href*="reddit.com/r/Wrasslin"]:nth-ancestor(2)
+google.*##a[href*="reddit.com/r/SCJerk"]:nth-ancestor(2)
+google.*##a[href*="reddit.com/r/Piratefolk"]:nth-ancestor(2)
+google.*##a[href*="https://www.google.co.uk/logos/fnbx/solitaire"]:nth-ancestor(2)
+
+! AI Chat Disclaimers & UI
+claude.ai##div:has-text(Claude can make mistakes)
+claude.ai##[data-testid="upgrade-badge"]
+gemini.google.com##hallucination-disclaimer
+gemini.google.com##.adv-upsell
+chat.mistral.ai##.text-muted.text-xs.text-center
+chat.mistral.ai##[data-sidebar="footer"]
+perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
+
+! --- SHOPPING & DEALS ---
+
+! Amazon & eBay
+amazon.co.uk###gw-layout
+amazon.co.uk###gw-desktop-herotator
+amazon.co.uk###navFooter
+ebay.co.uk##:matches-path(/^/$/) #mainContent .isRootLayout
+ebay.co.uk##.gh-nav-link
+ebay.com###mainContent
+
+! HotUKDeals: UI & Word Filters
+hotukdeals.com##.nav-search--navigation
+hotukdeals.com##.test-tablink-new .circle--primary
+hotukdeals.com###sidebarContentPortal > div > div:first-child
+hotukdeals.com###content-list > section.aGrid.flex.width--all-12.space--mb-4:last-child > div.listLayout-main:nth-child(4)
+hotukdeals.com##article:has-text(/Google Pixel|Samsung Galaxy|Honor/i)
+hotukdeals.com##article:has-text(/Xbox|PS+|Lebara|Mozillion|Hyperoptic/i)
+hotukdeals.com##article:has-text(/\[PC\]|\[PC Game\]/i)
+hotukdeals.com##article:has-text(/Smartphone|Laptop|Tablet|Android/i)
+hotukdeals.com##article:has-text(/Smart TV/i)
+hotukdeals.com##article:has-text(/Nothing CMF/i)
+hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
+
+! --- SOCIAL & MEDIA ---
+
+! Reddit
+reddit.com##shreddit-feed in-feed-community-recommendations
+reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF|WCW|ECW/i))
+
+! YouTube
+youtube.com###teaser-carousel
+
+! News Site Elements (Comments & Metadata)
+bbc.co.uk##div[class*="ViewCommentsWrapper"] button
+bbc.co.uk##ul[class*="MetadataStripContainer"] li:last-child
+theguardian.com###comments
+theguardian.com##aside a[href*="#comments"]
 independent.co.uk###comments
+
+! --- LOCAL & EDUCATION ---
+
+! East London Mosque
+eastlondonmosque.org.uk##.homeIntroWrapper
+eastlondonmosque.org.uk##div.cookie-preference-container
+eastlondonmosque.org.uk###wa-float-btn
+eastlondonmosque.org.uk##.postAside
+eastlondonmosque.org.uk###menuMain
+eastlondonmosque.org.uk###pageFooterWrapper
+eastlondonmosque.org.uk###carouselSlides
+eastlondonmosque.org.uk##.homeFeaturesWrapper
+eastlondonmosque.org.uk##section.footerBox
+
+! Tower Hamlets Mosques
+towerhamletsmosques.co.uk###prayer-times > div.ad-placement.slider
+towerhamletsmosques.co.uk###prayer-times > p:nth-child(6)
+
+! ISPreview
+ispreview.co.uk###nleft_nav > div.vanishmobile:nth-child(3)
+ispreview.co.uk###nleft_nav > div.mobindx1:nth-child(8)
+ispreview.co.uk###nleft_nav div.listdetail:last-child
+ispreview.co.uk###nright_nav
+ispreview.co.uk##div.isprpara p:nth-child(2)
+ispreview.co.uk###ftr
+
+! Advantage ICAS
+advantage.icas.com##.d2l-navigation-s-personal-menu-text
+advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
+advantage.icas.com###d2l_1_40_220
+advantage.icas.com##.d2l-footer
+
+! --- SPAM & FOOTER ---
+##footer
+velobet.com
