@@ -225,22 +225,41 @@ ecosia.org##div.layout > section.section-wrapper.map-section.section-wrapper--te
 ecosia.org##div.layout > div.forest-section.forest-section--background-secondary
 ecosia.org##div.layout > div.wave-separator.wave-separator--variant-tertiary.wave-separator--visible
 
+!EE
+ee.co.uk###nbaSalesCarousel-undefined
+ee.co.uk###nbaBrandCarousel-undefined
+ee.co.uk##.lxp-Clarity
+ee.co.uk##.lc-SurfaceEE--fogBackground
+ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
+ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
+ee.co.uk##.utility-bar
+
 ! ========================================
 ! OTHER SITES
 ! ========================================
 github.com##main
 github.com##header
 developer.apple.com###app
+
+!Apple
 apple.com/uk-edu/store###page
 apple.com###page > div.rs-storehome:nth-child(12)
 apple.com###globalheader
+
+!HUKD
 hotukdeals.com##.nav-search--navigation
 hotukdeals.com##.test-tablink-new .circle--primary
 hotukdeals.com###sidebarContentPortal > div > div:first-child
 hotukdeals.com###content-list > section.aGrid.flex.width--all-12.space--mb-4:last-child > div.listLayout-main:nth-child(4)
+
+!Perplexity
 perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
+
+!Ianvisits
 ianvisits.co.uk##div.site.hfeed
 ianvisits.co.uk###qc-cmp2-persistent-link
+
+!Advantage
 advantage.icas.com###d2l_1_40_220
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
