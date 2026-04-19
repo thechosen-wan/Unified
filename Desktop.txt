@@ -467,18 +467,10 @@ discord.com###app-mount .attachButton_f298d4.attachButton_d0696b.button_dd4f85.l
 ! ========================================
 ! NETFLIX
 ! ========================================
-netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
-netflix.com##.tabbed-primary-navigation
 netflix.com##.notifications-menu:first-child
 netflix.com##.moreLikeThis--wrapper
-netflix.com##.trailersAndMore--wrapper
-netflix.com##div.lolomoRow:last-child
-netflix.com##div.lolomoRow:nth-child(7)
-netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime|Animation|Japanese|US Sitcoms|Kids|Games/i))
-netflix.com##.ew9vekb3 .ewflus00 .ew9vekb1 > section:first-child > .e1devdx36:nth-child(2)
-netflix.com##.ew9vekb3 .ew9vekb1 > section .e1devdx36:nth-child(3) .e1devdx35:last-child > .egp7i3p0 > .eawouyh0:nth-child(6)
+netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime|Animation|Japanese|Kids|Games/i))
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div.accountLayout > div.site-footer-wrapper
-netflix.com###appMountPoint li:nth-child(2).default-ltr-iqcdef-cache-1ovftrv
 
 ! ========================================
 ! SPOTIFY
