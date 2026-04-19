@@ -1,6 +1,6 @@
 ! --- SEARCH & AI ---
-google.com##button.plR5qb.Y5MKCd
 ! Google: Buttons, Navigation, and Footer
+google.com##button.plR5qb.Y5MKCd
 google.com##a[href="https://mail.google.com/mail/&ogbl"], a[href^="https://www.google.com/imghp"]
 google.com##input[name="btnI"], input[name="btnK"]
 google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
