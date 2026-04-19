@@ -429,11 +429,6 @@ youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Zoe Sugg|Wha
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Dawn & Dusk|LunaPienArt/))
 
 ! ========================================
-! YOUTUBE MUSIC
-! ========================================
-music.youtube.com##.ytmusic-fullbleed-thumbnail-renderer img:last-child
-
-! ========================================
 ! DISCORD
 ! ========================================
 
@@ -458,17 +453,18 @@ discord.com##.buttonContainer_df39bd, .app-launcher-entrypoint
 discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > li.container_e45859:nth-child(4)
 discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > div:nth-child(3) a.link__972a0
 discord.com##nav.privateChannels_e6b769 ul.content_d125d2 > div.wrapper__553bf:nth-child(6) a.link__972a0
-discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > nav.wrapper_fea3ef.guilds_a4d4d9:first-child > ul.tree_fea3ef > div.scroller_fea3ef.none_c49869.scrollerBase_c49869:nth-child(2) > div.listItem_c96c45:nth-child(n+5):nth-child(-n+7)
-discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.sidebar_a4d4d9:first-child > nav.privateChannels_f0963d:first-child > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8:last-child > ul.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-child(3)
-discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.sidebar_a4d4d9:first-child > nav.privateChannels_f0963d:first-child > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8:last-child > ul.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-child(4)
-discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(4) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.chat_a7d72e:last-child > div.subtitleContainer_a7d72e:first-child > section.title_a7d72e.container_fc4f04.themed_fc4f04 > div.upperContainer_fc4f04 > div.toolbar_fc4f04:last-child > div.iconWrapper_fc4f04.clickable_fc4f04:nth-child(n+1):nth-child(-n+5)
-discord.com###app-mount .attachButton_f298d4.attachButton_d0696b.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
+discord.com##ul.tree_fea3ef div.listItem_c96c45:nth-child(n+5):nth-child(-n+7)
+discord.com##ul.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-child(3)
+discord.com##ul.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-child(4)
+discord.com##div.toolbar_fc4f04 > div.iconWrapper_fc4f04.clickable_fc4f04:nth-child(n+1):nth-child(-n+5)
+discord.com##.attachButton_f298d4
 
 ! ========================================
 ! NETFLIX
 ! ========================================
 netflix.com##.notifications-menu:first-child
 netflix.com##.moreLikeThis--wrapper
+netflix.com##li.navigation-tab:has(a[href*="games"])
 netflix.com##.lolomoRow:has(.rowTitle:has-text(/Anime|Animation|Japanese|Kids|Games/i))
 netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div.accountLayout > div.site-footer-wrapper
 
