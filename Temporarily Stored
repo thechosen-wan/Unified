@@ -234,9 +234,17 @@ ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
 ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
 ee.co.uk##.utility-bar
 
-! ========================================
-! OTHER SITES
-! ========================================
+!Netflix
+netflix.com##.main-header .secondary-navigation .nav-element:nth-child(2)
+netflix.com##.tabbed-primary-navigation
+netflix.com##.trailersAndMore--wrapper
+netflix.com##div.lolomoRow:last-child
+netflix.com##div.lolomoRow:nth-child(7)
+netflix.com##.ew9vekb3 .ewflus00 .ew9vekb1 > section:first-child > .e1devdx36:nth-child(2)
+netflix.com##.ew9vekb3 .ew9vekb1 > section .e1devdx36:nth-child(3) .e1devdx35:last-child > .egp7i3p0 > .eawouyh0:nth-child(6)
+netflix.com###appMountPoint li:nth-child(2).default-ltr-iqcdef-cache-1ovftrv
+
+!Github
 github.com##main
 github.com##header
 developer.apple.com###app
