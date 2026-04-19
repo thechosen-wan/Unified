@@ -9,9 +9,6 @@ ispreview.co.uk###nleft_nav div.listdetail:last-child
 ispreview.co.uk###nright_nav
 ispreview.co.uk##div.isprpara p:nth-child(2)
 ispreview.co.uk###ftr
-!Vivaldi
-vivaldi.com###footer
-vivaldi.net###footer
 !ELM
 eastlondonmosque.org.uk##.homeIntroWrapper
 eastlondonmosque.org.uk##div.cookie-preference-container
