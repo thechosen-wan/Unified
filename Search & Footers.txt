@@ -132,3 +132,7 @@ virginmedia.com##vo-footer.footer
 
 ! --- SPAM ---
 velobet.com
+
+! --- SPOTIFY ---
+spotify.com##footer
+spotify.com##[class*="footer-container"]
