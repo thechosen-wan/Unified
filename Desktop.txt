@@ -1,19 +1,10 @@
 ! ========================================
 ! YOUTUBE - UI
 ! ========================================
-youtube.com###subscribe-button
-youtube.com###sponsor-button
 youtube.com###footer
-youtube.com###chips
 youtube.com###voice-search-button
 youtube.com###button-shape
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
-youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead:nth-child(2)
-youtube.com###simple-box
-youtube.com###additional-section
-youtube.com###reply-button-end
-youtube.com###collapsed-threads
-youtube.com###more-replies
 
 ! ========================================
 ! YOUTUBE - COMMENTS
