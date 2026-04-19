@@ -34,14 +34,7 @@ bbc.co.uk##ul[class*="MetadataStripContainer"] li:last-child
 theguardian.com###comments
 theguardian.com##aside a[href*="#comments"]
 !Ebay
-ebay.co.uk##aside.home-item-carousel
-ebay.co.uk##aside.custom-page-grid-container
-ebay.co.uk###placement101506 section
-ebay.co.uk##.dp-filtered-feed-module
-ebay.co.uk##.dp-popular-destinations-module
-ebay.co.uk##.dp-section-header-module
-ebay.co.uk##.home-topp-carousel
-ebay.co.uk###dp-live-events-carousel
+ebay.co.uk##:matches-path(/^/$/) #mainContent .isRootLayout
 !Amazon
 amazon.co.uk###gw-layout
 amazon.co.uk###gw-desktop-herotator
