@@ -39,7 +39,6 @@ ebay.co.uk##aside.home-item-carousel
 ebay.co.uk##aside.custom-page-grid-container
 ebay.co.uk###placement101506 section
 ebay.co.uk##.dp-filtered-feed-module
-ebay.co.uk##footer
 ebay.co.uk##.dp-popular-destinations-module
 ebay.co.uk##.dp-section-header-module
 ebay.co.uk##.home-topp-carousel
@@ -150,47 +149,7 @@ google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
 velobet.com
-1shows.ru##footer
-kagi.com##div.footer
-kagi.com##.footerInner
-independent.co.uk##footer
-nowtv.com###main-footer
-virginmedia.com##vo-footer
-lidl.co.uk##footer
-premierleague.com##footer
-yourheights.com##footer
-aljazeera.com##footer
-cmll.com##footer
-netflix.com##footer
-netflix.com###member-footer
-disneyplus.com##footer
-github.com##footer
-elevenforum.com###footer
-tntsports.co.uk##footer
-apple.com##footer
-rewards.bing.com###footerRegion
-theguardian.com##footer
-audible.co.uk###bottom-1
-bbc.co.uk###orb-footer
-digitalservices.bt.com###bt-footer
-nectar.com##footer
-amazon.co.uk###navFooter
-bing.com##footer
-citymapper.com##cm-landing-footer
-oleandsteen.co.uk##footer
-coop.co.uk##footer
-netflix.com###member-footer
-hotukdeals.com###footer
-ticketmaster.co.uk##footer
-tfl.gov.uk###footer
-asoftmurmur.com##.Footer
-nts.live##div.footer
-icas.com##footer
-mylondon.news##footer
-bbc.co.uk##footer
-virginmedia.com##footer
-capitalone.co.uk##footer
-global.americanexpress.com##footer
+##footer
 !AI Mode
 www.google.*##[role="navigation"] [role="list"] > [role="listitem"]:has([href*="&udm=50"])
 google.com##button.plR5qb.Y5MKCd
