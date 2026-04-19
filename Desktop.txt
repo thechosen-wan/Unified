@@ -1,7 +1,6 @@
 ! ========================================
 ! YOUTUBE - UI
 ! ========================================
-youtube.com###footer
 youtube.com###voice-search-button
 youtube.com###buttons > ytd-button-renderer.style-scope.ytd-masthead:first-child
 
