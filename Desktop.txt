@@ -622,31 +622,38 @@ virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > di
 ! ========================================
 ! NTS
 ! ========================================
-nts.live###home > section.supporter-ad
-nts.live###episode-container > div.episode-promo
+nts.live##.supporter-ad
+nts.live##.episode-promo
 nts.live###shop-collection
-nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-cta.nts-app.nts-button.nts-link.hidden-phone:last-child
-nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > button.header-nav-item.nts-link.hidden-phone:nth-child(4)
-nts.live###react-content > div:nth-child(5) > header.header:nth-child(2) > nav.header__nav.text-uppercase.hidden-phone:nth-child(2) > a.header-nav-item.nts-link:nth-child(5)
-nts.live###react-content > div.footer-player.footer-player--episode-player.is-soundcloud.footer-player--open:nth-child(3) > div.episode-player-wrapper:last-child > div.episode-player:first-child > div.episode-player__button-group:first-child > div.episode-player__icon-group:first-child > div.episode-player__icon-wrapper:nth-child(3)
+nts.live##.header-nav-cta.nts-app
+nts.live##.header__nav a[href*="/explore"]
+nts.live##.header__nav a[href*="/infinite-mixtapes"]
+nts.live##.episode-player__icon-wrapper:nth-child(3)
 nts.live##.soundcloud-player__brand-logo-container
 nts.live##.header__menu-toggle
-nts.live##a.nts-app.header-nav-cta
 
 ! ========================================
 ! PERPLEXITY
 ! ========================================
-perplexity.ai##a.p-sm.group.flex.w-full.flex-col.items-center.justify-center.gap-0\.5:nth-child(3)
-perplexity.ai##button.gap-xs.group.inline-flex.appearance-none.flex-col.items-center:nth-child(2)
-perplexity.ai##div.pb-sm.gap-md.mt-auto.flex.w-full.min-w-0.flex-col.items-center.justify-center.\[\&\>\*\]\:w-full:last-child > div.gap-xs.flex.flex-col.items-center:last-child
-perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.transition-all.duration-300.opacity.flex.items-center.gap-x-xs.md\:gap-x-0.opacity-100:last-child
-perplexity.ai###root > div[class*="bottom-md"][class*="right-md"][class*="p-lg"]
-perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-end > div:last-child
+perplexity.ai##a.interactable.group
+perplexity.ai##button.interactable.group
+perplexity.ai##.mt-auto .gap-xs.flex-col
+perplexity.ai##.h-headerHeight .pointer-events-auto.flex
+perplexity.ai##[class*="bottom-md"][class*="right-md"]
+perplexity.ai##.pointer-events-auto.justify-end > div:last-child
+perplexity.ai##[class*="sidebar"] .group\/collapsible-sidebar-section:nth-child(4)
+perplexity.ai##main .bottom-md
+perplexity.ai##.h-headerHeight a.interactable
 
 ! ========================================
 ! CAGEMATCH
 ! ========================================
-
+cagematch.net##.LayoutTopMenu
+cagematch.net##.LayoutNavigationTree
+cagematch.net##div.LayoutUserAccount
+cagematch.net##.Impressum
+cagematch.net##.LayoutWidth .LayoutOptionsAndBody .FeatureNewEntries
+cagematch.net##.LayoutRightPanelInner .Appetizer:last-child
 
 ! ========================================
 ! CMLL
