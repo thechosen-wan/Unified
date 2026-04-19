@@ -518,6 +518,8 @@ google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 www.google.com##.sLe0gf
 www.google.com##.vuVjXe
+google.com##.MV3Tnb
+google.com##.nDcEnd
 
 ! ========================================
 ! GEMINI
