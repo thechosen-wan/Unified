@@ -10,10 +10,7 @@ ispreview.co.uk###nright_nav
 ispreview.co.uk##div.isprpara p:nth-child(2)
 ispreview.co.uk###ftr
 !Vivaldi
-vivaldi.com###main
-vivaldi.com###vivmenu
 vivaldi.com###footer
-vivaldi.net###main
 vivaldi.net###footer
 !ELM
 eastlondonmosque.org.uk##.homeIntroWrapper
