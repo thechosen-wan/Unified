@@ -632,6 +632,7 @@ nts.live##.episode-player__icon-wrapper:nth-child(3)
 nts.live##.soundcloud-player__brand-logo-container
 nts.live##.header__menu-toggle
 nts.live##.header button.header-nav-item:nth-child(4)
+nts.live##.episode-player-tracklist__promo
 
 ! ========================================
 ! PERPLEXITY
