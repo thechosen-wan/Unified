@@ -1,13 +1,13 @@
-!Dev
+!Dev - Blocking entire site
 github.com##main
 github.com##header
 developer.apple.com###app
-!ISPreview
+!ISPreview - Blocking entire site
 ispreview.co.uk###outer
-!Ianvisits
+!Ianvisits - Blocking entire site
 ianvisits.co.uk##div.site.hfeed
 ianvisits.co.uk###qc-cmp2-persistent-link
-!Apple
+!Apple Homer
 apple.com/uk-edu/store###page
 apple.com###page > div.rs-storehome:nth-child(12)
 apple.com###globalheader
