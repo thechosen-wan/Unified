@@ -578,7 +578,6 @@ reddit.com###navbar-menu-button
 reddit.com###login-button
 reddit.com###get-app
 reddit.com###reddit-logo
-reddit.com###left-sidebar-container
 reddit.com###reddit-trending-searches-partial-container
 reddit.com###main-content > shreddit-feed.nd\:visible:last-child
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
