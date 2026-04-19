@@ -282,3 +282,14 @@ ianvisits.co.uk###qc-cmp2-persistent-link
 advantage.icas.com###d2l_1_40_220
 advantage.icas.com##.d2l-navigation-s-personal-menu-text
 advantage.icas.com##:matches-path(/d2l/home) .d2l-custom-widget
+
+youtube.com###chat
+youtube.com###teaser-carousel
+youtube.com##ytd-browse-feed-actions-renderer
+youtube.com##ytd-reel-shelf-renderer
+youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
+youtube.com###contents grid-shelf-view-model:has(yt-section-header-view-model:has-text(Shorts))
+youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Search for/i)
+youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/People also search for/i)
+youtube.com##ytd-shelf-renderer:has-text(/For you|From related searches|People also watched|Channels new to you|Previously watched|Popular in London|Top news|Latest posts from/)
+youtube.com###video-title-link > button.cbShowOriginal.cbButton
