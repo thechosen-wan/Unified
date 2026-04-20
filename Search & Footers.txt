@@ -154,7 +154,9 @@ theverge.com##.duet--content-cards--content-card [class*="comments-link"]
 !EE
 ee.co.uk##.utility-bar
 ee.co.uk##.primary-elements-links a:last-child
-ee.co.uk##.lc-SurfaceEE--fogBackground
+ee.co.uk##div.lc-Container:nth-child(3)
+ee.co.uk##.lc-SurfaceEE--fogBackground .sc-ibQAlb.iwCcGD:first-child
+
 
 !Macrumors
 macrumors.com###sidebar-content
