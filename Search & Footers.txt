@@ -151,6 +151,9 @@ theverge.com##div[class*="duet--article--block-placement"]
 theverge.com##.duet--homepage--hero [class*="comments-link"]
 theverge.com##.duet--content-cards--content-card [class*="comments-link"]
 
+!EE
+ee.co.uk##.utility-bar
+
 !Macrumors
 macrumors.com###sidebar-content
 macrumors.com##.brand--35M9QOgB
