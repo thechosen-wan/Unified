@@ -520,3 +520,4 @@ macrumors.com###sidebar-content
 macrumors.com##.brand--35M9QOgB
 macrumors.com##article[class*="article"] div[class*="footer"]
 macrumors.com##[id="comments"] [class*="buttoncontainer"]
+macrumors.com##[class*="sidebar"]
