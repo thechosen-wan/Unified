@@ -502,3 +502,15 @@ youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/WillNE React
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/WIRED|Channel 4.0/))
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Zoe Sugg|What's Good Podcast/))
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Dawn & Dusk|LunaPienArt/))
+
+!Verge
+theverge.com##.duet--app [class*="_1ckl8uw4"]
+theverge.com##.duet--navigation--sticky-nav
+theverge.com##.duet--layout--article-recirc-color-container
+theverge.com##div.duet--layout--rail > div:nth-child(4)
+theverge.com###zephr-anchor > div.last-child
+theverge.com##.duet--layout--entry-body [class*="header-pattern"]
+theverge.com###zephr-anchor > div.tly2fw0:last-child
+theverge.com##div[class*="duet--article--block-placement"]
+theverge.com##.duet--homepage--hero [class*="comments-link"]
+theverge.com##.duet--content-cards--content-card [class*="comments-link"]
