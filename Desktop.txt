@@ -296,6 +296,12 @@ asoftmurmur.com##nav
 asoftmurmur.com##.Title
 ||asoftmurmur.com/assets/bg-high-res.jpg$image
 
+!Vivaldi
+vivaldi.com###menucontent > ul.topmenu.clicky-menu:nth-child(3) > li:not(:nth-child(4))
+vivaldi.com##body.home #main
+vivaldi.com##body.home #betterweb
+vivaldi.com###topdl
+
 !11 Forum
 elevenforum.com##.p-body-sidebar
 elevenforum.com##div.block.sim1
