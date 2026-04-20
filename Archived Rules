@@ -667,3 +667,9 @@ youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/WillNE React
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/WIRED|Channel 4.0/))
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Zoe Sugg|What's Good Podcast/))
 youtube.com##ytd-rich-item-renderer:has(#byline-container:has-text(/Dawn & Dusk|LunaPienArt/))
+
+! ========================================
+! MOBILE YOUTUBE - Hide Elements
+! ========================================
+m.youtube.com##ytm-video-with-context-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Linux/)
+m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-section"] ytm-comment-thread-renderer:nth-of-type(n+4)
