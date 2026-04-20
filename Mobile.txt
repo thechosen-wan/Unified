@@ -1054,58 +1054,118 @@ m.youtube.com##ytm-compact-radio-renderer:has-text(/Londonist Ltd|Jago Hazzard/)
 m.youtube.com##ytm-compact-radio-renderer:has-text(/penguinz0|MrMobile/)
 
 ! ========================================
-! OTHER SITES
+! OTHER SITES - ORGANISED
 ! ========================================
-google.com###gb-main > header:nth-child(2) > div:nth-child(4) > a.j4hoVe
-hotukdeals.com###mobile-menu
-reddit.com##shreddit-feed-page-loading
-reddit.com##community-highlight-carousel
-reddit.com###subgrid-container > div.masthead:first-child > section:last-child > div.flex-1 > div.items-center:last-child
-gemini.google.com##hallucination-disclaimer
+! --- AMAZON ---
+amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
 amazon.co.uk###gwm-Deck
-notebooklm.google.com##.notebook-header-buttons-container.second-row-buttons
-ebay.co.uk##[data-view*="views"] > div:has-text("Inspired by your recent views")
-ebay.co.uk###mainContent .isRootLayout .defaultGap
+amazon.co.uk###rhf
+amazon.co.uk###nav-logo
+amazon.co.uk###nav-progressive-greeting
+amazon.co.uk###nav-subnav-container
+amazon.co.uk###nav-gwbar
+amazon.co.uk###squished-desktop-row
+amazon.co.uk###nav-orders
+amazon.co.uk###nav-global-location-data-modal-action
+amazon.co.uk###buyNow_feature_div
+amazon.co.uk###a-page > footer.nav-mobile
+amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
+
+! --- BBC ---
 bbc.co.uk##.ssrcss-1q1gjvm-MetadataStripContainer .ssrcss-1dqo2s-MetadataStripItem:last-child
 bbc.co.uk##.ssrcss-1lk4435-CommentsModule
-cmll.com##div.grid-container.grid-container--no-padding:nth-child(6)
-cmll.com##div.grid-container.full:nth-child(5)
-cmll.com##section.cartelera .grid-container--no-padding > .grid-x.align-justify:first-child
 bbc.co.uk###site-container > div.wr-c-weather-watchers.gs-u-box-size.gs-u-pt\+\+:nth-child(9)
 bbc.co.uk###navigation-links\?country\=gb\&language\=en\&service\=weather
 bbc.co.uk##.ssrcss-ud5bw-StyledWrapper, .e13x1eja4
 bbc.co.uk###site-container > div.wr-c-observations.gs-u-box-size.gs-u-pv\+\+:nth-child(8)
-mylondon.news###comments-section
-mylondon.news##.related-column
-mylondon.news##.half-circle-right
-1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:last-child
-1shows.ru###FilmSwitcher > a.flex.items-center.justify-center.gap-2.rounded-full.p-1.w-\[36px\].h-\[36px\].font-medium.transition-all.hocus\:bg-white.hocus\:bg-opacity-10.sm\:w-auto.sm\:h-auto.sm\:p-0.sm\:px-2.sm\:py-2.lg\:px-4.false:nth-child(3)
-1shows.ru##Trending
-1shows.ru##.py-\[2rem\]
-1shows.ru###Recommendation\ \&\ Similar
-1shows.ru###reviews
-coop.co.uk###offers-content > aside.coop-c-app-download
-spotify.com###mh-footer
-virginmedia.com###hero-banner
-virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
-virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
-virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > div.theme-provider__application:last-child > div.app > main > vm-account-settings-shell.ng-star-inserted:last-child > main.main:nth-child(2) > vm-challenger-online-security.ng-star-inserted:last-child > div.ng-star-inserted > div.vm-container.account-security-main > div.vm-row.content:last-child
 bbc.co.uk###Report .ssrcss-1f4iwce-CommentsModule
 bbc.co.uk###elsewhereNewsWeather-label-aside-content
-www.bbc.co.uk###features-label-aside-content
-www.bbc.co.uk###elsewhere-label-aside-content
 bbc.co.uk###elsewhereSport-label-aside-content
 bbc.co.uk###elsewhereInSport-label-aside-content
-photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
-photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
-photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
-imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div:nth-child(7) > div.BottomRecirc
+www.bbc.co.uk###features-label-aside-content
+www.bbc.co.uk###elsewhere-label-aside-content
+
+! --- BT ---
+bt.com###aem-global-footer
+
+! --- CAGESIDE SEATS ---
 cagesideseats.com##div.l-root.l-reskin:nth-child(4) > footer.c-footer.c-footer__community:nth-child(5)
 cagesideseats.com###toaster
 cagesideseats.com###coral_thread
 cagesideseats.com###content > article.l-segment.l-main-content > div.l-sidebar-fixed.l-segment.l-article-body-segment:nth-child(3) > div.l-col__main:first-child > section.c-nextclick:last-child
+
+! --- CMLL ---
+cmll.com##div.grid-container.grid-container--no-padding:nth-child(6)
+cmll.com##div.grid-container.full:nth-child(5)
+cmll.com##section.cartelera .grid-container--no-padding > .grid-x.align-justify:first-child
+
+! --- CO-OP ---
+coop.co.uk###offers-content > aside.coop-c-app-download
+
+! --- EBAY ---
+ebay.co.uk##[data-view*="views"] > div:has-text("Inspired by your recent views")
+ebay.co.uk###mainContent .isRootLayout .defaultGap
+
+! --- EE ---
+ee.co.uk###fef-footer
+ee.co.uk##.lxp-Clarity
+ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
+ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
+ee.co.uk##.utility-bar
+ee.co.uk##.lc-SurfaceEE--fogBackground
+ee.co.uk###nbaSalesCarousel-undefined
+ee.co.uk###nbaBrandCarousel-undefined
+ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
+
+! --- GOOGLE & SERVICES ---
+google.com###gb-main > header:nth-child(2) > div:nth-child(4) > a.j4hoVe
+google.com###footer
+google.com###gb-main > header:nth-child(2) > div:nth-child(3)
+google.com###gb-main > header:nth-child(2) > div:first-child
+google.com###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
+google.com##.MV3Tnb
+google.com##.nDcEnd
+google.com##div.fbar
+google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
+google.com###SBmmZd
+google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2) > div.IHjTsb.zsYMMe.TUOsUe:last-child > span > div.rAChLe > iframe.qePvpc
+google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2)
+gemini.google.com##hallucination-disclaimer
+notebooklm.google.com##.notebook-header-buttons-container.second-row-buttons
+search.app.goo.gl
+spotify.com###mh-footer
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk c-wiz:last-child
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .RSjvib .MrWjeb .poGHk .SHMIQd:nth-child(5) .oUj9s:nth-child(4) .U1Qaj .JgkFac:last-child
+photos.google.com##.iK0UKe .fXq1Rc .ELfUzc .SmZ4Wd .QtDoYb .FGHAHc:nth-child(2) .R8Z2bc .MX1n4c:last-child .J3TAe span:nth-child(2) .VfPpkd-Bz112c-LgbsSe:first-child
+
+! --- HOTUKDEALS ---
+hotukdeals.com###mobile-menu
+
+! --- IMGUR ---
+imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div:nth-child(7) > div.BottomRecirc
+
+! --- MYLONDON ---
+mylondon.news###comments-section
+mylondon.news##.related-column
+mylondon.news##.half-circle-right
+
+! --- NECTAR ---
+nectar.com###newNectarPricesV2
+
+! --- NEXTDNS ---
+my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
+my.nextdns.io##.px-3, .text-center
+
+! --- PERPLEXITY ---
 perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
-www.reddit.com##[src*="/listing-below"]:remove()
+
+! --- REDDIT ---
+reddit.com##shreddit-feed-page-loading
+reddit.com##community-highlight-carousel
+reddit.com###subgrid-container > div.masthead:first-child > section:last-child > div.flex-1 > div.items-center:last-child
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
 reddit.com###login-button
@@ -1123,51 +1183,19 @@ reddit.com##header
 reddit.com##shreddit-app > alert-controller
 reddit.com##div[id^="partial-more-posts-"]
 reddit.com###answers-suggested-queries-m3
-m.reddit.com##div:has-text(nxt)
-www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
 reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
 reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
 reddit.com###expand-user-drawer-button
 reddit.com##shreddit-app[pagetype="home"] #subgrid-container
-google.com###footer
-google.com###gb-main > header:nth-child(2) > div:nth-child(3)
-google.com###gb-main > header:nth-child(2) > div:first-child
-google.com###tsf > div:first-child > div.A7Yvie.Epl37:first-child > div.zGVn2e:nth-child(3) > div.dRYYxd:last-child > div.RcQUac:last-child
-google.com##.MV3Tnb
-google.com##.nDcEnd
-google.com##div.fbar
-google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
-google.com###SBmmZd
-google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2) > div.IHjTsb.zsYMMe.TUOsUe:last-child > span > div.rAChLe > iframe.qePvpc
-google.com###rso > div.MjjYud:first-child > block-component:first-child > div.g.kno-result.Ww4FFb.vt6azd.wF4fFd.g-blk > div.dG2XIf.EyBRub.OJXvsb > div:first-child > div > div.xpdopen.rYczAc > div.ifM9O:first-child > div:first-child > div > div.XbtRGb.qxsd.yp1CPe.NV5pMe.yF5Gqd.wDYxhc > div.fb7Hbe > g-lightbox:nth-child(2) > div > div.d1e3vf.VDgVie.IXXmg.IjAyyc:nth-child(2)
-my.nextdns.io###root > div.mt-4:last-child > div.container > div.mb-3.row:nth-child(2) > div.col
-my.nextdns.io##.px-3, .text-center
-nectar.com###newNectarPricesV2
+m.reddit.com##div:has-text(nxt)
+www.reddit.com##[src*="/listing-below"]:remove()
+www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
+
+! --- VIRGIN MEDIA ---
+virginmedia.com###hero-banner
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
+virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
+virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > div.theme-provider__application:last-child > div.app > main > vm-account-settings-shell.ng-star-inserted:last-child > main.main:nth-child(2) > vm-challenger-online-security.ng-star-inserted:last-child > div.ng-star-inserted > div.vm-container.account-security-main > div.vm-row.content:last-child
+
+! --- YOURHEIGHTS ---
 yourheights.com###newsletter
-amazon.co.uk###rhf
-amazon.co.uk###nav-logo
-amazon.co.uk###nav-progressive-greeting
-amazon.co.uk###nav-subnav-container
-amazon.co.uk###nav-gwbar
-amazon.co.uk###squished-desktop-row
-amazon.co.uk###nav-orders
-amazon.co.uk###nav-global-location-data-modal-action
-amazon.co.uk###buyNow_feature_div
-amazon.co.uk###a-page > footer.nav-mobile
-amazon.*###search h2 span:has-text(Echo):upward(div.s-result-item)
-amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Echo):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
-amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
-amazon.*###search h2 span:has-text(Amazon Fire):upward(div.s-result-item)
-amazon.co.uk###CardInstanceQAO7aZCFheooW_eb3S4KoQ
-ee.co.uk###fef-footer
-ee.co.uk##.lxp-Clarity
-ee.co.uk###fef-header > div.lc.lc-ee > div.utility-bar:nth-child(2)
-ee.co.uk##.Flex__FlexContainer-sc-1o562yy-0 > .lc-SurfaceEE--whiteBackground
-ee.co.uk##.utility-bar
-ee.co.uk##.lc-SurfaceEE--fogBackground
-ee.co.uk###nbaSalesCarousel-undefined
-ee.co.uk###nbaBrandCarousel-undefined
-ee.co.uk##.Shopstyles__Container-sc-1k5vau6-0.jSArVo:last-child
-bt.com###aem-global-footer
-youtube.com###teaser-carousel
-search.app.goo.gl
