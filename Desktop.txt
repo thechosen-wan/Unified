@@ -294,12 +294,14 @@ yourheights.com###newsletter
 !Asoftmurmur
 asoftmurmur.com##nav
 asoftmurmur.com##.Title
+asoftmurmur.com###App > header
 
 !Vivaldi
 vivaldi.com###menucontent > ul.topmenu.clicky-menu:nth-child(3) > li:not(:nth-child(4))
 vivaldi.com##body.home #main
 vivaldi.com##body.home #betterweb
 vivaldi.com###topdl
+vivaldi.com###after-article
 
 !11 Forum
 elevenforum.com##.p-body-sidebar
