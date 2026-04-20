@@ -294,7 +294,6 @@ yourheights.com###newsletter
 !Asoftmurmur
 asoftmurmur.com##nav
 asoftmurmur.com##.Title
-||asoftmurmur.com/assets/bg-high-res.jpg$image
 
 !Vivaldi
 vivaldi.com###menucontent > ul.topmenu.clicky-menu:nth-child(3) > li:not(:nth-child(4))
