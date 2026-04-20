@@ -1054,12 +1054,6 @@ m.youtube.com##ytm-compact-radio-renderer:has-text(/Londonist Ltd|Jago Hazzard/)
 m.youtube.com##ytm-compact-radio-renderer:has-text(/penguinz0|MrMobile/)
 
 ! ========================================
-! MOBILE YOUTUBE - MISC
-! ========================================
-m.youtube.com##ytm-video-with-context-renderer:has-text(/Goldbridge|AGT|Abbi|Matisse|Linux/)
-m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-section"] ytm-comment-thread-renderer:nth-of-type(n+4)
-
-! ========================================
 ! OTHER SITES
 ! ========================================
 google.com###gb-main > header:nth-child(2) > div:nth-child(4) > a.j4hoVe
