@@ -179,26 +179,7 @@ m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-rend
 m.youtube.com##button[aria-label="Share"]
 m.youtube.com##.related-items-container
 m.youtube.com##.mobile-topbar-header-sign-in-button
-! 🚫🚫🚫🚫
-x.com
-twitter.com
-tumblr.com
-thinkbroadband.com
-theverge.com
-duckduckgo.com
-streetguide.co.uk
-potsaglu.net
-one.network
-macrumors.com
-ispreview.co.uk
-instagram.com
-ianvisits.co.uk
-disqus.com
-coinbase.com
-cagematch.net
-bidb.uk
-pak-mcqs.net
-technicalgaurav.com
+
 !YT Channel Page 
 !YT Home Channels 🫂🫂🫂🫂🫂🫂
 m.youtube.com##ytm-rich-item-renderer:has-text(//23 Review |Tuesday Night Titans/)
