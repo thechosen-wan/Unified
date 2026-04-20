@@ -157,3 +157,10 @@ macrumors.com##.brand--35M9QOgB
 macrumors.com##article[class*="article"] div[class*="footer"]
 macrumors.com##[id="comments"] [class*="buttoncontainer"]
 macrumors.com##[class*="sidebar"]
+
+!Ianvisits
+ianvisits.co.uk###secondary
+ianvisits.co.uk###respond
+ianvisits.co.uk##.comments-area
+ianvisits.co.uk##.comment-respond
+ianvisits.co.uk###main-blog > div.entry-column > article.post.type-post.status-publish.format-standard.hentry
