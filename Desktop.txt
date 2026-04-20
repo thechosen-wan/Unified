@@ -178,6 +178,7 @@ amazon.*##div.deals-react-app div[class^=DealContent]:has-text(Amazon Fire):upwa
 ! ========================================
 reddit.com###popular-communities-list
 reddit.com###navbar-menu-button
+reddit.com##.legal-links
 reddit.com###login-button
 reddit.com###get-app
 reddit.com###reddit-logo
