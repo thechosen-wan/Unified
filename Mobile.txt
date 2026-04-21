@@ -1162,40 +1162,45 @@ my.nextdns.io##.px-3, .text-center
 ! --- PERPLEXITY ---
 perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.top-0.z-10.duration-150.md\:mb-0.md\:rounded-t-xl.md\:bg-transparent.max-\[970px\]\:md\:bg-base:first-child > div.gap-x-md.px-md.py-sm.flex.h-full.items-center.justify-between > div.gap-x-sm.pointer-events-auto.relative.flex.items-center:last-child > div.animate-in.fade-in.duration-300:last-child
 
-! --- REDDIT ---
-reddit.com##shreddit-feed-page-loading
-reddit.com##community-highlight-carousel
-reddit.com###subgrid-container > div.masthead:first-child > section:last-child > div.flex-1 > div.items-center:last-child
-reddit.com###popular-communities-list
+!=== REDDIT
+! --- HEADER & NAVIGATION ---
+reddit.com##header
+reddit.com###reddit-logo
 reddit.com###navbar-menu-button
 reddit.com###login-button
+reddit.com###expand-user-drawer-button
 reddit.com###get-app
-reddit.com###reddit-logo
-reddit.com###pdp-right-rail-topics
+reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
+reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
+
+! --- SIDEBARS & LAYOUT ---
 reddit.com###left-sidebar-container
 reddit.com###right-sidebar-container
-reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
-reddit.com###reddit-trending-searches-partial-container
-reddit.com###main-content > shreddit-feed.nd\:visible:last-child
-reddit.com###partial-more-posts-dDNfMTkyam0zOA
-reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
-reddit.com##header
-reddit.com##shreddit-app > alert-controller
-reddit.com##div[id^="partial-more-posts-"]
-reddit.com###answers-suggested-queries-m3
-reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
-reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
-reddit.com###expand-user-drawer-button
+reddit.com###pdp-right-rail-topics
 reddit.com##shreddit-app[pagetype="home"] #subgrid-container
-m.reddit.com##div:has-text(nxt)
+reddit.com###subgrid-container > div.masthead:first-child > section:last-child > div.flex-1 > div.items-center:last-child
+
+! --- INFINITE SCROLL & FEED ---
+reddit.com###main-content > shreddit-feed.nd\:visible:last-child
+reddit.com##shreddit-feed-page-loading
+reddit.com##div[id^="partial-more-posts-"]
+reddit.com###partial-more-posts-dDNfMTkyam0zOA
 www.reddit.com##[src*="/listing-below"]:remove()
-www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
+
+! --- DISCOVERY & RECOMMENDATIONS ---
+reddit.com##community-highlight-carousel
+reddit.com###popular-communities-list
+reddit.com###reddit-trending-searches-partial-container
+reddit.com###answers-suggested-queries-m3
+
+! --- UI TWEAKS & MOBILE ---
+reddit.com##shreddit-app > alert-controller
+
+!====
 
 ! --- VIRGIN MEDIA ---
 virginmedia.com###hero-banner
 virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-custom-media-list.ng-star-inserted:nth-child(10)
 virginmedia.com##vm-custom-root:nth-child(2) > main.main:last-child > vm-portal-provider.theme-provider > div:last-child > vm-homepage-1.ng-star-inserted:last-child > vm-shell > vm-promo-banner.ng-star-inserted:nth-child(9)
-virginmedia.com##vm-root:nth-child(3) > vo-vm-theme-provider.theme-provider > div.theme-provider__application:last-child > div.app > main > vm-account-settings-shell.ng-star-inserted:last-child > main.main:nth-child(2) > vm-challenger-online-security.ng-star-inserted:last-child > div.ng-star-inserted > div.vm-container.account-security-main > div.vm-row.content:last-child
-
 ! --- YOURHEIGHTS ---
 yourheights.com###newsletter
