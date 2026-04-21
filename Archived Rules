@@ -678,6 +678,12 @@ m.youtube.com##ytm-item-section-renderer[section-identifier="comment-item-sectio
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###main-content > div.flex.justify-between.flex-wrap.mb-xs.xs\:hidden.mt-xs:nth-child(2)
 www.reddit.com##main:has(> div > shreddit-async-loader:first-child shreddit-sort-dropdown [href*="/best/"])
+! --- INFINITE SCROLL & FEED ---
+reddit.com###main-content > shreddit-feed.nd\:visible:last-child
+reddit.com##shreddit-feed-page-loading
+reddit.com##div[id^="partial-more-posts-"]
+reddit.com###partial-more-posts-dDNfMTkyam0zOA
+www.reddit.com##[src*="/listing-below"]:remove()
 
 ! ========================================
 ! MOBILE YOUTUBE - UI
