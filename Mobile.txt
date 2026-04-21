@@ -6,6 +6,7 @@ m.youtube.com##ytm-section-list-renderer:has-text(For You)
 m.youtube.com##.related-items-container
 m.youtube.com##ytm-standalone-collection-badge-renderer
 m.youtube.com##button.slim-video-information-show-more
+m.youtube.com##ytm-watch ytm-item-section-renderer
 
 ! --- UI CLEANUP (BUTTONS & NAV) ---
 m.youtube.com##.mobile-topbar-header-sign-in-button
