@@ -7,7 +7,6 @@ m.youtube.com##.related-items-container
 
 ! --- UI CLEANUP (BUTTONS & NAV) ---
 m.youtube.com##.mobile-topbar-header-sign-in-button
-m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
 
 ! --- ADS & CAROUSELS ---
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
