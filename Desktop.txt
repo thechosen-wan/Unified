@@ -187,6 +187,7 @@ reddit.com###advertise-button
 reddit.com###left-sidebar-container
 reddit.com##shreddit-ad-post
 reddit.com##shreddit-feed > shreddit-ad-post
+reddit.com##span.text-neutral-content-weak.flex.gap-\[var\(--rem4\)\]
 
 ! ========================================
 ! MSN
