@@ -23,7 +23,6 @@ youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The
 ! ========================================
 ! ========================================
 
-
 ! YOUTUBE - UI
 ! ========================================
 youtube.com###voice-search-button
@@ -187,7 +186,7 @@ reddit.com##shreddit-gallery-carousel.block.h-\[210px\]
 reddit.com###advertise-button
 reddit.com###left-sidebar-container
 reddit.com##shreddit-ad-post
-reddit.com##shreddit-feed > shreddit-ad-p
+reddit.com##shreddit-feed > shreddit-ad-post
 
 ! ========================================
 ! MSN
