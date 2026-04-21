@@ -20,7 +20,6 @@ youtube.com##ytd-search ytd-video-renderer:has(#video-title[title]:has-text(/\bw
 ! ========================================
 youtube.com###dismissible.ytd-video-renderer:has(#byline-container:has-text(/The Apple Circle|Matt Talks Tech/))
 
-
 ! ========================================
 ! ========================================
 
