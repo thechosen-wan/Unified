@@ -152,7 +152,7 @@ reddit.com###right-sidebar-container
 reddit.com###pdp-right-rail-topics
 reddit.com##shreddit-app[pagetype="home"] #subgrid-container
 reddit.com###subgrid-container > div.masthead:first-child > section:last-child > div.flex-1 > div.items-center:last-child
-
+example.com##span.text-neutral-content-weak.flex.gap-\[var\(--rem4\)\]
 
 ! --- DISCOVERY & RECOMMENDATIONS ---
 reddit.com##community-highlight-carousel
