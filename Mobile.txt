@@ -141,6 +141,7 @@ reddit.com###expand-user-drawer-button
 reddit.com###get-app
 reddit.com##nav > div.flex.items-center.gap-x-xs:first-child
 reddit.com##header.v2 nav > div.flex.items-center.flex-1.justify-end > activate-feature:last-child
+reddit.com##shreddit-ad-post
 
 ! --- SIDEBARS & LAYOUT ---
 reddit.com###left-sidebar-container
