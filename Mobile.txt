@@ -134,6 +134,7 @@ perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.to
 !=== REDDIT
 ! --- HEADER & NAVIGATION ---
 reddit.com##header
+reddit.com##shreddit-dynamic-ad-link
 reddit.com###reddit-logo
 reddit.com###navbar-menu-button
 reddit.com###login-button
