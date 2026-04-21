@@ -62,9 +62,7 @@ perplexity.ai##.pointer-events-auto.relative.flex.min-w-0.items-center.justify-e
 amazon.co.uk###gw-layout
 amazon.co.uk###gw-desktop-herotator
 amazon.co.uk###navFooter
-ebay.co.uk##:matches-path(/^/$/) #mainContent .isRootLayout
-ebay.co.uk##.gh-nav-link
-ebay.com###mainContent
+
 
 ! HotUKDeals: UI & Word Filters
 hotukdeals.com##.nav-search--navigation
