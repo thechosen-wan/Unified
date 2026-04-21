@@ -1,33 +1,17 @@
 ! ========================================
 ! MOBILE YOUTUBE - UI
 ! ========================================
-m.youtube.com###app .ytCarouselTitleViewModelSubtitle
-m.youtube.com##.ytCarouselTitleViewModelSubtitle
-m.youtube.com##ytm-standalone-collection-badge-renderer
-m.youtube.com##ytm-comment-replies-renderer ytm-continuation-item-renderer
-m.youtube.com##.YtmCommentRendererDetails > .YtmCommentRendererIcons:nth-child(3)
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-child(3)
-m.youtube.com##ytm-tab-renderer ytm-section-list-renderer > lazy-list > ytm-item-section-renderer:nth-child(3)
-m.youtube.com##.rich-grid-sticky-header
-m.youtube.com##ytm-comments-header-renderer
-m.youtube.com###ytm-reel-shelf-renderer
-m.youtube.com###app > .page-container > ytm-watch:last-child > .watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer:last-child > ytm-item-section-renderer:last-child
-m.youtube.com##player-autonav-toggle.ytwPlayerAutonavToggleHost
+! --- YOUTUBE MOBILE: MINIMALIST PLAYER ---
 m.youtube.com##ytm-section-list-renderer:has-text(For You)
-m.youtube.com##ytm-comments-entry-point-teaser-renderer:last-child
-m.youtube.com##span.comments-entry-point-header-count:last-child
-m.youtube.com##button-view-model.slim_video_action_bar_renderer_button.yt-spec-button-view-model:last-child
-m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
-m.youtube.com##yt-list-item-view-model.yt-list-item-view-model-wiz:last-child
-m.youtube.com###app h2.engagement-panel-section-list-header-context.typography-body-2a:last-child
-m.youtube.com###app ytm-subscribe-button-renderer
-m.youtube.com##.slim-owner-subscribe-button
-m.youtube.com##ytm-watch.ambient-topbar button-view-model.slim_video_action_bar_renderer_button:last-child
-m.youtube.com##button.slim-video-information-show-more
-m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
-m.youtube.com##button[aria-label="Share"]
 m.youtube.com##.related-items-container
+
+! --- UI CLEANUP (BUTTONS & NAV) ---
 m.youtube.com##.mobile-topbar-header-sign-in-button
+m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
+
+! --- ADS & CAROUSELS ---
+m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
+m.youtube.com###app .ytCarouselTitleViewModelSubtitle
 
 ! ========================================
 ! MOBILE YOUTUBE - HOME KEYWORD FILTER
