@@ -3,7 +3,8 @@
 ! ========================================
 ! --- YOUTUBE MOBILE: MINIMALIST PLAYER ---
 m.youtube.com##ytm-section-list-renderer:has-text(For You)
-m.youtube.com##.related-items-container
+m.youtube.com##ytm-single-column-watch-next-results-renderer
+m.youtube.com##related-items-container
 m.youtube.com##ytm-standalone-collection-badge-renderer
 m.youtube.com##button.slim-video-information-show-more
 
