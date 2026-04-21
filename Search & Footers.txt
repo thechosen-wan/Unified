@@ -83,6 +83,7 @@ hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 
 ! Reddit
 reddit.com##shreddit-feed in-feed-community-recommendations
+reddit.com###reddit-trending-searches-partial-container
 reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF|WCW|ECW/i))
 
 ! YouTube
@@ -156,7 +157,6 @@ ee.co.uk##.utility-bar
 ee.co.uk##.primary-elements-links a:last-child
 ee.co.uk##div.lc-Container:nth-child(3)
 ee.co.uk##.lc-SurfaceEE--fogBackground .sc-ibQAlb.iwCcGD:first-child
-
 
 !Macrumors
 macrumors.com###sidebar-content
