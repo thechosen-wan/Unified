@@ -10,6 +10,8 @@ m.youtube.com##button.slim-video-information-show-more
 ! --- UI CLEANUP (BUTTONS & NAV) ---
 m.youtube.com##.mobile-topbar-header-sign-in-button
 m.youtube.com###app > ytm-pivot-bar-renderer:nth-child(2) > ytm-pivot-bar-item-renderer:nth-child(2)
+m.youtube.com##ytm-standalone-collection-badge-renderer
+m.youtube.com##.slim-video-information-show-more
 
 ! --- ADS & CAROUSELS ---
 m.youtube.com###app ytm-rich-section-renderer:has(ytm-promoted-sparkles-web-renderer)
@@ -156,7 +158,11 @@ reddit.com###answers-suggested-queries-m3
 
 ! --- UI TWEAKS & MOBILE ---
 reddit.com##shreddit-app > alert-controller
+reddit.com###i18n-pdp-rail-rail-content ul
 
+reddit.com##comment-composer-host
+
+reddit.com###answers-nav-button svg
 !====
 
 ! --- VIRGIN MEDIA ---
