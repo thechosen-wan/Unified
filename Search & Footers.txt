@@ -134,6 +134,7 @@ advantage.icas.com##.d2l-footer
 
 ! --- FOOTER ---
 ##footer
+##.footer
 ###footer
 netflix.com###member-footer
 virginmedia.com##vo-footer.footer
