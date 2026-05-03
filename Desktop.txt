@@ -293,6 +293,7 @@ newsblur.com##.NB-splash-info
 ! OTHER SITES
 ! ========================================
 etoro.com###main
+my.nextdns.io##.px-3
 nectar.com###newNectarPricesV2
 yourheights.com###newsletter
 
