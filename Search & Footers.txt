@@ -7,6 +7,8 @@ google.com###gb > div.gb_M.gb_1.gb_Qf.gb_Xf:first-child
 google.*##div.L3eUgb:nth-child(3) > div.o3j99:last-child
 google.com##div.L3eUgb:nth-child(4) > div.o3j99:last-child
 google.com##div[aria-label="Search by image"]
+google.com##a.w5hRs:nth-of-type(1)
+google.com##a.w5hRs:nth-of-type(2)
 
 ! Google: Keyword Filters (Negative)
 google.*##h3:has-text(/Linux/i):nth-ancestor(4)
