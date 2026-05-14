@@ -183,6 +183,7 @@ reddit.com###navbar-menu-button
 reddit.com##.legal-links
 reddit.com###login-button
 reddit.com###get-app
+reddit.com###create-post
 reddit.com###reddit-logo
 reddit.com###reddit-trending-searches-partial-container
 reddit.com###main-content > shreddit-feed.nd\:visible:last-child
