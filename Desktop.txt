@@ -128,6 +128,7 @@ google.com###gb > div.gb_Ad.gb_Xd.gb_vd > div:first-child
 google.com###gb > div.gb_Bd.gb_Zd.gb_wd > div:first-child
 google.com###gb > div.gb_Cd.gb_0d.gb_xd > div:first-child
 google.com###gb > div.gb_zd.gb_Wd.gb_ud > div:first-child
+google.com##div.gb_Q.gb_6.gb_Vf
 google.com##div.L3eUgb:nth-child(2) > div.o3j99.c93Gbe:last-child
 www.google.com##.sLe0gf
 www.google.com##.vuVjXe
