@@ -162,10 +162,10 @@ reddit.com###answers-suggested-queries-m3
 ! --- UI TWEAKS & MOBILE ---
 reddit.com##shreddit-app > alert-controller
 reddit.com###i18n-pdp-rail-rail-content ul
-
 reddit.com##comment-composer-host
-
 reddit.com###answers-nav-button svg
+reddit.com##shreddit-post:has-text(/Danhausen/i)
+
 !====
 
 ! --- VIRGIN MEDIA ---
