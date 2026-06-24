@@ -78,11 +78,11 @@ hotukdeals.com##.nav-search--navigation
 hotukdeals.com##.test-tablink-new .circle--primary
 hotukdeals.com###sidebarContentPortal > div > div:first-child
 hotukdeals.com###content-list > section.aGrid.flex.width--all-12.space--mb-4:last-child > div.listLayout-main:nth-child(4)
-hotukdeals.com##article:has-text(/Google Pixel|Samsung Galaxy|Honor/i)
+hotukdeals.com##article:has-text(/Google Pixel|Samsung Galaxy|Honor|POCO/i)
 hotukdeals.com##article:has-text(/Xbox|PS+|Lebara|Mozillion|Hyperoptic/i)
 hotukdeals.com##article:has-text(/\[PC\]|\[PC Game\]/i)
-hotukdeals.com##article:has-text(/Smartphone|Laptop|Tablet|Android/i)
-hotukdeals.com##article:has-text(/Smart TV/i)
+hotukdeals.com##article:has-text(/Kindle|Laptop|Tablet|Android/i)
+hotukdeals.com##article:has-text(/Fire TV|Google TV|Smart TV/i)
 hotukdeals.com##article:has-text(/Nothing CMF/i)
 hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 
