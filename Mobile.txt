@@ -137,6 +137,7 @@ perplexity.ai##div.h-headerHeight.bg-base.pointer-events-none.absolute.left-0.to
 reddit.com##shreddit-dynamic-ad-link
 reddit.com###reddit-logo
 reddit.com###navbar-menu-button
+reddit.com##div.my-xs:nth-of-type(1) > shreddit-async-loader
 reddit.com###login-button
 reddit.com###expand-user-drawer-button
 reddit.com###get-app
