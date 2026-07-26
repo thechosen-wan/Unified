@@ -91,7 +91,7 @@ hotukdeals.com##article:has-text(/Google Play|MySky|Vodafone|Three/i)
 ! Reddit
 reddit.com##shreddit-feed in-feed-community-recommendations
 reddit.com###reddit-trending-searches-partial-container
-reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF|WCW|Mystery Wrestling/i))
+reddit.com##shreddit-post:has(a[slot="title"]:has-text(/WWF|WCW|Mystery Wrestling|House Show|Live Event|years ago|year ago/i))
 
 ! YouTube
 youtube.com###teaser-carousel
