@@ -40,6 +40,7 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 ! MOBILE YOUTUBE - SEARCH CHANNEL FILTER
 ! ========================================
 m.youtube.com##ytm-video-with-context-renderer:has-text(/KSI|JDfromNY206/)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/The Apple Circle|Matt Talks Tech|phone unboxed|Max Tech|GregsGadgets|iJustine|9to9trends/)
 
 ! ========================================
 ! ========================================
